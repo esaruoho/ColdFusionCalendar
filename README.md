@@ -2,6 +2,8 @@
 
 An interactive chronology of Low Energy Nuclear Reactions (LENR) and energy science — every milestone of cold fusion from antiquity to the present, navigable by month and year.
 
+**Live: https://www.lackluster.org/cf/**
+
 ## What it does
 
 - 255+ historical milestones — from Newton's *New Theory of Light and Colors* (1671) to ICCF-27 (2026)
