@@ -529,6 +529,10 @@ body {
     margin-left: 0.25rem;
     font-size: 0.85rem;
 }
+/* Fixed widths so the buttons don't reflow when the ✓ glyph is appended on copy. */
+.quote-copyall { min-width: 3.4rem; }
+#quoteCopyBtn { min-width: 2.6rem; }
+#quoteShuffleBtn { min-width: 2.6rem; }
 
 .footer-links {
     display: flex;
