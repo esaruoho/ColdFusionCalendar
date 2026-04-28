@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cold Fusion Calendar | Milestones of Energy History</title>
+    <meta name="description" content="An interactive calendar documenting the monumental milestones of Cold Fusion and energy science.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header class="main-header">
+            <div class="logo-area">
+                <span class="label">Historical Archive</span>
+                <h1>THE COLD FUSION CALENDAR</h1>
+            </div>
+            <div class="controls">
+                <button id="prevMonth" class="nav-btn" title="Previous month">&larr;</button>
+                <div class="current-period">
+                    <span id="monthDisplay">January</span>
+                    <input id="yearInput" type="number" min="-3000" max="3000" step="1" value="2013" aria-label="Year">
+                </div>
+                <button id="nextMonth" class="nav-btn" title="Next month">&rarr;</button>
+                <button id="todayBtn" class="nav-btn today-btn" title="Jump to today">Today</button>
+                <button id="copyAllBtn" class="nav-btn today-btn" title="Copy every event to clipboard for pasting into an LLM">Copy All</button>
+            </div>
+        </header>
+
+        <main class="calendar-container">
+            <div class="calendar-wrapper">
+                <div class="days-of-week">
+                    <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div>
+                </div>
+                <div id="calendarGrid" class="calendar-grid"></div>
+            </div>
+
+            <aside class="event-details" id="eventDetails"></aside>
+        </main>
+
+        <section class="quote-strip" id="quoteStrip" title="Click to draw another quote">
+            <div class="quote-label">Quote of the Day</div>
+            <div class="quote-text" id="quoteText">…</div>
+            <div class="quote-actions">
+                <button id="quoteCopyBtn" class="quote-icon" title="Copy this quote">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="4" width="9" height="10" rx="1.5"/><path d="M3 11V3a1.5 1.5 0 0 1 1.5-1.5H10"/></svg>
+                </button>
+                <button id="quoteCopyAllBtn" class="quote-icon quote-copyall" title="Copy all quotes">All</button>
+                <button id="quoteShuffleBtn" class="quote-icon" title="Draw another quote">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 4h2.5l3 4-3 4H2M14 4h-2.5l-3 4 3 4H14M11 2l3 2-3 2M11 10l3 2-3 2"/></svg>
+                </button>
+            </div>
+        </section>
+
+        <footer class="main-footer">
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="val" id="eventCount">0</span>
+                    <span class="lab">Historical Milestones</span>
+                </div>
+            </div>
+            <div class="signature">
+                An Interactive Chronology of Low Energy Nuclear Reactions
+            </div>
+            <nav class="footer-links">
+                <a href="http://coldfusionnow.org" target="_blank" rel="noopener noreferrer">coldfusionnow.org</a>
+                <a href="http://lenr-canr.org" target="_blank" rel="noopener noreferrer">lenr-canr.org</a>
+                <a href="http://lenr-forum.com" target="_blank" rel="noopener noreferrer">lenr-forum.com</a>
+                <a href="http://lenr-news.com" target="_blank" rel="noopener noreferrer">lenr-news.com</a>
+            </nav>
+        </footer>
+    </div>
+
+    <div class="bg-fx">
+        <div class="particle-container" id="particles"></div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>

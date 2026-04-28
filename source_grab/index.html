@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta name="description" content="An elegant, high-performance interactive calendar documenting the monumental milestones of Cold Fusion and energy science, featuring an expansive timeline from antiquity to the modern era.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="The Fusion Calendar | Milestones of Energy History">
+<meta property="og:description" content="An elegant, high-performance interactive calendar documenting the monumental milestones of Cold Fusion and energy science, featuring an expansive timeline from antiquity to the modern era.">
+<meta property="og:url" content="https://the-fusion-calendar-b9d27.raystudio.app/index.html">
+<meta property="og:image" content="https://884bf407-fed2-4e91-a20d-518537f866b0.raystudio.app/v/1/preview.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Fusion Calendar | Milestones of Energy History">
+<meta name="twitter:description" content="An elegant, high-performance interactive calendar documenting the monumental milestones of Cold Fusion and energy science, featuring an expansive timeline from antiquity to the modern era.">
+<meta name="twitter:image" content="https://884bf407-fed2-4e91-a20d-518537f866b0.raystudio.app/v/1/preview.jpg">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Fusion Calendar | Milestones of Energy History</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header class="main-header">
+            <div class="logo-area">
+                <span class="label">Historical Archive</span>
+                <h1>THE FUSION CALENDAR</h1>
+            </div>
+            <div class="controls">
+                <button id="prevMonth" class="nav-btn">&larr;</button>
+                <div class="current-period">
+                    <span id="monthDisplay">January</span>
+                    <span id="yearDisplay">2013</span>
+                </div>
+                <button id="nextMonth" class="nav-btn">&rarr;</button>
+            </div>
+        </header>
+
+        <main class="calendar-container">
+            <div class="calendar-wrapper">
+                <div class="days-of-week">
+                    <div>Sun</div><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div>
+                </div>
+                <div id="calendarGrid" class="calendar-grid"></div>
+            </div>
+
+            <aside class="event-details" id="eventDetails">
+                <div class="empty-state">
+                    <div class="fusion-ring"></div>
+                    <p>Select a highlighted day to unveil the history of cold fusion.</p>
+                </div>
+            </aside>
+        </main>
+
+        <footer class="main-footer">
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="val" id="eventCount">0</span>
+                    <span class="lab">Historical Milestones</span>
+                </div>
+            </div>
+            <div class="signature">
+                An Interactive Chronology of Low Energy Nuclear Reactions
+            </div>
+        </footer>
+    </div>
+
+    <div class="bg-fx">
+        <div class="particle-container" id="particles"></div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+<script>document.querySelectorAll('#ray-watermark a').forEach(function(a){a.addEventListener('click',function(){try{var d=JSON.stringify([{event:'WatermarkClicked',properties:{token:'3b751cc4779407b02ade05b1a7e4d13c',distinct_id:'anonymous',Source:'Published','$insert_id':crypto.randomUUID?crypto.randomUUID():Math.random().toString(36),time:Date.now()}}]);new Image().src='https://api-eu.mixpanel.com/track?ip=1&data='+btoa(d)}catch(e){}})})</script>
+
+<div id="ray-watermark" style="position:fixed;bottom:12px;right:12px;z-index:2147483647;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+<a href="https://raybrowser.com/?i=85156a5d-014f-46a3-9671-fb9f121b02a4&utm_campaign=watermark&utm_medium=published_app" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;padding:8px 12px 8px 8px;background:#fff;border-radius:6px;color:rgba(0,0,0,0.65);text-decoration:none;font-size:13px;line-height:16px;box-shadow:0 1px 2px rgba(0,0,0,0.3)">
+<svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><rect width="18" height="18" rx="4" fill="#FF5C35"/><svg x="3.87" y="3.87" width="10.27" height="10.27" viewBox="0 0 32 32"><path d="M7 27V11.908c0-1.842.694-3.58 1.948-4.884C10.203 5.721 11.871 5 13.65 5H25v5.627H13.65c-.329 0-.636.131-.869.373a1.3 1.3 0 0 0-.36.902v15.093H7z" fill="#fff"/></svg></svg>
+Made in Ray
+</a>
+</div>
+<script>document.querySelectorAll('#ray-watermark a').forEach(function(a){a.addEventListener('click',function(){try{var d=JSON.stringify([{event:'WatermarkClicked',properties:{token:'3b751cc4779407b02ade05b1a7e4d13c',distinct_id:'anonymous',Source:'Published','$insert_id':crypto.randomUUID?crypto.randomUUID():Math.random().toString(36),time:Date.now()}}]);new Image().src='https://api-eu.mixpanel.com/track?ip=1&data='+btoa(d)}catch(e){}})})</script>
+</body>
+</html>
