@@ -98,6 +98,30 @@ Append the exact stub blurb to `datasets/drops.txt`.
 
 Add a new entry to `additions.json` with the **same `name` and matching first 50 normalized characters of `blurb`** — the dedup key collides and `additions.json` always wins.
 
+## Deploying your own copy
+
+1. Copy `.env.example` to `.env` and edit it:
+
+   ```bash
+   cp .env.example .env
+   $EDITOR .env
+   ```
+
+   Set `DEPLOY_USER`, `DEPLOY_HOST`, `DEPLOY_PATH` and (optionally) `DEPLOY_URL`. SSH key access to the host is required — `ssh "$DEPLOY_USER@$DEPLOY_HOST"` should already work non-interactively.
+
+2. Run the deployer:
+
+   ```bash
+   ./deploy.sh
+   ```
+
+   It will:
+   - Rebuild `data.json` from `data.json.original` + xlsx + `additions.json` + `drops.txt`
+   - Regenerate `assets/og-cf-calendar.png` with the current event count and latest ICCF
+   - rsync the static site to your server (excluding sources, build scripts, `.git`, README, `.env`)
+
+`.env` is gitignored — your credentials and server paths stay private. `.env.example` is the public template forks should copy from.
+
 ## Acknowledgements
 
 - Original interactive calendar template: [Ray Studio](http://raybrowser.com/) running on Ray Browser
