@@ -100,7 +100,7 @@ Add a new entry to `additions.json` with the **same `name` and matching first 50
 
 ## Acknowledgements
 
-- Original interactive calendar template: Ray Studio
+- Original interactive calendar template: [Ray Studio](http://raybrowser.com/) running on Ray Browser
 - 2019 spreadsheet of milestones: cold fusion archival community
 - Updated content and improvements: Esa Ruoho, with Ruby Carat (Cold Fusion Now!) feedback driving the year-jump and "today" features
 
