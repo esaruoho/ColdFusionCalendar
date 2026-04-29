@@ -48,6 +48,21 @@ def clean_blurb(s):
     s = re.sub(r',(?=[A-Za-z])', ', ', s)
     s = re.sub(r' {2,}', ' ', s).strip()
     s = apply_typos(s)
+    # Strip redundant trailing year (and "(YYYY)", "*YYYY", "Mon DD, YYYY" tails) —
+    # the year is already in the year field and shown in the UI date chip.
+    # Negative lookbehind avoids matching digits inside URLs / longer numbers.
+    for _ in range(4):
+        new = re.sub(
+            r'(?<![0-9A-Za-z/])\s*\.?\s*\(?(?:[A-Z][a-z]+\s+)?(?:\d{1,2},\s*)?\*?(?:1[789]|20)\d{2}\)?\s*\.?\s*$',
+            '',
+            s,
+        )
+        if new == s: break
+        s = new
+    s = s.rstrip(' .')
+    # Don't append a trailing period to entries ending in a URL or punctuation
+    if s and not s.endswith(('!', '?', '…', '"', '”', ')', '/')) and not re.search(r'https?://\S+$', s):
+        s += '.'
     if s in BLURB_FIXES: return BLURB_FIXES[s]
     return s
 
