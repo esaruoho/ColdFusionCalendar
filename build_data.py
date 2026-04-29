@@ -159,9 +159,10 @@ if os.path.exists(_drops_path):
             _line = _line.rstrip('\n')
             if _line: DROP_BLURB_EXACT.add(_line)
 def is_dropped(r):
-    b = r.get('blurb', '')
-    if b in DROP_BLURB_EXACT: return True
-    return any(b.startswith(p) for p in DROP_BLURB_PREFIXES)
+    raw = r.get('blurb', '')
+    cleaned = clean_blurb(raw)
+    if raw in DROP_BLURB_EXACT or cleaned in DROP_BLURB_EXACT: return True
+    return any(raw.startswith(p) or cleaned.startswith(p) for p in DROP_BLURB_PREFIXES)
 original = [r for r in original if not is_dropped(r)]
 records = [r for r in records if not is_dropped(r)]
 
