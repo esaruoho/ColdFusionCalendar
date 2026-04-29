@@ -1,5 +1,14 @@
 [
   {
+    "month": 5,
+    "date": 27,
+    "year": 2019,
+    "name": "Google",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "“Revisiting the cold case of cold fusion” published in Nature by Berlinguette, Chiang, Munday, Schenkel, Fork, Koningstein, and Trevithick — Google's four-year, $10M multi-institution program (UBC, MIT, LBNL) revisits palladium hydride excess heat and develops new measurement techniques for the field. Nature 569: 581–588. https://doi.org/10.1038/s41586-019-1256-6"
+  },
+  {
     "month": 11,
     "date": 20,
     "year": 1998,
