@@ -34,6 +34,9 @@ python3 build_data.py
 echo "Regenerating og:image with current event count..."
 python3 build_og.py
 
+echo "Generating iCal feed..."
+python3 build_ical.py
+
 echo "Syncing to ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}"
 rsync -avz --delete \
     --exclude='.git/' \
@@ -43,8 +46,11 @@ rsync -avz --delete \
     --exclude='source_grab/' \
     --exclude='build_data.py' \
     --exclude='build_og.py' \
+    --exclude='build_ical.py' \
     --exclude='deploy.sh' \
     --exclude='README.md' \
+    --exclude='PLAN.md' \
+    --exclude='TODO.md' \
     --exclude='.DS_Store' \
     --exclude='__pycache__/' \
     "${LOCAL_DIR}/" \

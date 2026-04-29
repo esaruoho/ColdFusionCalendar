@@ -38,16 +38,20 @@
                 <h1>THE COLD FUSION CALENDAR</h1>
             </div>
             <div class="controls">
-                <button id="prevMonth" class="nav-btn" title="Previous month">&larr;</button>
+                <button id="prevMonth" class="nav-btn" title="Previous month (←)">&larr;</button>
                 <div class="current-period">
                     <span id="monthDisplay">January</span>
                     <input id="yearInput" type="number" min="-3000" max="3000" step="1" value="2013" aria-label="Year">
                 </div>
-                <button id="nextMonth" class="nav-btn" title="Next month">&rarr;</button>
-                <button id="todayBtn" class="nav-btn today-btn" title="Jump to today">Today</button>
+                <button id="nextMonth" class="nav-btn" title="Next month (→)">&rarr;</button>
+                <button id="todayBtn" class="nav-btn today-btn" title="Jump to today (T)">Today</button>
+                <button id="viewToggleBtn" class="nav-btn today-btn" title="Toggle year-grid view (Y)">Year</button>
+                <input id="searchBox" type="search" placeholder="Search… (/)" aria-label="Search events">
                 <button id="copyAllBtn" class="nav-btn today-btn" title="Copy every event to clipboard for pasting into an LLM">Copy All</button>
             </div>
         </header>
+
+        <div id="filterChips" class="filter-chips"></div>
 
         <main class="calendar-container">
             <div class="calendar-wrapper">
@@ -57,7 +61,9 @@
                 <div id="calendarGrid" class="calendar-grid"></div>
             </div>
 
-            <aside class="event-details" id="eventDetails"></aside>
+            <aside class="event-details" id="eventDetails">
+                <div id="panelHandle" class="panel-handle" title="Drag to close"></div>
+            </aside>
         </main>
 
         <section class="quote-strip" id="quoteStrip" title="Click to draw another quote">
@@ -90,6 +96,7 @@
                 <a href="http://lenr-forum.com" target="_blank" rel="noopener noreferrer">lenr-forum.com</a>
                 <a href="http://lenr-news.com" target="_blank" rel="noopener noreferrer">lenr-news.com</a>
                 <a href="https://github.com/esaruoho/ColdFusionCalendar" target="_blank" rel="noopener noreferrer">source on GitHub</a>
+                <a href="calendar.ics" title="Subscribe in your calendar app — yearly recurring anniversaries">📅 iCal</a>
             </nav>
         </footer>
     </div>
