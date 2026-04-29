@@ -214,28 +214,7 @@ Specific events to add:
 
 If 3.4's nginx static serving turns out limited, add a tiny `og.html` that uses `<meta http-equiv="refresh">` to redirect after setting the OG meta dynamically. Document the limitation.
 
-### 3.6 — `.github/ISSUE_TEMPLATE/new-event.md`  *(~15 min)*
-
-**Why:** Make community contributions easy without fork-and-PR knowledge.
-
-**Touch:**
-- `.github/ISSUE_TEMPLATE/new-event.md` — template with the JSON schema:
-  ```
-  Month: [1-12]
-  Date: [1-31]
-  Year: [-50000..3000]
-  Name: [short label, max 40 chars]
-  Taxonomy: [Science | Conference | Publication | Patent | Movie | Podcast | ...]
-  Country: [...]
-  Blurb: [the description, with URLs as plain text — they auto-link]
-  Source: [where this comes from]
-  ```
-- `.github/ISSUE_TEMPLATE/correction.md` — for fixing existing entries.
-- `.github/ISSUE_TEMPLATE/missing-link.md` — for adding URLs to existing entries.
-
-**Done when:** GitHub issue UI shows three structured templates.
-
-### 3.7 — Email digest  *(~3 h, optional — needs server)*
+### 3.6 — Email digest  *(~3 h, optional — needs server)*
 
 **Why:** Weekly upcoming anniversaries email — low-frequency, high-signal subscriber loop.
 
@@ -272,11 +251,11 @@ Track major content drops + UX changes per deploy.
 
 ## Sequencing recommendation
 
-If only 2 hours: **1.1 (search) + 1.2 (permalinks) + 3.6 (issue templates)**.
+If only 2 hours: **1.1 (search) + 1.2 (permalinks) + 2.6 (Too Close URL)**.
 
 If 1 day: Phase 1 entirely + 2.1 (verified patents) + 3.1 (iCal).
 
-If 3 days: All Phases 1-3 except 3.4/3.5 (per-date OG) and 3.7 (email).
+If 3 days: All Phases 1-3 except 3.4/3.5 (per-date OG) and 3.6 (email digest).
 
 Each phase commits separately; each item is self-contained. A new contributor can pick any item from this list and ship it without coordinating with anything else.
 
