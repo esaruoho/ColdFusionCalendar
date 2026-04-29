@@ -2,6 +2,31 @@
 
 All notable changes to The Cold Fusion Calendar.
 
+## 2026-04-29 (later)
+
+### Added
+- 7 verified cold fusion patents on Google Patents:
+  - US 5,318,675 / 5,372,688 / 5,494,559 — Patterson / CETI Power Cell (1994/1996)
+  - US 8,485,791 — Rossi / Leonardo Corp US grant (2013)
+  - US 8,419,919 — Hagelstein / MIT (2013)
+  - US 8,728,235 — Storms / Hydroton (2014)
+  - US 9,115,913 — Godes / Brillouin Energy (2015)
+- 29 podcast cross-references — calendar entries that mention CFN podcast guests (Storms, Miles, Biberian, McKubre, Iwamura, etc.) now end with "(See also CFN podcast #N)" links to coldfusionnow.org/cfnpodcast/
+
+### Changed
+- Person-page slug logic now extracts primary surname:
+  "Pons, Stanley", "Stanley Pons", and "F&P → Pons" all route to the same `#person/pons` page
+- Taxonomy collapsed from 24 → 15 categories: Utah/F&P/DoE/Navy/NASA → Federal; TV/Report/Book → Publication; History → Deep History; Activist → Movement; Personal/Award → Recognition; Stupid → Reaction
+- iCal SUMMARY uses first sentence of blurb (not "Name (Year)") and trailing-year tails like "...includes cold fusion. 1999" auto-stripped
+- Trailing year stripped from all 293 blurbs ("...1989", "(1999)", "*1989", "Mon DD, YYYY" tails)
+- 25/26 podcast MP3 URLs corrected to live coldfusionnow.com paths (ep 9 has no working MP3 — Audio: line removed, podcast index URL kept)
+- 2 lenr-canr.org/wordpress/?page_id 404s replaced with lenr-canr.org root
+
+### Fixed
+- Comma-spacing regex no longer mangles patent numbers ("4,943,355" stays intact)
+- URL paths no longer get trailing periods appended
+- Negative lookbehind on year-strip regex protects URL paths like /dp/2354772041
+
 ## 2026-04-29
 
 ### Added

@@ -925,5 +925,329 @@
     "taxonomy": "Business",
     "country": "Japan",
     "blurb": "Mitsubishi Estate Co. invests in Clean Planet Inc., the Tokyo venture company commercialising Yasuhiro Iwamura's LENR research at Tohoku University. Strengthens the financial base for Metal Hydrogen Energy (MHE) commercialisation. Source: Cold Fusion Now! podcast #21 (Feb 19 2019). https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 6,
+    "date": 7,
+    "year": 1994,
+    "name": "Patterson / CETI",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "James Patterson / Clean Energy Technologies Inc. (CETI) granted US 5,318,675 — System for the electrolysis of water using a porous matrix of micron-sized beads. https://patents.google.com/patent/US5318675A/en"
+  },
+  {
+    "month": 12,
+    "date": 13,
+    "year": 1994,
+    "name": "Patterson / CETI",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "James Patterson / CETI granted US 5,372,688 — System for electrolysis of water using a porous-matrix bead-pack cathode (Patterson Power Cell). https://patents.google.com/patent/US5372688A/en"
+  },
+  {
+    "month": 2,
+    "date": 27,
+    "year": 1996,
+    "name": "Patterson / CETI",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "James Patterson / CETI granted US 5,494,559 — System for electrolytic processing including a Patterson Power Cell. https://patents.google.com/patent/US5494559A/en"
+  },
+  {
+    "month": 7,
+    "date": 16,
+    "year": 2013,
+    "name": "Rossi / Leonardo Corp",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "Andrea Rossi granted US 8,485,791 — Method and apparatus for carrying out nickel-hydrogen exothermal reactions (US grant of WO 2009/125444). https://patents.google.com/patent/US8485791B2/en"
+  },
+  {
+    "month": 4,
+    "date": 16,
+    "year": 2013,
+    "name": "Hagelstein / MIT",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "Peter L. Hagelstein (MIT) granted US 8,419,919 — System and method for energy production based on phonon-assisted nuclear excitation transfer. https://patents.google.com/patent/US8419919/en"
+  },
+  {
+    "month": 5,
+    "date": 20,
+    "year": 2014,
+    "name": "Storms",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "Edmund Storms granted US 8,728,235 — Method and apparatus for cold fusion based on the Hydroton model of nuclear-active environments in palladium hydride. https://patents.google.com/patent/US8728235/en"
+  },
+  {
+    "month": 8,
+    "date": 25,
+    "year": 2015,
+    "name": "Godes / Brillouin Energy",
+    "taxonomy": "Patent",
+    "country": "US",
+    "blurb": "Robert Godes / Brillouin Energy Corporation granted US 9,115,913 — Energy generation apparatus based on controlled electron capture in nickel-hydrogen lattice. https://patents.google.com/patent/US9115913B1/en"
+  },
+  {
+    "month": 4,
+    "date": 21,
+    "year": 1989,
+    "name": "BARC",
+    "taxonomy": "Science",
+    "country": "India",
+    "blurb": "P.K. Iyengarand Mahadeva Srinivasan et al. Measureanomalousneutronburstsmeasuredfromelectrolytic cells cold fusion cells at BARC in Mumbai, India. (See also CFN podcast #7: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 6,
+    "date": 23,
+    "year": 1989,
+    "name": "BARC",
+    "taxonomy": "Science",
+    "country": "India",
+    "blurb": "P.K. Iyengar and Mahadeva Srinivasan et al. measure four-fold increase of tritium from cold fusion cell. (See also CFN podcast #7: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 6,
+    "date": 26,
+    "year": 1989,
+    "name": "Storms, Talcott",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Edmund Storms and Carol Talcott from LANL detect tritium “in significant amounts” from Pd-D electrolytic cells. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 5,
+    "date": 19,
+    "year": 1990,
+    "name": "Sttorms",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Edmund Storms of Los Alamos National Lab (LANL) compiles survey of 16 successes in tritium detection, 15 in neutron detection, and 19 successes replicating the FPE. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 27,
+    "year": 1990,
+    "name": "Storms, Talcott",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Electrolytic Tritium Production by Edmund Storms and Carol Talcott from LANL. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 27,
+    "year": 1990,
+    "name": "Storms, Talcott",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: A Study of Electrolytic Tritium Production by Edmund Storms and Carol Talcott. 1990 PDF: http://lenr-canr.org/acrobat/StormsEastudyofel.pdf (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 3,
+    "date": 17,
+    "year": 1991,
+    "name": "Miles, Bush",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Naval Researcher Melvin Miles and Benjamin Bush of University of Texas Austin report Helium-4 as a nuclear by-product of cold fusion. (See also CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 2,
+    "year": 1991,
+    "name": "Miles, Bush",
+    "taxonomy": "Conference",
+    "country": "US",
+    "blurb": "Melvin Miles, Benjamin Bush et al. present Heat and Helium Production in Cold Fusion Experiments at ICCF-2. (See also CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 27,
+    "year": 1992,
+    "name": "Storms",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Edmund Storms announces replication of Akito Takahashi excess heat. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 9,
+    "date": 24,
+    "year": 1992,
+    "name": "McKubre",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Michael McKubre of SRI International presents a summary of their work to a group at MIT. (See also CFN podcast #2, #13: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 5,
+    "date": 5,
+    "year": 1993,
+    "name": "Storms",
+    "taxonomy": "Federal",
+    "country": "US",
+    "blurb": "Edmund Storms testifies before the U.S. House Subcommittee on Science, Space, and Technology. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 1,
+    "year": 1994,
+    "name": "McKubre, Tanzella",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Isothermal Flow Calorimetric Investigations by M. McKubre. 1994. PDF: http://lenr-canr.org/acrobat/McKubreMCHisothermala.pdf (See also CFN podcast #2, #13, #17: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 4,
+    "date": 20,
+    "year": 1995,
+    "name": "Biberian",
+    "taxonomy": "Science",
+    "country": "France",
+    "blurb": "Excess Heat Measurement in AlLaO3 Doped with Deuterium by Jean-Paul Biberian from Sciences de Luminy Physics in Monaco, France. PDF: http://lenr-canr.org/acrobat/PonsSproceeding.pdf#page=65 (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 9,
+    "date": 21,
+    "year": 1996,
+    "name": "Navy",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Anomalous Effects in Deuterated Systems by Melvin Miles, Benjamin Bush, and Kendall Johnson at Naval Air Warfare Center. PDF: https://apps.dtic.mil/sti/tr/pdf/ADA315020.pdf (See also CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 11,
+    "date": 23,
+    "year": 1996,
+    "name": "Srinivasan",
+    "taxonomy": "Science",
+    "country": "India",
+    "blurb": "Key Experiment: Reproducible, Anomalous Emissions form Palladium Deuteride/Hydride by M. Srinivasan et al. at Bhabha Atomic Research Centre in India. *1996. PDF: http://lenr-canr.org/acrobat/RoutRKreproducib.pdf (See also CFN podcast #7: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 1,
+    "date": 31,
+    "year": 1999,
+    "name": "Biberian",
+    "taxonomy": "Science",
+    "country": "France",
+    "blurb": "16th Science Frontiers Festival features cold fusion with Jean-Paul Biberian. (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 2,
+    "date": 17,
+    "year": 2002,
+    "name": "Godes, Robert",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Robert Godes of Brillouin Energy has first successful reaction control. (See also CFN podcast #20: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 15,
+    "year": 2002,
+    "name": "Iwamura, Mitsubishi",
+    "taxonomy": "Science",
+    "country": "Japan",
+    "blurb": "Yasuhiro Iwamura et al. at Mitsubishi Heavy Industries publish results of Pd-D2O gas-loaded thin-films showing transmutations. (See also CFN podcast #21: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 8,
+    "date": 27,
+    "year": 2003,
+    "name": "Letts",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Dennis Cravens and Dennis Letts present research at ICCF-10 showing anomalous heat is initiated by laser stimulation. (See also CFN podcast #15: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 7,
+    "date": 9,
+    "year": 2007,
+    "name": "Storms",
+    "taxonomy": "Publication",
+    "country": "US",
+    "blurb": "The Science of Low Energy Nuclear Reaction, a comprehensive survey of the field by Edmund Storms is published by World Scientific. Available via lenr-canr.org bibliography: http://lenr-canr.org/ (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 11,
+    "date": 20,
+    "year": 2008,
+    "name": "Martinez",
+    "taxonomy": "Activist",
+    "country": "US",
+    "blurb": "James Martinez inaugurates Cold Fusion Radio with Edmund Storms. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 1,
+    "date": 6,
+    "year": 2009,
+    "name": "Brillouin Energy",
+    "taxonomy": "Business",
+    "country": "US",
+    "blurb": "Brillouin Energy Corporation begins operation with Chief Technical Officer Robert Godes. (See also CFN podcast #20: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 6,
+    "date": 18,
+    "year": 2011,
+    "name": "NCUAT",
+    "taxonomy": "Business",
+    "country": "US",
+    "blurb": "David J. Nagel forms NUCAT Energy, LLC. (See also CFN podcast #1: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 12,
+    "date": 3,
+    "year": 2012,
+    "name": "Biberian",
+    "taxonomy": "Publication",
+    "country": "France",
+    "blurb": "Jean-Paul Biberian releases new book All about Fusion Cold Fusion, ITER, Alchemy, Biological Transmutations with Preface by Stanley Pons. (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 12,
+    "date": 3,
+    "year": 2012,
+    "name": "Biberian",
+    "taxonomy": "Publication",
+    "country": "France",
+    "blurb": "Jean-Paul Biberian releases All About Fusion: Cold Fusion, ITER, Alchemy, Biological Transmutations with Preface by Stanley Pons. https://www.amazon.com/All-About-Fusion-ITER-Transmutations/dp/2354772041 (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 1,
+    "date": 1,
+    "year": 2016,
+    "name": "Cold Fusion Now! / Miles",
+    "taxonomy": "Movie",
+    "country": "US",
+    "blurb": "“Anomalous Effects in Deuterated Systems — Melvin Miles: The Correlation of Excess Heat and Helium” released — first documentary in the Cold Fusion Now! Navy LENR Research Series, soundtrack by Lackluster (Esa Ruoho). Watch: https://www.youtube.com/watch?v=KM82RW7_II4 (See also CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 8,
+    "date": 17,
+    "year": 2017,
+    "name": "Storms / Cold Fusion Now!",
+    "taxonomy": "Movie",
+    "country": "US",
+    "blurb": "“Hydroton — A Model of Cold Fusion” by Edmund Storms, produced by Cold Fusion Now!. Watch: https://www.youtube.com/watch?v=D4BPtwzsgiw (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 12,
+    "date": 18,
+    "year": 2018,
+    "name": "Clean Planet / Mitsubishi Estate",
+    "taxonomy": "Business",
+    "country": "Japan",
+    "blurb": "Mitsubishi Estate Co. invests in Clean Planet Inc., the Tokyo venture company commercialising Yasuhiro Iwamura's LENR research at Tohoku University. Strengthens the financial base for Metal Hydrogen Energy (MHE) commercialisation. Source: Cold Fusion Now! podcast #21 (Feb 19 2019). https://coldfusionnow.org/cfnpodcast/ (See also CFN podcast #21: https://coldfusionnow.org/cfnpodcast/)"
+  },
+  {
+    "month": 1,
+    "date": 1,
+    "year": 2024,
+    "name": "Cold Fusion Now! / Biberian",
+    "taxonomy": "Movie",
+    "country": "France",
+    "blurb": "“Hydrogen Metal Energy Nanopowder” released — Cold Fusion Now! documentary on Jean-Paul Biberian, Robert Michel, Christophe Le Roux, Mathieu Valat, and Jacques Ruer's CLEAN-HME nanopowder research, filmed in France March 2024, soundtrack by Lackluster (Esa Ruoho). https://coldfusionnow.org/ (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
   }
 ]

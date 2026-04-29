@@ -529,10 +529,18 @@ class FusionCalendar {
      * ------------------------------------------------------------- */
     renderPerson() {
         const slug = this.personSlug;
-        const matches = this.events.filter(e => personSlug(e.name) === slug
-            || (e.blurb && nameTokens(e.blurb).some(t => personSlug(t) === slug)));
+        // Match by exact primary-surname slug (Pons, Stanley == Stanley Pons == "pons")
+        // Fallback: substring slug match for compound names like "Pons & Fleischmann"
+        const matches = this.events.filter(e => {
+            const ps = personSlug(e.name);
+            if (ps === slug) return true;
+            // Compound names: split on common separators and check each part
+            const parts = (e.name || '').split(/[,&/]| and /i).map(p => personSlug(p.trim()));
+            return parts.some(p => p === slug);
+        });
         const sorted = matches.sort((a, b) => a.year - b.year || a.month - b.month || a.date - b.date);
-        const display = matches.length ? matches[0].name : slug.replace(/-/g, ' ');
+        const titleCase = (s) => s.split('-').map(w => w[0] ? w[0].toUpperCase() + w.slice(1) : w).join(' ');
+        const display = titleCase(slug);
         const grid = document.getElementById('calendarGrid');
         grid.innerHTML = `<div class="person-page">
             <button class="back-btn" id="backToCal">← Back to calendar</button>
@@ -607,11 +615,33 @@ class FusionCalendar {
     }
 }
 
+/**
+ * Normalize an event's `name` field to a primary surname slug.
+ * Handles: "Pons, Stanley" → "pons", "Stanley Pons" → "pons",
+ *           "Storms, Talcott" → "storms", "F&P" → "f-p" (untouched),
+ *           "ICCF-21" → "iccf-21" (untouched), "MITI" → "miti".
+ */
 function personSlug(s) {
-    return (s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    s = (s || '').trim();
+    if (!s) return '';
+    // "Surname, Given" → take part before comma
+    const comma = s.indexOf(',');
+    if (comma > 0) {
+        const before = s.slice(0, comma).trim();
+        return slugify(before);
+    }
+    // "Given Middle Surname" with 2+ capitalized words → take last word IF
+    // it looks like a person name (not "ICCF-21" or "MIT Wake")
+    const words = s.split(/\s+/).filter(Boolean);
+    const allCapsOrInitial = words.every(w => /^[A-Z][A-Za-z\.\-]*$/.test(w));
+    if (words.length >= 2 && allCapsOrInitial && !/^[A-Z]{3,}$/.test(words[words.length - 1])) {
+        // Last word is the surname (e.g., "Stanley Pons" → "pons")
+        return slugify(words[words.length - 1]);
+    }
+    return slugify(s);
 }
-function nameTokens(blurb) {
-    return [...(blurb || '').matchAll(/\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b/g)].map(m => m[1]);
+function slugify(s) {
+    return (s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
 window.addEventListener('DOMContentLoaded', () => { new FusionCalendar(); });

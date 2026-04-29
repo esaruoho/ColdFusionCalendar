@@ -91,7 +91,11 @@ Ordered backlog of every improvement currently scoped. Each item has effort esti
 
 ## Phase 2 — Content wins (more right things in the DB)
 
-### 2.1 — Verify and add 7 more patents  *(~1.5 h, requires patents.google.com lookups)*
+### 2.1 — Verify and add 7 more patents *(DONE 2026-04-29)*
+
+Added Patterson 1994/1994/1996, Rossi 2013 US, Hagelstein/MIT 2013, Storms 2014, Godes/Brillouin 2015. Calendar now has 12 verified patents. Remaining gaps: Swartz/JET NANOR, Iwamura/Mitsubishi, Mills/BLP — see TODO.md.
+
+### 2.1-old (kept for reference) — Verify and add 7 more patents
 
 From `TODO.md`:
 
@@ -129,12 +133,9 @@ Specific events to add:
 
 **Done when:** 5+ additional Key Experiments / Publications carry lenr-canr.org PDF URLs.
 
-### 2.4 — Cross-link podcasts to event entries  *(~1 h)*
+### 2.4 — Cross-link podcasts to event entries *(DONE 2026-04-29)*
 
-**Why:** CFN podcast #12 (Miles heat-helium) is about a paper that's already in the calendar. Reader should see both linked.
-
-**Touch:**
-- For each podcast entry whose `guest`/topic matches a known calendar entry, append `(see also [Apr 27, 1991 entry](#1991-04-27))` style cross-references to the blurb. Build a script in `build_data.py` that does this matching.
+29 calendar entries now end with "(See also CFN podcast #N)" cross-references using a hand-curated guest-surname → episode map (avoids first-name false positives like "Robert" matching every Robert in the archive).
 
 ### 2.5 — ICCF presentation highlights  *(~1 h)*
 
@@ -148,7 +149,11 @@ Specific events to add:
 
 **Touch:** `datasets/additions.json` — add link once found.
 
-### 2.7 — Taxonomy normalization  *(~30 min)*
+### 2.7 — Taxonomy normalization *(DONE 2026-04-29)*
+
+24 → 15 categories. Utah/F&P/DoE/Navy/NASA collapsed into Federal; Stupid → Reaction; Activist → Movement; Award/Personal → Recognition; TV/Report/Book → Publication; Research → Science.
+
+### 2.7-old (kept for reference) — Taxonomy normalization
 
 **Why:** Currently 24 categories with single-instance noise (Utah, F&P, DoE, Navy, Award, Patent, TV, History, Stupid→Reaction-already-done).
 

@@ -1,68 +1,57 @@
 # Cold Fusion Calendar — TODO
 
-## Patents to add (verify each before linking)
+## Patents
 
-The merlib-dump archive at `~/work/merlib-dump/sources/patent/` (1042 PDFs) contains free-energy-adjacent patents but only a few cold-fusion-specific ones. Below are cold-fusion patents that should be added as calendar entries — each must be verified on patents.google.com before adding.
+### Live in calendar (12)
 
-### Verified, ready to add
-
-| Patent | Inventor / Assignee | Filed | Issued | URL |
-|---|---|---|---|---|
-| **US 4,943,355** | Pons + Fleischmann / U of Utah Research Foundation | 1989-03-13 | 1990-07-24 | https://patents.google.com/patent/US4943355A/en |
-| **EP 0477018 A1** | Ikegami / Technova Inc. (Tokyo) — *Apparatus and method for utilizing heat generated owing to Pons-Fleischmann effect* | 1991-09-19 | — | https://patents.google.com/patent/EP0477018A1/en |
-| **WO 1990/013124 A1** | Belton / Broken Hill Proprietary Co. (BHP, Australia) — *Cold Nuclear Fusion Method and Apparatus* — gas-phase D loader | 1990-04-20 | — | https://patents.google.com/patent/WO1990013124A1/en |
-| **WO 1990/010935** | Pons et al. — referenced in Ikegami EP prior art | 1990 | — | — |
-
-Source: `~/work/merlib-dump/articles/cold-fusion-patents-kron-russell-analysis.md`
-
-### Probably exist — need lookup before adding
-
-| Likely patentee | Approx. filing | Note |
+| Patent | Inventor / Assignee | URL |
 |---|---|---|
-| James Patterson / CETI | US 5,318,675 (Jun 1994), US 5,372,688 (Dec 1994), US 5,494,559 (Feb 1996) | Patterson Power Cell |
-| Mitchell Swartz / JET Energy | US 8,303,011 ?, NANOR cell patents | Verify via patents.google.com search "Swartz JET Energy NANOR" |
-| Peter Hagelstein / MIT | Theoretical-method patents | Verify before linking |
-| Andrea Rossi / Leonardo Corp | US 8,485,791 (granted 2013) | Calendar already has 2008 Italian filing — could add 2013 US grant as separate entry |
-| Robert Godes / Brillouin Energy | US 9,115,913 etc. | Multiple |
-| Edmund Storms | US 8,728,235 (2014) | Hydroton-related |
-| Yasuhiro Iwamura / Mitsubishi Heavy Industries | JP + US transmutation patents | |
-| Randell Mills / BlackLight Power | Many hydrino patents | Adjacent / controversial |
+| US 4,943,355 (1990) | Pons + Fleischmann / U of Utah | patents.google.com/patent/US4943355A |
+| WO 1990/013124 (1990) | Belton / BHP Australia | patents.google.com/patent/WO1990013124A1 |
+| EP 0477018 A1 (1991) | Ikegami / Technova Japan | patents.google.com/patent/EP0477018A1 |
+| US 5,318,675 (1994) | Patterson / CETI | patents.google.com/patent/US5318675A |
+| US 5,372,688 (1994) | Patterson / CETI | patents.google.com/patent/US5372688A |
+| US 5,494,559 (1996) | Patterson / CETI | patents.google.com/patent/US5494559A |
+| IT/RM2008A000352 / WO 2009/125444 (2008) | Rossi / Leonardo Corp | patents.google.com/patent/WO2009125444A1 |
+| US 8,419,919 (2013) | Hagelstein / MIT | patents.google.com/patent/US8419919 |
+| US 8,485,791 (2013) | Rossi / Leonardo Corp | patents.google.com/patent/US8485791B2 |
+| US 8,728,235 (2014) | Storms | patents.google.com/patent/US8728235 |
+| US 9,115,913 (2015) | Godes / Brillouin Energy | patents.google.com/patent/US9115913B1 |
 
-### Process
+### Still to research
+
+- Mitchell Swartz / JET Energy NANOR patents — search "Swartz JET Energy NANOR"
+- Yasuhiro Iwamura / Mitsubishi Heavy Industries — JP + US transmutation patents
+- Randell Mills / BlackLight Power hydrino patents — adjacent / controversial; decide whether in scope
+- Mizuno R20 / nano-imprint patents (post-2018)
+- Clean Planet / Tohoku University LENR patents
+
+## Books still unlinked
+
+- Fox / Fusion Facts magazine (1989+) back-issues archive
+- Cold Fusion magazine (1993+, Wayne Green / Mallove) back-issues
+- Per-issue Infinite Energy magazine entries (currently only the 1995 launch)
+
+## Recent post-2013 events to research and add
+
+These have local-archive references but no precise dates — supply verified dates and they go in:
+
+- **Carl Page / Anthropocene Institute** funding rounds for LENR research (~2018–2019)
+- **Japan MEXT NEDO MHE program** kickoff (~2015)
+- **NASA Bushnell** "LENR is real" public statements (Glenn / Langley)
+- ICCF presentation highlights as standalone sub-events (Iwamura at ICCF-9, Cravens/Letts laser at ICCF-10, etc.) — currently only conference start dates are calendar entries
+
+## Data quality
+
+- Verify all ~160 URLs in blurbs with `tests/test_urls.py` — only 2 lenr-canr 404s + 18 podcast MP3s have been spot-checked. Other IMDb / Amazon / archive.org / sciencedirect URLs may have rotted.
+- Aphorism quotes need attribution — 173 quotes in the rotator have no `source` field. Some are clearly attributed in the original ("--Dr. McKubre"), others bare. Consider parsing trailing "—Author" patterns.
+- Mobile testing on real iOS / Android — bottom-sheet was implemented but only browser-resize tested.
+
+## Process
+
 1. Search https://patents.google.com for inventor + "cold fusion" / "deuterium palladium" / "LENR"
 2. Confirm filing/grant dates and inventor identity
 3. Add to `datasets/additions.json` with `taxonomy: "Patent"`
 4. Run `./deploy.sh`
 
-## Books still unlinked
-
-Run a more aggressive `archive.org` and `lenr-canr.org/wordpress` search for these:
-
-- Kozima 2006 *The Science of the Cold Fusion Phenomenon*
-- Chubb 2008 *Cold Fusion: Clean Energy for the Future*
-- Biberian 2012 *All About Fusion / Cold Fusion / ITER / Alchemy / Biological Transmutations*
-- Manning & Garbon 2009 *Breakthrough Power*
-- Mallove 1999 *MIT and Cold Fusion: A Special Report*
-- Swartz 1992 MIT re-analysis paper
-- Fox / Fusion Facts magazine (1989+) — back issues archive
-- Cold Fusion magazine (1993+, Wayne Green / Mallove) — back issues
-- *Too Close to the Sun* (1994 documentary) — find video URL
-
-## Recent post-2013 events to research and add (with dates + sources)
-
-- **Carl Page / Anthropocene Institute** funding rounds for LENR research (~2018–2019)
-- **Japan MEXT NEDO MHE program** (2015–2018, Tohoku, ~$3.5M follow-on)
-- **Brillouin Energy 2X thermal gain** announcement (referenced in CFN podcast #20, Jan 15 2019 — could surface as standalone calendar entry)
-- **Iwamura / Clean Planet** Tohoku University announcements (CFN podcast #21, Feb 19 2019)
-- **NASA Bushnell** statements on LENR (Glenn / Langley, multiple years)
-- Other ICCF-19 through ICCF-26 notable presentations beyond conference start dates
-
-## Looser LENR-CANR matching pass
-
-Currently 17 entries cross-referenced at 70%+ title overlap. A 60% pass with stricter author check could surface 5–10 more from the Key Experiment / Publication categories. False-positive risk requires manual review.
-
-## Data quality
-
-- Standardize taxonomy (currently 24 categories, several with single-instance noise: "Stupid" → "Reaction" already done; "Utah" → "Federal", "F&P" → "Science", "DoE" → "Federal", "Navy" → "Federal" still pending)
-- Verify all blurbs for run-on typos like the previously-fixed "inititating", "devleoped", "palldium" pattern
-- Standardize country naming ("US" vs "USA" vs "United States" — currently US dominates)
+For book/article links: prefer in this order — DOI → publisher → archive.org → Google Books.

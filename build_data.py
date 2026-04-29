@@ -72,6 +72,27 @@ NAME_FIXES = {
     'Czech': 'Czechoslovakia',
 }
 
+TAXONOMY_FIXES = {
+    'Utah': 'Federal',
+    'F&P': 'Science',
+    'DoE': 'Federal',
+    'Navy': 'Federal',
+    'NASA': 'Federal',
+    'TV': 'Publication',
+    'History': 'Deep History',
+    'Activist': 'Movement',
+    'Personal': 'Recognition',
+    'Award': 'Recognition',
+    'Report': 'Publication',
+    'Book': 'Publication',
+    'Stupid': 'Reaction',
+    'Research': 'Science',
+}
+def clean_taxonomy(s):
+    if not s: return 'Science'
+    s = s.strip()
+    return TAXONOMY_FIXES.get(s, s)
+
 COUNTRY_FIXES = {
     'USA': 'US',
     'U.S.': 'US',
@@ -155,7 +176,7 @@ for row in rows:
         'date': date,
         'year': year,
         'name': name or 'Unknown',
-        'taxonomy': taxonomy or 'Research',
+        'taxonomy': clean_taxonomy(taxonomy) if taxonomy else 'Science',
         'country': clean_country(country) if country else 'Global',
         'blurb': blurb,
     })
@@ -204,7 +225,7 @@ merged = {}
 for r in original:
     merged[dedup_key(r)] = {
         'month': r['month'], 'date': r['date'], 'year': r['year'],
-        'name': clean_name(r.get('name', 'Unknown')), 'taxonomy': r.get('taxonomy', 'Research'),
+        'name': clean_name(r.get('name', 'Unknown')), 'taxonomy': clean_taxonomy(r.get('taxonomy', 'Science')),
         'country': clean_country(r.get('country', 'Global')), 'blurb': clean_blurb(r.get('blurb', '')),
     }
 # Add xlsx records not already present
@@ -213,7 +234,7 @@ for r in records:
     if k not in merged:
         merged[k] = {
             'month': r['month'], 'date': r['date'], 'year': r['year'],
-            'name': r['name'], 'taxonomy': r['taxonomy'],
+            'name': r['name'], 'taxonomy': clean_taxonomy(r['taxonomy']),
             'country': clean_country(r['country']), 'blurb': r['blurb'],
         }
 
@@ -225,7 +246,7 @@ if os.path.exists(ADDITIONS):
     for r in additions:
         merged[dedup_key(r)] = {
             'month': r['month'], 'date': r['date'], 'year': r['year'],
-            'name': r['name'], 'taxonomy': r.get('taxonomy', 'Research'),
+            'name': r['name'], 'taxonomy': clean_taxonomy(r.get('taxonomy', 'Science')),
             'country': clean_country(r.get('country', 'Global')), 'blurb': clean_blurb(r['blurb']),
         }
 
