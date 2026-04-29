@@ -56,6 +56,23 @@ NAME_FIXES = {
     'Zowadny': 'Zawodny',
     'Czech': 'Czechoslovakia',
 }
+
+COUNTRY_FIXES = {
+    'USA': 'US',
+    'U.S.': 'US',
+    'U.S.A.': 'US',
+    'United States': 'US',
+    'United States of America': 'US',
+    'America': 'US',
+    'Korea': 'South Korea',
+    'United Kingdom': 'UK',
+    'Great Britain': 'UK',
+    'England': 'UK',
+}
+def clean_country(s):
+    if not s: return 'Global'
+    s = s.strip()
+    return COUNTRY_FIXES.get(s, s)
 def clean_name(s):
     if not s: return s
     s = s.strip()
@@ -124,7 +141,7 @@ for row in rows:
         'year': year,
         'name': name or 'Unknown',
         'taxonomy': taxonomy or 'Research',
-        'country': country or 'Global',
+        'country': clean_country(country) if country else 'Global',
         'blurb': blurb,
     })
     next_id += 1
@@ -173,7 +190,7 @@ for r in original:
     merged[dedup_key(r)] = {
         'month': r['month'], 'date': r['date'], 'year': r['year'],
         'name': clean_name(r.get('name', 'Unknown')), 'taxonomy': r.get('taxonomy', 'Research'),
-        'country': r.get('country', 'Global'), 'blurb': clean_blurb(r.get('blurb', '')),
+        'country': clean_country(r.get('country', 'Global')), 'blurb': clean_blurb(r.get('blurb', '')),
     }
 # Add xlsx records not already present
 for r in records:
@@ -182,7 +199,7 @@ for r in records:
         merged[k] = {
             'month': r['month'], 'date': r['date'], 'year': r['year'],
             'name': r['name'], 'taxonomy': r['taxonomy'],
-            'country': r['country'], 'blurb': r['blurb'],
+            'country': clean_country(r['country']), 'blurb': r['blurb'],
         }
 
 # Hand-curated additions (ICCF conferences, modern milestones)
@@ -194,7 +211,7 @@ if os.path.exists(ADDITIONS):
         merged[dedup_key(r)] = {
             'month': r['month'], 'date': r['date'], 'year': r['year'],
             'name': r['name'], 'taxonomy': r.get('taxonomy', 'Research'),
-            'country': r.get('country', 'Global'), 'blurb': clean_blurb(r['blurb']),
+            'country': clean_country(r.get('country', 'Global')), 'blurb': clean_blurb(r['blurb']),
         }
 
 records = list(merged.values())
