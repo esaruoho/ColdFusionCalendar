@@ -70,7 +70,17 @@ for e in events:
     uid = 'cf-' + hashlib.sha1(f"{y}-{m}-{d}-{e.get('name','')}-{e['blurb'][:40]}".encode()).hexdigest()[:16] + '@lackluster.org'
 
     year_str = f'{y}' if y > 0 else (f'{abs(y)} BCE' if y < 0 else 'Unspecified era')
-    summary = f"{e['name']} ({year_str})"
+    # Use the blurb's first sentence as the calendar SUMMARY — much more useful
+    # than "Name (Year)". Strip URLs from the summary; they live in URL/DESCRIPTION.
+    import re as _re
+    blurb_clean = _re.sub(r'\s*https?://\S+', '', e['blurb']).strip()
+    # Take first sentence (or first 120 chars if no sentence break)
+    sent = _re.split(r'(?<=[.!?])\s+', blurb_clean, maxsplit=1)[0]
+    if len(sent) > 140:
+        sent = sent[:137].rstrip() + '…'
+    if not sent.endswith(('.', '!', '?', '…')):
+        sent += '.'
+    summary = sent
     parts = [
         e['blurb'],
         '',
