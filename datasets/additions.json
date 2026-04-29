@@ -907,5 +907,14 @@
     "taxonomy": "Publication",
     "country": "US",
     "blurb": "Cold Fusion magazine launches by Wayne Green and colleagues with Eugene Mallove as Editor. Archived at: https://infinite-energy.com/coldfusionmagazine/"
+  },
+  {
+    "month": 3,
+    "date": 21,
+    "year": 1994,
+    "name": "Too Close to the Sun",
+    "taxonomy": "Movie",
+    "country": "Canada",
+    "blurb": "Landmark documentary Too Close to the Sun on the early history of the cold fusion underground airs. https://www.imdb.com/title/tt2331825/"
   }
 ]
