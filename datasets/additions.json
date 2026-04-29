@@ -556,5 +556,140 @@
     "taxonomy": "Podcast",
     "country": "US",
     "blurb": "Cold Fusion Now! Podcast Ep. 026 — Frank Acland: E-Cat World and Following Andrea Rossi. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Frank-Acland-Cold-Fusion-Now-026.mp3"
+  },
+  {
+    "month": 4,
+    "date": 27,
+    "year": 1989,
+    "name": "Jones",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "“Observation of Cold Nuclear Fusion in Condensed Matter” by Steve Jones et al. From BYU published in Nature. 1989. PDF: http://lenr-canr.org/acrobat/JonesSEobservatio.pdf"
+  },
+  {
+    "month": 7,
+    "date": 26,
+    "year": 1990,
+    "name": "Oriani",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Calorimetric Measurement of Excess Power Output During the Cathodic Charging of Deuterium into palladium by R. Oriani. 1990. PDF: http://lenr-canr.org/acrobat/OrianiRAcalorimetr.pdf"
+  },
+  {
+    "month": 8,
+    "date": 1,
+    "year": 1991,
+    "name": "Mills",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Excess Heat Production by the Electrolysis of an Aqueous Potassium Carbonate Electrolyte and the Implications for Cold Fusion by Randall Mills and Steven O. Kneizys. *1991. PDF: http://lenr-canr.org/acrobat/MillsRLexcessheat.pdf"
+  },
+  {
+    "month": 7,
+    "date": 1,
+    "year": 1994,
+    "name": "McKubre, Tanzella",
+    "taxonomy": "Key Experiment",
+    "country": "US",
+    "blurb": "Key Experiment: Isothermal Flow Calorimetric Investigations by M. McKubre. 1994. PDF: http://lenr-canr.org/acrobat/McKubreMCHisothermala.pdf"
+  },
+  {
+    "month": 11,
+    "date": 23,
+    "year": 1994,
+    "name": "Reifenschweiler",
+    "taxonomy": "Key Experiment",
+    "country": "Netherlands",
+    "blurb": "Key Experiment: Reduced Radioactivity of Tritium In Small Titanium Particles by Otto Reifenschweiler of Phillips Research Laboratories in Netherlands. 1994. PDF: http://lenr-canr.org/acrobat/Reifenschwreducedrad.pdf"
+  },
+  {
+    "month": 11,
+    "date": 24,
+    "year": 1994,
+    "name": "Reifenschweiler",
+    "taxonomy": "Key Experiment",
+    "country": "Netherlands",
+    "blurb": "Key Experiment: Reduced Radioactivity of Tritium by Otto Reifenschweiler. 1994. PDF: http://lenr-canr.org/acrobat/Reifenschwreducedrad.pdf"
+  },
+  {
+    "month": 4,
+    "date": 20,
+    "year": 1995,
+    "name": "Biberian",
+    "taxonomy": "Science",
+    "country": "France",
+    "blurb": "Excess Heat Measurement in AlLaO3 Doped with Deuterium by Jean-Paul Biberian from Sciences de Luminy Physics in Monaco, France. PDF: http://lenr-canr.org/acrobat/PonsSproceeding.pdf#page=65"
+  },
+  {
+    "month": 10,
+    "date": 5,
+    "year": 1996,
+    "name": "Li",
+    "taxonomy": "Science",
+    "country": "China",
+    "blurb": "Key Experiment: Excess Heat Measurement in Gas-loading D/Pd System by Xing Zhong Li. 1996. PDF: http://lenr-canr.org/acrobat/LiXZexcessheat.pdf"
+  },
+  {
+    "month": 11,
+    "date": 9,
+    "year": 1996,
+    "name": "Miley, Patterson",
+    "taxonomy": "Science",
+    "country": "US",
+    "blurb": "Key Experiment: Nuclear Transmutations in Thin-Film Nickel Coatings by George Miley. 1996. PDF: http://lenr-canr.org/acrobat/MileyGHnucleartra.pdf"
+  },
+  {
+    "month": 11,
+    "date": 23,
+    "year": 1996,
+    "name": "Srinivasan",
+    "taxonomy": "Science",
+    "country": "India",
+    "blurb": "Key Experiment: Reproducible, Anomalous Emissions form Palladium Deuteride/Hydride by M. Srinivasan et al. at Bhabha Atomic Research Centre in India. *1996. PDF: http://lenr-canr.org/acrobat/RoutRKreproducib.pdf"
+  },
+  {
+    "month": 1,
+    "date": 14,
+    "year": 1997,
+    "name": "Arata-Zhang",
+    "taxonomy": "Key Experiment",
+    "country": "Japan",
+    "blurb": "Key Experiment: Solid State Plasma Fusion by Yoshiaki Arata. 1997. PDF: http://lenr-canr.org/acrobat/NEDOthesixthin.pdf#page=144"
+  },
+  {
+    "month": 12,
+    "date": 4,
+    "year": 1997,
+    "name": "Mizuno, Tadahiko",
+    "taxonomy": "Publication",
+    "country": "Japan",
+    "blurb": "Nuclear Transmutation The Reality of Cold Fusion by Tadahiko Mizuno is published. 1997. PDF: http://lenr-canr.org/acrobat/MizunoTnucleartra.pdf"
+  },
+  {
+    "month": 4,
+    "date": 25,
+    "year": 1998,
+    "name": "Celani",
+    "taxonomy": "Key Experiment",
+    "country": "Italy",
+    "blurb": "Key Experiment: Preliminary Results with 'Cincinnati Group Cell' by Francesco Celani. 1998. PDF: http://lenr-canr.org/acrobat/ENECOtheseventh.pdf#page=56"
+  },
+  {
+    "month": 5,
+    "date": 3,
+    "year": 2000,
+    "name": "Beaudette",
+    "taxonomy": "Publication",
+    "country": "US",
+    "blurb": "Excess Heat How Cold Fusion Research Prevailed by Charles Beaudette is published. 2000. PDF: http://lenr-canr.org/acrobat/BeaudetteCexcessheat.pdf"
+  },
+  {
+    "month": 12,
+    "date": 17,
+    "year": 2004,
+    "name": "Rothwell",
+    "taxonomy": "Publication",
+    "country": "US",
+    "blurb": "Cold Fusion and the Future by Jed Rothwell released. 2004. PDF: http://lenr-canr.org/acrobat/RothwellJcoldfusiona.pdf"
   }
 ]
