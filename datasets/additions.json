@@ -322,5 +322,239 @@
     "taxonomy": "Conference",
     "country": "Canada",
     "blurb": "ICCF-27 — 27th International Conference on Condensed Matter Nuclear Science scheduled for Niagara Falls, Canada, August 31 – September 4, 2026."
+  },
+  {
+    "month": 1,
+    "date": 3,
+    "year": 2018,
+    "name": "CFN Podcast #001",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 001 — Dr. David J. Nagel: Introduction to Condensed Matter Nuclear Science. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_001_David_J_Nagel.mp3"
+  },
+  {
+    "month": 1,
+    "date": 10,
+    "year": 2018,
+    "name": "CFN Podcast #002",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 002 — Dr. Michael McKubre: SRI International's 30-Year LENR Program. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_002_Michael_McKubre.mp3"
+  },
+  {
+    "month": 1,
+    "date": 20,
+    "year": 2018,
+    "name": "CFN Podcast #003",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 003 — Dr. Andrew Meulenberg: Deep Electron Orbits Theory. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_003_Andrew_Meulenberg.mp3"
+  },
+  {
+    "month": 2,
+    "date": 14,
+    "year": 2018,
+    "name": "CFN Podcast #004",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 004 — Dr. Jean-Paul Biberian: LENR Research in France & The Journal of CMNS. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_004_Jean_Paul_Biberian.mp3"
+  },
+  {
+    "month": 3,
+    "date": 6,
+    "year": 2018,
+    "name": "CFN Podcast #005",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 005 — Alan Smith: LookingForHeat.com & Open Science Reactors. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_005_Alan_Smith.mp3"
+  },
+  {
+    "month": 3,
+    "date": 14,
+    "year": 2018,
+    "name": "CFN Podcast #006",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 006 — William Collis: ISCMNS: The International Society of Condensed Matter Nuclear Science. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_006_William_Collis.mp3"
+  },
+  {
+    "month": 3,
+    "date": 23,
+    "year": 2018,
+    "name": "CFN Podcast #007",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 007 — Dr. Mahadeva Srinivasan: BARC India & The Transmutation Puzzle. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_007_Mahadeva_Srinivasan.mp3"
+  },
+  {
+    "month": 4,
+    "date": 3,
+    "year": 2018,
+    "name": "CFN Podcast #008",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 008 — David J. French: LENR Patents & Intellectual Property. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_008_David_French.mp3"
+  },
+  {
+    "month": 4,
+    "date": 13,
+    "year": 2018,
+    "name": "CFN Podcast #009",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 009 — Abd ul-Rahman Lomax: Documenting the Rossi vs Industrial Heat Lawsuit. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 4,
+    "date": 23,
+    "year": 2018,
+    "name": "CFN Podcast #010",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 010 — Mats Lewan: Andrea Rossi, E-Cat, and New Energy Technology. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 5,
+    "date": 3,
+    "year": 2018,
+    "name": "CFN Podcast #011",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 011 — Dr. Vladimir Vysotskii: Biological Transmutations and Deactivation of Radioactive Isotopes. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 5,
+    "date": 13,
+    "year": 2018,
+    "name": "CFN Podcast #012",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 012 — Dr. Melvin Miles: The Heat-Helium Discovery. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Melvin-Miles-Cold-Fusion-Now-012.mp3"
+  },
+  {
+    "month": 7,
+    "date": 2,
+    "year": 2018,
+    "name": "CFN Podcast #013",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 013 — Dr. Michael McKubre: Fleischmann-Ponds Heat: What Do We Know and Why?. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 9,
+    "date": 3,
+    "year": 2018,
+    "name": "CFN Podcast #014",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 014 — Alan Goldwater: Open Science LENR Research. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 9,
+    "date": 13,
+    "year": 2018,
+    "name": "CFN Podcast #015",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 015 — Dr. Dennis Cravens: Seven Watts Excess Heat and Laser Experiments. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 9,
+    "date": 23,
+    "year": 2018,
+    "name": "CFN Podcast #016",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 016 — Dr. Pamela Mosier-Boss: CR-39 Nuclear Evidence from Navy SPAWAR. https://coldfusionnow.org/cfnpodcast/ Audio: https://www.coldfusionnow.com/podcast/Ruby-Carat-Pam-Boss-Cold-Fusion-Now-016.mp3"
+  },
+  {
+    "month": 10,
+    "date": 13,
+    "year": 2018,
+    "name": "CFN Podcast #017",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 017 — Dr. Francis Tanzella: 29 Years of LENR Research at SRI International. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 10,
+    "date": 23,
+    "year": 2018,
+    "name": "CFN Podcast #018",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 018 — David Daggett: From Aerospace Engineering to LENR to Politics. https://coldfusionnow.org/cfnpodcast/"
+  },
+  {
+    "month": 1,
+    "date": 13,
+    "year": 2019,
+    "name": "CFN Podcast #019",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 019 — Dr. Edmund Storms: The Hydroton Model and 30 Years of LENR Research. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Edmund-Storms-Cold-Fusion-Now-019.mp3"
+  },
+  {
+    "month": 1,
+    "date": 15,
+    "year": 2019,
+    "name": "CFN Podcast #020",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 020 — Robert Godes: Brillouin Energy: 2X Thermal Gain Achieved. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Robert-Godes-Cold-Fusion-Now-020.mp3"
+  },
+  {
+    "month": 2,
+    "date": 19,
+    "year": 2019,
+    "name": "CFN Podcast #021",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 021 — Dr. Yasuhiro Iwamura: Transmutation Research and Clean Planet. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Yasuhiro-Iwamura-Cold-Fusion-Now-021.mp3"
+  },
+  {
+    "month": 3,
+    "date": 18,
+    "year": 2019,
+    "name": "CFN Podcast #022",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 022 — Dr. Stephen C. Bannister: Energy Economics and Industrial Revolutions. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Stephen-Bannister-Cold-Fusion-Now-022.mp3"
+  },
+  {
+    "month": 4,
+    "date": 28,
+    "year": 2019,
+    "name": "CFN Podcast #023",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 023 — Dr. Dimiter Alexandrov: Helium Production in Transition Metals. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Dimiter-Alexandrov-Cold-Fusion-Now-023.mp3"
+  },
+  {
+    "month": 6,
+    "date": 5,
+    "year": 2019,
+    "name": "CFN Podcast #024",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 024 — Dr. Sveinn Olafsson: Ultra-Dense Hydrogen and Rydberg Matter. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Sveinn-Olafsson-Cold-Fusion-Now-024.mp3"
+  },
+  {
+    "month": 7,
+    "date": 3,
+    "year": 2019,
+    "name": "CFN Podcast #025",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 025 — Sergei Tcvetkov: Titanium-Deuterium LENR Research in Russia. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Sergei-Tcvetkov-Cold-Fusion-Now-025.mp3"
+  },
+  {
+    "month": 9,
+    "date": 22,
+    "year": 2019,
+    "name": "CFN Podcast #026",
+    "taxonomy": "Podcast",
+    "country": "US",
+    "blurb": "Cold Fusion Now! Podcast Ep. 026 — Frank Acland: E-Cat World and Following Andrea Rossi. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Frank-Acland-Cold-Fusion-Now-026.mp3"
   }
 ]
