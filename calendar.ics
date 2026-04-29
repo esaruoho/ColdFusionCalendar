@@ -1109,8 +1109,8 @@ RRULE:FREQ=YEARLY
 SUMMARY:Miley\, George (1989)
 DESCRIPTION:George Miley editor of Fusion Technology announces special sect
  ion in the Journal of the American Nuclear Society. 1989. Bibliography: ht
- tps://lenr-canr.org/wordpress/?page_id=437\n\nYear: 1989\nType: Publicatio
- n\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-9-1
+ tps://lenr-canr.org/\n\nYear: 1989\nType: Publication\nOrigin: US\n\nSourc
+ e: https://www.lackluster.org/cf/#1989-9-1
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1989-9-1
 TRANSP:TRANSPARENT
@@ -3109,9 +3109,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:Storms (2007)
 DESCRIPTION:The Science of Low Energy Nuclear Reaction\, a comprehensive su
  rvey of the field by Edmund Storms is published by World Scientific. Avail
- able via lenr-canr.org bibliography: http://lenr-canr.org/wordpress/?page_
- id=362\n\nYear: 2007\nType: Publication\nOrigin: US\n\nSource: https://www
- .lackluster.org/cf/#2007-7-9
+ able via lenr-canr.org bibliography: http://lenr-canr.org/\n\nYear: 2007\n
+ Type: Publication\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#20
+ 07-7-9
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2007-7-9
 TRANSP:TRANSPARENT
@@ -3752,7 +3752,7 @@ SUMMARY:CFN Podcast #004 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 004 — Dr. Jean-Paul Biberian: LE
  NR Research in France & The Journal of CMNS. https://coldfusionnow.org/cfn
  podcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN
- _004_Jean_Paul_Biberian.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSo
+ _004_Jean-Paul_Biberian.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSo
  urce: https://www.lackluster.org/cf/#2018-2-14
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-2-14
@@ -3845,9 +3845,10 @@ DTEND;VALUE=DATE:20180424
 RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #010 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 010 — Mats Lewan: Andrea Rossi\,
-  E-Cat\, and New Energy Technology. https://coldfusionnow.org/cfnpodcast/\
- n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lackluster
- .org/cf/#2018-4-23
+  E-Cat\, and New Energy Technology. https://coldfusionnow.org/cfnpodcast/ 
+ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_010_Mats
+ _Lewan.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www
+ .lackluster.org/cf/#2018-4-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-4-23
 TRANSP:TRANSPARENT
@@ -3861,8 +3862,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #011 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 011 — Dr. Vladimir Vysotskii: Bi
  ological Transmutations and Deactivation of Radioactive Isotopes. https://
- coldfusionnow.org/cfnpodcast/\n\nYear: 2018\nType: Podcast\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#2018-5-3
+ coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/
+ uploads/2025/11/A_CFN_011_Vladimir_Vysotskii.mp3\n\nYear: 2018\nType: Podc
+ ast\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2018-5-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-5-3
 TRANSP:TRANSPARENT
@@ -3907,8 +3909,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #013 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 013 — Dr. Michael McKubre: Fleis
  chmann-Ponds Heat: What Do We Know and Why?. https://coldfusionnow.org/cfn
- podcast/\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.l
- ackluster.org/cf/#2018-7-2
+ podcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Michael-Mc
+ Kubre-Cold-Fusion-Now-013.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\n
+ Source: https://www.lackluster.org/cf/#2018-7-2
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-7-2
 TRANSP:TRANSPARENT
@@ -3921,8 +3924,10 @@ DTEND;VALUE=DATE:20180904
 RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #014 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 014 — Alan Goldwater: Open Scien
- ce LENR Research. https://coldfusionnow.org/cfnpodcast/\n\nYear: 2018\nTyp
- e: Podcast\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2018-9-3
+ ce LENR Research. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.
+ coldfusionnow.com/podcast/Ruby-Carat-Alan-Goldwater-Cold-Fusion-Now-014.mp
+ 3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lacklust
+ er.org/cf/#2018-9-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-9-3
 TRANSP:TRANSPARENT
@@ -3936,8 +3941,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #015 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 015 — Dr. Dennis Cravens: Seven 
  Watts Excess Heat and Laser Experiments. https://coldfusionnow.org/cfnpodc
- ast/\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lackl
- uster.org/cf/#2018-9-13
+ ast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Dennis-Cravens
+ -Cold-Fusion-Now-015.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSourc
+ e: https://www.lackluster.org/cf/#2018-9-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-9-13
 TRANSP:TRANSPARENT
@@ -3967,8 +3973,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #017 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 017 — Dr. Francis Tanzella: 29 Y
  ears of LENR Research at SRI International. https://coldfusionnow.org/cfnp
- odcast/\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.la
- ckluster.org/cf/#2018-10-13
+ odcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Francis-Tan
+ zella-Cold-Fusion-Now-017.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\n
+ Source: https://www.lackluster.org/cf/#2018-10-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-10-13
 TRANSP:TRANSPARENT
@@ -3982,8 +3989,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #018 (2018)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 018 — David Daggett: From Aerosp
  ace Engineering to LENR to Politics. https://coldfusionnow.org/cfnpodcast/
- \n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#2018-10-23
+  Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-David-Daggett-Cold
+ -Fusion-Now-018.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: ht
+ tps://www.lackluster.org/cf/#2018-10-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-10-23
 TRANSP:TRANSPARENT
@@ -4046,9 +4054,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #021 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 021 — Dr. Yasuhiro Iwamura: Tran
  smutation Research and Clean Planet. https://coldfusionnow.org/cfnpodcast/
-  Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Ya
- suhiro-Iwamura-Cold-Fusion-Now-021.mp3\n\nYear: 2019\nType: Podcast\nOrigi
- n: US\n\nSource: https://www.lackluster.org/cf/#2019-2-19
+  Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Yasuhiro-Iwamura-C
+ old-Fusion-Now-021.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource:
+  https://www.lackluster.org/cf/#2019-2-19
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-2-19
 TRANSP:TRANSPARENT
@@ -4062,9 +4070,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #022 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 022 — Dr. Stephen C. Bannister: 
  Energy Economics and Industrial Revolutions. https://coldfusionnow.org/cfn
- podcast/ Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-
- Carat-Stephen-Bannister-Cold-Fusion-Now-022.mp3\n\nYear: 2019\nType: Podca
- st\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2019-3-18
+ podcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Stephen-Ba
+ nnister-Cold-Fusion-Now-022.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n
+ \nSource: https://www.lackluster.org/cf/#2019-3-18
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-3-18
 TRANSP:TRANSPARENT
@@ -4078,9 +4086,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #023 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 023 — Dr. Dimiter Alexandrov: He
  lium Production in Transition Metals. https://coldfusionnow.org/cfnpodcast
- / Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-D
- imiter-Alexandrov-Cold-Fusion-Now-023.mp3\n\nYear: 2019\nType: Podcast\nOr
- igin: US\n\nSource: https://www.lackluster.org/cf/#2019-4-28
+ / Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Dimiter-Alexandro
+ v-Cold-Fusion-Now-023.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSour
+ ce: https://www.lackluster.org/cf/#2019-4-28
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-4-28
 TRANSP:TRANSPARENT
@@ -4112,9 +4120,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #024 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 024 — Dr. Sveinn Olafsson: Ultra
  -Dense Hydrogen and Rydberg Matter. https://coldfusionnow.org/cfnpodcast/ 
- Audio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Sve
- inn-Olafsson-Cold-Fusion-Now-024.mp3\n\nYear: 2019\nType: Podcast\nOrigin:
-  US\n\nSource: https://www.lackluster.org/cf/#2019-6-5
+ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Sveinn-Olafsson-Col
+ d-Fusion-Now-024.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: h
+ ttps://www.lackluster.org/cf/#2019-6-5
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-6-5
 TRANSP:TRANSPARENT
@@ -4128,9 +4136,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #025 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 025 — Sergei Tcvetkov: Titanium-
  Deuterium LENR Research in Russia. https://coldfusionnow.org/cfnpodcast/ A
- udio: https://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Serg
- ei-Tcvetkov-Cold-Fusion-Now-025.mp3\n\nYear: 2019\nType: Podcast\nOrigin: 
- US\n\nSource: https://www.lackluster.org/cf/#2019-7-3
+ udio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Sergei-Tcvetkov-Cold
+ -Fusion-Now-025.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: ht
+ tps://www.lackluster.org/cf/#2019-7-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-7-3
 TRANSP:TRANSPARENT
@@ -4159,9 +4167,9 @@ RRULE:FREQ=YEARLY
 SUMMARY:CFN Podcast #026 (2019)
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 026 — Frank Acland: E-Cat World 
  and Following Andrea Rossi. https://coldfusionnow.org/cfnpodcast/ Audio: h
- ttps://coldfusionnow.org/wp-content/uploads/podcast/Ruby-Carat-Frank-Aclan
- d-Cold-Fusion-Now-026.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSour
- ce: https://www.lackluster.org/cf/#2019-9-22
+ ttp://www.coldfusionnow.com/podcast/Ruby-Carat-Frank-Acland-Cold-Fusion-No
+ w-026.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: https://www.
+ lackluster.org/cf/#2019-9-22
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-9-22
 TRANSP:TRANSPARENT
