@@ -1,287 +1,94 @@
-# The Cold Fusion Calendar — Development Plan
+# The Cold Fusion Calendar — Plan
 
-Ordered backlog of every improvement currently scoped. Each item has effort estimate, files to touch, and acceptance criteria. Work the list top-to-bottom; later items build on earlier scaffolding.
-
----
-
-## Phase 1 — UX wins (the calendar feels modern)
-
-### 1.1 — Search box  *(~30 min)*
-
-**Why:** 292 events; no current way to type "Mizuno" and filter.
-
-**Touch:**
-- `index.html` — add `<input id="searchBox" type="search" placeholder="Search events…">` in the header `.controls` block.
-- `main.js` — add `searchTerm` state on `FusionCalendar`; in `renderPanel()` filter `monthEvents` and `upcoming` by `term ⊂ blurb|name|year`. Calendar grid `event-marker` dots also gate on the same filter so the grid reflects the filter visually.
-- `style.css` — input styling consistent with `#yearInput`.
-
-**Done when:** typing "mizuno" filters all panels live; clearing the box restores the full view; the calendar grid dots dim on days that have no matching events.
-
-### 1.2 — Permalink URLs  *(~20 min)*
-
-**Why:** Sharing a specific date currently impossible.
-
-**Touch:**
-- `main.js` — on render, `history.replaceState({}, '', '#' + ev.year + '-' + month + '-' + day)`. On load, parse `location.hash`; if it matches `^#\d{4}-\d{1,2}-\d{1,2}$`, set `currentDate` + `selectedDay` accordingly before first render. Also handle `#today` and `#YYYY` (year-only).
-
-**Done when:** `lackluster.org/cf/#1989-03-23` opens the calendar pre-scrolled to F&P announcement.
-
-### 1.3 — Filter chips (taxonomy + country)  *(~45 min)*
-
-**Why:** 24 taxonomies / 30+ countries currently scrolled past invisibly. Filter-by-category surfaces them.
-
-**Touch:**
-- `index.html` — add `<div id="filterChips" class="filter-chips"></div>` between `.main-header` and `.calendar-container`.
-- `main.js` — `buildFilterChips()` enumerates unique `taxonomy` values (sorted by frequency); each chip is a toggle. Multiple selected chips OR-combine. URL hash extends to `#date,tax=Patent,Conference&country=Italy`.
-- `style.css` — pill-style chips with active/inactive states.
-
-**Done when:** clicking "Patent" filters to 4 entries; clicking "Italy" filters by country; combined filters AND-combine across categories but OR-combine within each category.
-
-### 1.4 — Keyboard navigation  *(~20 min)*
-
-**Touch:**
-- `main.js` — global `keydown` handler:
-  - `←/→` previous/next month
-  - `↑/↓` previous/next year
-  - `/` focus search box
-  - `t` jump to today
-  - `Esc` clear search + filters
-  - `?` show keyboard shortcut help overlay
-
-**Done when:** all five shortcuts work; `Esc` clears state cleanly.
-
-### 1.5 — Year grid view  *(~1 h)*
-
-**Why:** Quickly spot decades/months with dense activity.
-
-**Touch:**
-- `index.html` — add a `view` toggle button group: Month / Year.
-- `main.js` — `renderYearGrid(year)` draws 12 mini-calendars (Jan–Dec); each day cell shows event-count saturation (heatmap).
-- `style.css` — mini-calendar layout using `grid-template-columns: repeat(4, 1fr)` (4×3 month grid).
-
-**Done when:** clicking "Year" switches to a 12-month overview with heatmap cells; clicking a mini-cell jumps back to month view at that day.
-
-### 1.6 — Mobile responsiveness  *(~45 min)*
-
-**Why:** Current 1024px breakpoint collapses the side panel below the calendar; phones get a tiny calendar with a wall of text below.
-
-**Touch:**
-- `style.css` — at `<= 600px`:
-  - Calendar fills the viewport
-  - Side panel becomes a bottom sheet that slides up when a day is tapped (`transform: translateY(...)` + drag-to-close)
-  - Header controls reflow to multiple rows
-- `main.js` — touch handlers for the bottom-sheet drag.
-
-**Done when:** iPhone-sized viewport shows a clean calendar with bottom-sheet panel that drag-dismisses.
-
-### 1.7 — Person index pages  *(~1.5 h)*
-
-**Why:** Author-centric browsing (every Mizuno / Storms / Fleischmann mention in one place).
-
-**Touch:**
-- `build_data.py` — generate `datasets/people.json` keyed by normalized surname → list of event IDs that mention that person (search `name` + extract surnames from `blurb`).
-- New file `people.html` and `people.js` — renders `/people/<slug>/` style routes (or `?person=mizuno` query string for static-host friendliness).
-- `style.css` — person-page styling.
-- Calendar `event-card .name` becomes clickable: `<a href="people.html?p=mizuno">`.
-- README — document the `/people/` index.
-
-**Done when:** clicking "Mizuno" on any event card lands on a page listing every entry referencing him, sorted chronologically.
+Strategic state of the project. For granular content gaps see `TODO.md`. For history see `CHANGELOG.md`.
 
 ---
 
-## Phase 2 — Content wins (more right things in the DB)
+## Status snapshot
 
-### 2.1 — Verify and add 7 more patents *(DONE 2026-04-29)*
+- **Live**: https://www.lackluster.org/cf/
+- **293 events** · **163 URLs across 126 entries** · **27 ICCFs** · **12 patents** · **26 podcasts** · **15 taxonomy categories**
+- **Tests passing**, all subscribe formats live (iCal, RSS, embed, OG-per-date)
 
-Added Patterson 1994/1994/1996, Rossi 2013 US, Hagelstein/MIT 2013, Storms 2014, Godes/Brillouin 2015. Calendar now has 12 verified patents. Remaining gaps: Swartz/JET NANOR, Iwamura/Mitsubishi, Mills/BLP — see TODO.md.
+## What's shipped
 
-### 2.1-old (kept for reference) — Verify and add 7 more patents
+### Phase 1 — UX (DONE)
 
-From `TODO.md`:
+Search box · permalink URLs (`#YYYY-M-D`, `#person/<slug>`, `#year-view`) · filter chips (Type / Origin) · keyboard nav (←→↑↓ T Y / Esc) · year-grid heatmap view · mobile bottom-sheet panel · person index pages with surname disambiguation.
 
-| Patentee | Likely number | Action |
-|---|---|---|
-| Patterson / CETI | US 5,318,675 (Jun 1994) | Verify on Google Patents → add to `additions.json` |
-| Patterson / CETI | US 5,372,688 (Dec 1994) | Same |
-| Patterson / CETI | US 5,494,559 (Feb 1996) | Same |
-| Swartz / JET Energy | NANOR series | Search "Swartz JET Energy NANOR" |
-| Hagelstein / MIT | Theoretical method | Search "Hagelstein MIT phonon LENR" |
-| Rossi / Leonardo | US 8,485,791 (granted 2013) | Add as separate entry from existing 2008 Italian filing |
-| Godes / Brillouin Energy | US 9,115,913 | Verify |
-| Storms | US 8,728,235 (2014) | Hydroton-related |
-| Iwamura / Mitsubishi | US/JP transmutation patents | Multiple |
+### Phase 2 — Content (mostly done)
 
-**Done when:** at least 7 new verified `Patent` entries with working Google Patents URLs appear in the calendar.
+| Item | Status |
+|---|---|
+| 2.1 Verify 7 patents | ✅ 12 patents total now |
+| 2.2 Post-2013 events | ⏸️ Blocked on verified dates |
+| 2.3 Looser LENR-CANR pass at 60% | ✅ No new valid matches |
+| 2.4 Cross-link podcasts to events | ✅ 29 cross-refs |
+| 2.5 ICCF presentation highlights | ⬜ Open |
+| 2.6 *Too Close to the Sun* URL | ✅ |
+| 2.7 Taxonomy normalization | ✅ 24 → 15 categories |
+| 2.8 Country normalization | ✅ |
 
-### 2.2 — Post-2013 event backfill  *(~1 h, mining CFN podcast notes for dates)*
+### Phase 3 — Distribution (DONE)
 
-Specific events to add:
+iCal feed (`/calendar.ics`) · RSS feed (`/feed.xml`) · embed widget (`/embed.html?day=today`) · per-date OG images at `/assets/og/MM-DD.png` · OG meta tags swapped on hash change.
 
-- **Carl Page / Anthropocene Institute** funding rounds (~2018–2019) — research dates from anthropoceneinstitute.com news
-- **MEXT NEDO MHE program** announcement (~2015) — Tohoku, $3.5M
-- **Brillouin 2X thermal gain** announcement — date from CFN podcast #20 (2019-01-15)
-- **Iwamura / Clean Planet** Tohoku launch — CFN podcast #21 (2019-02-19)
-- **NASA Bushnell** "LENR is real" Aviation Week interview — research date
-- **Google Nature companion announcements** — already have main paper; add UBC/MIT/LBNL companion press releases
+### Phase 4 — Polish (DONE)
 
-**Touch:** `datasets/additions.json` for each, with sources cited in blurbs.
+README expanded · CHANGELOG.md tracking · `tests/test_build_data.py` regression checks · `@media print` stylesheet.
 
-### 2.3 — Looser LENR-CANR pass at 60%  *(~30 min + manual review)*
+## What's left (open, ordered by impact)
 
-**Touch:**
-- `build_data.py` — temporarily lower threshold; run script that emits candidate matches; manually review for false positives; commit only verified ones.
+### Content (unblocked, can do now)
 
-**Done when:** 5+ additional Key Experiments / Publications carry lenr-canr.org PDF URLs.
+1. **More patents** *(~1.5h, Google Patents lookups)*
+   - Mitchell Swartz / JET Energy NANOR series
+   - Yasuhiro Iwamura / Mitsubishi Heavy Industries (JP + US transmutation)
+   - Randell Mills / BlackLight Power (decide scope first — adjacent, controversial)
+   - Mizuno R20 / nano-imprint (post-2018)
+   - Clean Planet / Tohoku University
 
-### 2.4 — Cross-link podcasts to event entries *(DONE 2026-04-29)*
+2. **2.5 ICCF presentation highlights** *(~1h)*
+   - Each ICCF is one entry; notable in-conference moments deserve their own dated sub-events. Source material in CFN podcast notes (Iwamura at ICCF-9, Cravens/Letts laser at ICCF-10, etc.). Adds ~15 entries.
 
-29 calendar entries now end with "(See also CFN podcast #N)" cross-references using a hand-curated guest-surname → episode map (avoids first-name false positives like "Robert" matching every Robert in the archive).
+3. **Magazine back-issues** *(open-ended)*
+   - Fusion Facts (1989+) per-issue
+   - Cold Fusion magazine (1993+) per-issue
+   - Infinite Energy per-issue (currently only 1995 launch is in)
+   - Source: `~/work/merlib-dump/Infinite Energy Magazines/Vol. 1..Vol. 25/`
 
-### 2.5 — ICCF presentation highlights  *(~1 h)*
+### Data quality (incremental)
 
-**Why:** Each ICCF is currently one entry; notable in-conference moments deserve their own.
+4. **`tests/test_urls.py`** *(~30 min)*
+   - HEAD-check every URL in blurbs; warn on 4xx/timeout. Currently only podcast MP3s + 2 lenr-canr URLs spot-checked. ~140 IMDb/Amazon/archive.org/sciencedirect/etc. URLs untested.
 
-**Touch:** Add ~15 dated sub-events: Iwamura's ICCF-9 transmutation results (date within May 19–24 2002), Letts/Cravens laser at ICCF-10 (Aug 2003), etc. Source: existing data + CFN podcast notes.
+5. **Quote attribution** *(~1h)*
+   - 173 aphorisms in quotes.json have no `source` field. Some have trailing "—Author" patterns to parse out.
 
-### 2.6 — Find *Too Close to the Sun* (1994) URL  *(~10 min)*
+6. **Real-device mobile testing** *(~30 min, needs phone)*
+   - Bottom-sheet only browser-resize tested.
 
-**Why:** Only unlinked movie. Likely on YouTube/archive.org/Vimeo.
+### Content (blocked on verified dates from primary sources)
 
-**Touch:** `datasets/additions.json` — add link once found.
+- Carl Page / Anthropocene Institute funding rounds (~2018–2019)
+- Japan MEXT NEDO MHE program kickoff (~2015)
+- NASA Bushnell "LENR is real" public statements
+- Other post-2013 LENR events with no precise dates in local archives
 
-### 2.7 — Taxonomy normalization *(DONE 2026-04-29)*
+### Out of scope (deferred)
 
-24 → 15 categories. Utah/F&P/DoE/Navy/NASA collapsed into Federal; Stupid → Reaction; Activist → Movement; Award/Personal → Recognition; TV/Report/Book → Publication; Research → Science.
-
-### 2.7-old (kept for reference) — Taxonomy normalization
-
-**Why:** Currently 24 categories with single-instance noise (Utah, F&P, DoE, Navy, Award, Patent, TV, History, Stupid→Reaction-already-done).
-
-**Touch:** Map redundant taxonomies in `build_data.py` (`TAXONOMY_FIXES = {'Utah': 'Federal', 'F&P': 'Science', 'DoE': 'Federal', ...}`).
-
-**Done when:** taxonomy count drops from 24 to ~12 stable categories.
-
-### 2.8 — Country normalization  *(~10 min)*
-
-**Why:** "US" / "USA" / "United States" mixed; same for "Japan, China" combos.
-
-**Touch:** `COUNTRY_FIXES` dict in `build_data.py`.
-
----
-
-## Phase 3 — Distribution wins (more people see it)
-
-### 3.1 — iCal feed  *(~1 h)*
-
-**Why:** Users subscribe in macOS Calendar / Google Calendar → "Today: ICCF-21 began (2018)" pops up automatically.
-
-**Touch:**
-- New `build_ical.py` — reads `data.json`, emits `calendar.ics` with one VEVENT per dated entry as a yearly-recurring all-day event (RRULE:FREQ=YEARLY). UID per entry-id. SUMMARY = name. DESCRIPTION = blurb (with URLs preserved).
-- `deploy.sh` — add `python3 build_ical.py` step.
-- `index.html` — add a "📅 Subscribe (iCal)" link in the footer pointing at `https://www.lackluster.org/cf/calendar.ics`.
-
-**Done when:** subscribing the URL in macOS Calendar.app shows yearly recurring events for every dated milestone.
-
-### 3.2 — RSS feed of upcoming anniversaries  *(~45 min)*
-
-**Why:** Discord / Slack / Mastodon all consume RSS. "Upcoming this week" feed auto-posts to community channels.
-
-**Touch:**
-- New `build_rss.py` — emits `feed.xml` with the next 30 days of upcoming anniversaries; rebuilt nightly via cron OR on each deploy.
-- `deploy.sh` — add `python3 build_rss.py` step.
-- `index.html` footer — RSS link.
-
-**Done when:** the URL validates at https://validator.w3.org/feed/ and shows up correctly in Feedly/NetNewsWire.
-
-### 3.3 — Embed widget  *(~1.5 h)*
-
-**Why:** Coldfusionnow.org / lenr-forum.com / lenr-news.com could embed "Today in Cold Fusion History" as a sidebar widget.
-
-**Touch:**
-- New `embed.html` — minimal page, no header/footer, just today's events card. Reads `?day=today|YYYY-MM-DD` from query string.
-- `style.css` — `body.embed` mode strips chrome.
-- README — document `<iframe src="https://www.lackluster.org/cf/embed.html?day=today" width="320" height="200">`.
-
-**Done when:** the iframe renders standalone with no cross-origin issues.
-
-### 3.4 — Per-date OG images  *(~1.5 h)*
-
-**Why:** Sharing `lackluster.org/cf/#1989-03-23` should preview F&P's announcement, not the static "256 milestones" card.
-
-**Touch:**
-- Extend `build_og.py` → `build_og_per_date.py` that for each unique `(month, date)` with events, renders a card showing those events. Output to `assets/og/MM-DD.png`.
-- `index.html` — JS that on load with a `#date` hash dynamically swaps the `og:image` meta tag to point at the per-date PNG. (For server-side rendering, add a tiny PHP/Python redirector at `/cf/og/?d=MM-DD`.)
-- `deploy.sh` — call the new script.
-
-**Caveat:** Twitter/Facebook cache OG images aggressively; URL-fragment changes don't bust their cache. Real-world this works best for new shares, not edits.
-
-### 3.5 — Per-date OG via static query handler  *(alternate to 3.4)*
-
-If 3.4's nginx static serving turns out limited, add a tiny `og.html` that uses `<meta http-equiv="refresh">` to redirect after setting the OG meta dynamically. Document the limitation.
-
-### 3.6 — Email digest  *(~3 h, optional — needs server)*
-
-**Why:** Weekly upcoming anniversaries email — low-frequency, high-signal subscriber loop.
-
-**Touch:** Out of scope for static hosting. Defer until there's volume to justify SES/Mailgun setup.
-
----
-
-## Phase 4 — Polish + maintenance
-
-### 4.1 — README expansion  *(~30 min)*
-
-Document:
-- Search/filter/keyboard UI
-- iCal subscription URL
-- RSS URL
-- Embed widget snippet
-- Issue templates
-- Contributor flow (PR-based or issue-based)
-
-### 4.2 — CHANGELOG.md  *(~15 min, ongoing)*
-
-Track major content drops + UX changes per deploy.
-
-### 4.3 — `tests/` — minimal regression check  *(~1 h)*
-
-- `tests/test_build_data.py` — assert event count >= last known count, all entries have month/date/year, all URLs in blurbs are reachable (`HEAD` request, allow 200/301/302).
-- GitHub Action: run on PR.
-
-### 4.4 — Print stylesheet  *(~30 min)*
-
-`@media print` — hide chrome; print one month per page; readable typography.
-
----
+- Email digest (3.6) — no audience to justify SES/Mailgun yet
+- User accounts / favorites / annotations — static-host friendly
+- Mobile native app — browser is sufficient
+- AI-generated blurb expansion — human-authored only
+- Free-energy adjacent content (Tesla / Schauberger / Russell / Moray etc.) — separate "Free Energy Calendar" project if ever built
 
 ## Sequencing recommendation
 
-If only 2 hours: **1.1 (search) + 1.2 (permalinks) + 2.6 (Too Close URL)**.
+If 1 hour: **2.5 ICCF presentation highlights**.
 
-If 1 day: Phase 1 entirely + 2.1 (verified patents) + 3.1 (iCal).
+If 2-3 hours: **More patents** (1.5h) + **`tests/test_urls.py`** (30 min) — biggest content add + catches future URL rot automatically.
 
-If 3 days: All Phases 1-3 except 3.4/3.5 (per-date OG) and 3.6 (email digest).
+If 1 day: All of the above + a magazine back-issue pass (whichever you have most local material for).
 
-Each phase commits separately; each item is self-contained. A new contributor can pick any item from this list and ship it without coordinating with anything else.
-
----
-
-## Tracked debt (from earlier work)
-
-These are already captured in `TODO.md` but worth re-stating here:
-
-- 24+ unlinked books (Mizuno 1998 paperback, Mallove pre-1991 articles, etc.)
-- Cold Fusion magazine back-issue archive integration
-- Fusion Facts magazine back-issue integration
-- Per-author bio cards (subset of 1.7)
-- Multilingual (Italian, Japanese, Finnish, French) — defer until search/filter exist
-
----
-
-## Out-of-scope (explicitly deferred)
-
-- User accounts / favorites / annotations — static-host friendly to stay free
-- Real-time collaboration features
-- Mobile native app — browser is sufficient
-- AI-generated blurb expansion — quality risk too high; human-authored only
-- Pulling adjacent free-energy content (Tesla/Schauberger/Russell/Moray etc.) — separate project ("Free Energy Calendar") if ever built
+If you have verified dates for blocked items: paste them in and we add the events directly.
