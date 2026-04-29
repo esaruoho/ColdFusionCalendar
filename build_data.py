@@ -44,7 +44,8 @@ def apply_typos(s):
 def clean_blurb(s):
     if not s: return s
     s = s.replace('\r\n', ' ').replace('\r', ' ').replace('\n', ' ')
-    s = re.sub(r',(?=[A-Za-z0-9])', ', ', s)
+    # Insert space after comma when followed by a letter (not digit — preserves "4,943,355")
+    s = re.sub(r',(?=[A-Za-z])', ', ', s)
     s = re.sub(r' {2,}', ' ', s).strip()
     s = apply_typos(s)
     if s in BLURB_FIXES: return BLURB_FIXES[s]
