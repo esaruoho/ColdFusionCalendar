@@ -85,6 +85,15 @@ class FusionCalendar {
         }
     }
 
+    swapOgImage() {
+        const m = this.currentDate.getMonth() + 1;
+        const d = this.selectedDay || this.today.getDate();
+        const url = `https://www.lackluster.org/cf/assets/og/${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}.png`;
+        document.querySelectorAll('meta[property="og:image"], meta[name="twitter:image"]').forEach(el => {
+            el.setAttribute('content', url);
+        });
+    }
+
     syncHash() {
         let main = '';
         if (this.view === 'year') main = 'year-view';
@@ -311,6 +320,7 @@ class FusionCalendar {
             this.renderPanel(year, month);
         }
         this.renderFilterChips();
+        this.swapOgImage();
         this.syncHash();
     }
 

@@ -37,6 +37,12 @@ python3 build_og.py
 echo "Generating iCal feed..."
 python3 build_ical.py
 
+echo "Generating RSS feed..."
+python3 build_rss.py
+
+echo "Generating per-date og:images..."
+python3 build_og_per_date.py
+
 echo "Syncing to ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}"
 rsync -avz --delete \
     --exclude='.git/' \
@@ -47,6 +53,10 @@ rsync -avz --delete \
     --exclude='build_data.py' \
     --exclude='build_og.py' \
     --exclude='build_ical.py' \
+    --exclude='build_rss.py' \
+    --exclude='build_og_per_date.py' \
+    --exclude='tests/' \
+    --exclude='CHANGELOG.md' \
     --exclude='deploy.sh' \
     --exclude='README.md' \
     --exclude='PLAN.md' \

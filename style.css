@@ -807,3 +807,44 @@ body.view-person .days-of-week { display: none; }
     /* Year grid: 2 cols on phone */
     .calendar-grid.year-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ================================================================
+   Print stylesheet — clean printable monthly pages
+   ================================================================ */
+@media print {
+    @page { size: A4; margin: 1.5cm; }
+    body { background: white; color: black; }
+    #app { padding: 0; height: auto; max-width: 100%; }
+    .bg-fx, .controls .nav-btn, #copyAllBtn, #viewToggleBtn, #searchBox,
+    #yearInput, .filter-chips, .quote-strip, .footer-links, .panel-handle { display: none !important; }
+    .main-header { border-bottom: 1px solid #ccc; padding-bottom: 0.5rem; margin-bottom: 1rem; }
+    .logo-area h1 { color: black; font-size: 1.5rem; }
+    .logo-area .label, .current-period { color: black; }
+    #yearInput { display: inline; border: none; background: none; color: black; font-weight: 700; }
+    .calendar-container { display: block; }
+    .calendar-wrapper { background: white; border: 1px solid #ccc; padding: 0.5rem; }
+    .days-of-week { color: black; }
+    .day-cell { background: white !important; border: 1px solid #ddd; min-height: 60px; }
+    .day-cell.today { outline: 2px solid black; }
+    .day-cell.has-events .event-marker { background: black; box-shadow: none; }
+    .day-cell .day-num { color: black; }
+    .event-details {
+        background: white; border: none; padding: 1rem 0;
+        position: static !important; transform: none !important;
+        max-height: none; height: auto;
+    }
+    .event-card {
+        page-break-inside: avoid;
+        background: white !important; border-left: 2px solid #444;
+        color: black;
+    }
+    .event-card .name { color: black; }
+    .event-card .blurb { color: #333; font-style: normal; }
+    .event-card .date-chip { color: #666; }
+    .event-card .taxonomy { color: #444; background: #eee; }
+    .event-card a { color: black; text-decoration: underline; }
+    .event-card a::after { content: " (" attr(href) ")"; font-size: 0.7em; color: #666; }
+    .panel-section .detail-header { background: white; }
+    .detail-header h3 { color: black; }
+    .main-footer { display: none; }
+}

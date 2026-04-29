@@ -1376,8 +1376,8 @@ DTEND;VALUE=DATE:19900728
 RRULE:FREQ=YEARLY
 SUMMARY:Storms\, Talcott (1990)
 DESCRIPTION:Key Experiment: Electrolytic Tritium Production by Edmund Storm
- s and Carol Talcott. 1990\n\nYear: 1990\nType: Key Experiment\nOrigin: US\
- n\nSource: https://www.lackluster.org/cf/#1990-7-27
+ s and Carol Talcott from LANL. *1990\n\nYear: 1990\nType: Key Experiment\n
+ Origin: US\n\nSource: https://www.lackluster.org/cf/#1990-7-27
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1990-7-27
 TRANSP:TRANSPARENT
@@ -2807,20 +2807,6 @@ URL:https://www.lackluster.org/cf/#2002-5-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6a4cf06e6b868c04@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20020521
-DTEND;VALUE=DATE:20020522
-RRULE:FREQ=YEARLY
-SUMMARY:JCMNS (2002)
-DESCRIPTION:New Journal is named Condensed Matter Nuclear Science\n\nYear: 
- 2002\nType: Publication\nOrigin: Global\n\nSource: https://www.lackluster.
- org/cf/#2002-5-21
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2002-5-21
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-7b32691ad8eb0166@lackluster.org
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20020521
@@ -2967,20 +2953,6 @@ DESCRIPTION:The U.S. Department of Energy issues final report of second rev
   https://www.lackluster.org/cf/#2004-12-1
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2004-12-1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-da35bd8b0f18a189@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20041217
-DTEND;VALUE=DATE:20041218
-RRULE:FREQ=YEARLY
-SUMMARY:Rothwell (2004)
-DESCRIPTION:Cold Fusion and the Future by Jed Rothwell released. 2004\n\nYe
- ar: 2004\nType: Publication\nOrigin: US\n\nSource: https://www.lackluster.
- org/cf/#2004-12-17
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2004-12-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3233,20 +3205,6 @@ DESCRIPTION:James Martinez inaugurates Cold Fusion Radio with Edmund Storms
  ckluster.org/cf/#2008-11-20
 CATEGORIES:Activist
 URL:https://www.lackluster.org/cf/#2008-11-20
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-0b2bd8a06e2cd70c@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20090102
-DTEND;VALUE=DATE:20090103
-RRULE:FREQ=YEARLY
-SUMMARY:Jeane Manning\, Joel Garbon (2009)
-DESCRIPTION:Breakthrough Power by Jeane Manning and Jeol Garbon of the Brea
- kthrough Energy Movement released. 2009\n\nYear: 2009\nType: Book\nOrigin:
-  US\n\nSource: https://www.lackluster.org/cf/#2009-1-2
-CATEGORIES:Book
-URL:https://www.lackluster.org/cf/#2009-1-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3600,20 +3558,6 @@ URL:https://www.lackluster.org/cf/#2012-3-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b1cd182e4acfd9f6@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20120806
-DTEND;VALUE=DATE:20120807
-RRULE:FREQ=YEARLY
-SUMMARY:Celani (2012)
-DESCRIPTION:National Instruments features LENR at NIWeek 2012. 2012\n\nYear
- : 2012\nType: Demo\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2
- 012-8-6
-CATEGORIES:Demo
-URL:https://www.lackluster.org/cf/#2012-8-6
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-e0cdffa6643e66bc@lackluster.org
 DTSTAMP:20260429T000000Z
 DTSTART;VALUE=DATE:20120806
@@ -3655,21 +3599,6 @@ DESCRIPTION:Cold fusion documentary The Believers wins Best Documentary. ht
  \n\nSource: https://www.lackluster.org/cf/#2012-10-12
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2012-10-12
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-19c898ae9af391c5@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20121203
-DTEND;VALUE=DATE:20121204
-RRULE:FREQ=YEARLY
-SUMMARY:Biberian (2012)
-DESCRIPTION:Jean-Paul Biberian releases new book All about Fusion Cold Fusi
- on\, ITER\, Alchemy\, Biological Transmutations with Preface by Stanley Po
- ns. 2012\n\nYear: 2012\nType: Publication\nOrigin: France\n\nSource: https
- ://www.lackluster.org/cf/#2012-12-3
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2012-12-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4057,6 +3986,23 @@ DESCRIPTION:Cold Fusion Now! Podcast Ep. 018 — David Daggett: From Aerosp
  r.org/cf/#2018-10-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-10-23
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-22d84f722e2d9557@lackluster.org
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20181218
+DTEND;VALUE=DATE:20181219
+RRULE:FREQ=YEARLY
+SUMMARY:Clean Planet / Mitsubishi Estate (2018)
+DESCRIPTION:Mitsubishi Estate Co. invests in Clean Planet Inc.\, the Tokyo 
+ venture company commercialising Yasuhiro Iwamura's LENR research at Tohoku
+  University. Strengthens the financial base for Metal Hydrogen Energy (MHE
+ ) commercialisation. Source: Cold Fusion Now! podcast #21 (Feb 19 2019). h
+ ttps://coldfusionnow.org/cfnpodcast/\n\nYear: 2018\nType: Business\nOrigin
+ : Japan\n\nSource: https://www.lackluster.org/cf/#2018-12-18
+CATEGORIES:Business
+URL:https://www.lackluster.org/cf/#2018-12-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

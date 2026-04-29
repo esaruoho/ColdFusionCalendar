@@ -916,5 +916,14 @@
     "taxonomy": "Movie",
     "country": "Canada",
     "blurb": "Landmark documentary Too Close to the Sun on the early history of the cold fusion underground airs. Watch: https://www.youtube.com/watch?v=CZKRXabsa4I  IMDb: https://www.imdb.com/title/tt2331825/"
+  },
+  {
+    "month": 12,
+    "date": 18,
+    "year": 2018,
+    "name": "Clean Planet / Mitsubishi Estate",
+    "taxonomy": "Business",
+    "country": "Japan",
+    "blurb": "Mitsubishi Estate Co. invests in Clean Planet Inc., the Tokyo venture company commercialising Yasuhiro Iwamura's LENR research at Tohoku University. Strengthens the financial base for Metal Hydrogen Energy (MHE) commercialisation. Source: Cold Fusion Now! podcast #21 (Feb 19 2019). https://coldfusionnow.org/cfnpodcast/"
   }
 ]

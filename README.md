@@ -6,15 +6,49 @@ An interactive chronology of Low Energy Nuclear Reactions (LENR) and energy scie
 
 ## What it does
 
-- 255+ historical milestones — from Newton's *New Theory of Light and Colors* (1671) to ICCF-27 (2026)
-- Click any highlighted day to surface that day's events
-- Today's anniversaries shown automatically — no clicking required
-- "Quote of the Day" rotator (173 undated archive aphorisms)
-- Year input — type `1989` and jump there directly
-- Copy All button — dump every event as markdown for an LLM
-- Auto-linked URLs and author names (e.g., every "Jed Rothwell" mention links to lenr-canr.org)
-- All 27 ICCF / ICCMNS conferences indexed with verified dates and locations
-- Footer links: coldfusionnow.org, lenr-canr.org, lenr-forum.com, lenr-news.com
+- 290+ historical milestones — from Newton's *New Theory of Light and Colors* (1671) to ICCF-27 (2026)
+- All 27 ICCF / ICCMNS conferences indexed with verified dates and proceedings PDFs
+- 26 Cold Fusion Now! podcast episodes (2018-2019) imported with audio links
+- 17+ LENR-CANR PDF papers cross-referenced; 4 verified cold fusion patents on Google Patents
+- Today's anniversaries shown automatically; "Quote of the Day" rotator
+- Auto-linked URLs and "Jed Rothwell" mentions
+
+## Browse + share
+
+| Feature | How |
+|---|---|
+| Search | `/` to focus, type to filter every panel live |
+| Filter chips | Toggle Type / Origin chips above the calendar; multi-select; URL-shareable |
+| Year input | Type `1989` in the year box and Enter — Ruby's request |
+| Year-grid view | "Year" button (or `Y` key) shows 12-month heatmap |
+| Today | "Today" button (or `T` key) jumps to today's date |
+| Permalinks | `/cf/#1989-3-23` opens F&P announcement; `/cf/#person/mizuno` lists every Mizuno entry |
+| Person pages | Click any name in an event card |
+| Copy All | Dumps every event as markdown for ChatGPT / Claude / etc. |
+| Mobile | Full bottom-sheet panel; drag handle (or tap) to dismiss |
+
+### Keyboard shortcuts
+
+| Key | Action |
+|---|---|
+| `←` / `→` | Previous / next month |
+| `↑` / `↓` | Previous / next year |
+| `T` | Jump to today |
+| `Y` | Toggle year-grid view |
+| `/` | Focus search box |
+| `Esc` | Clear search and filters |
+
+### Subscribe
+
+| Format | URL | What it gives you |
+|---|---|---|
+| iCal | `https://www.lackluster.org/cf/calendar.ics` | Yearly-recurring events in macOS Calendar / Google Calendar |
+| RSS | `https://www.lackluster.org/cf/feed.xml` | Next 60 days of upcoming anniversaries in any feed reader |
+| Embed | `<iframe src="https://www.lackluster.org/cf/embed.html?day=today" width="320" height="200">` | "Today in Cold Fusion History" widget for your blog / forum |
+
+### Footer links
+
+coldfusionnow.org · lenr-canr.org · lenr-forum.com · lenr-news.com · GitHub source · iCal · RSS · Embed
 
 ## Run it locally
 
