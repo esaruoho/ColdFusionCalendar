@@ -204,7 +204,7 @@
     "name": "CFN Podcast #013",
     "taxonomy": "Podcast",
     "country": "US",
-    "blurb": "Cold Fusion Now! Podcast Ep. 013 — Dr. Michael McKubre: Fleischmann-Ponds Heat: What Do We Know and Why?. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Michael-McKubre-Cold-Fusion-Now-013.mp3"
+    "blurb": "Cold Fusion Now! Podcast Ep. 013 — Dr. Michael McKubre: Fleischmann-Pons Heat: What Do We Know and Why?. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Michael-McKubre-Cold-Fusion-Now-013.mp3"
   },
   {
     "month": 9,
@@ -486,10 +486,10 @@
     "blurb": "“Anomalous Effects in Deuterated Systems — Melvin Miles: The Correlation of Excess Heat and Helium” released — first documentary in the Cold Fusion Now! Navy LENR Research Series, soundtrack by Lackluster (Esa Ruoho). Watch: https://www.youtube.com/watch?v=KM82RW7_II4"
   },
   {
-    "month": 1,
+    "month": 3,
     "date": 1,
     "year": 2024,
-    "name": "Cold Fusion Now! / Biberian",
+    "name": "Documentary: Hydrogen Metal Energy Nanopowder",
     "taxonomy": "Movie",
     "country": "France",
     "blurb": "“Hydrogen Metal Energy Nanopowder” released — Cold Fusion Now! documentary on Jean-Paul Biberian, Robert Michel, Christophe Le Roux, Mathieu Valat, and Jacques Ruer's CLEAN-HME nanopowder research, filmed in France March 2024, soundtrack by Lackluster (Esa Ruoho). https://coldfusionnow.org/"
@@ -1240,14 +1240,5 @@
     "taxonomy": "Business",
     "country": "Japan",
     "blurb": "Mitsubishi Estate Co. invests in Clean Planet Inc., the Tokyo venture company commercialising Yasuhiro Iwamura's LENR research at Tohoku University. Strengthens the financial base for Metal Hydrogen Energy (MHE) commercialisation. Source: Cold Fusion Now! podcast #21 (Feb 19 2019). https://coldfusionnow.org/cfnpodcast/ (See also CFN podcast #21: https://coldfusionnow.org/cfnpodcast/)"
-  },
-  {
-    "month": 1,
-    "date": 1,
-    "year": 2024,
-    "name": "Cold Fusion Now! / Biberian",
-    "taxonomy": "Movie",
-    "country": "France",
-    "blurb": "“Hydrogen Metal Energy Nanopowder” released — Cold Fusion Now! documentary on Jean-Paul Biberian, Robert Michel, Christophe Le Roux, Mathieu Valat, and Jacques Ruer's CLEAN-HME nanopowder research, filmed in France March 2024, soundtrack by Lackluster (Esa Ruoho). https://coldfusionnow.org/ (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)"
   }
 ]

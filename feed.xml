@@ -5,447 +5,319 @@
     <link>https://www.lackluster.org/cf/</link>
     <description>Yearly anniversaries of milestones in cold fusion / LENR / energy science, looking 60 days ahead.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:43:37 GMT</lastBuildDate>
     <atom:link href="https://www.lackluster.org/cf/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Apr 30: Three Lab Explosions in China (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-4-30</link>
-      <guid isPermaLink="false">cf-1991-4-30-2026</guid>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 GMT</pubDate>
+      <title>Jul 8: Japan&#x27;s MITI Funds 4-Year Cold Fusion Program (1992)</title>
+      <link>https://www.lackluster.org/cf/#1992-7-8</link>
+      <guid isPermaLink="false">cf-1992-7-8-2026</guid>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Business</category>
+      <description>Japan&#x27;s MITI funds four-year cold fusion program with Hitachi, Toshiba, Toyota, Tokyo Electric Power, and others.</description>
+    </item>
+    <item>
+      <title>Jul 9: Storms: &#x27;The Science of Low Energy Nuclear Reaction&#x27; (2007)</title>
+      <link>https://www.lackluster.org/cf/#2007-7-9</link>
+      <guid isPermaLink="false">cf-2007-7-9-2026</guid>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Publication</category>
+      <description>The Science of Low Energy Nuclear Reaction, a comprehensive survey of the field by Edmund Storms is published by World Scientific. Available via lenr-canr.org bibliography: http://lenr-canr.org/ (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
+    </item>
+    <item>
+      <title>Jul 10: Happy Birthday, Nikola Tesla! (1856)</title>
+      <link>https://www.lackluster.org/cf/#1856-7-10</link>
+      <guid isPermaLink="false">cf-1856-7-10-2026</guid>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Recognition</category>
+      <description>Happy Birthday Nikola Tesla!</description>
+    </item>
+    <item>
+      <title>Jul 13: Cold Nuclear Fusion Paper by S.E. Jones et al (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-7-13</link>
+      <guid isPermaLink="false">cf-1989-7-13-2026</guid>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 GMT</pubDate>
       <category>Science</category>
-      <description>Zhang Xinwie et al. experience three explosions in their lab.</description>
+      <description>Cold Nuclear Fusion by S.E. Jones and J. Rafelski published in Scientific American.</description>
     </item>
     <item>
-      <title>Apr 30: Swartz: Optimal Operating Point Characteristics (1998)</title>
-      <link>https://www.lackluster.org/cf/#1998-4-30</link>
-      <guid isPermaLink="false">cf-1998-4-30-2026</guid>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 GMT</pubDate>
+      <title>Jul 14: Rossi Describes Steam Generator to NASA (2011)</title>
+      <link>https://www.lackluster.org/cf/#2011-7-14</link>
+      <guid isPermaLink="false">cf-2011-7-14-2026</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Federal</category>
+      <description>Andrea Rossi describes to NASA a steam generator that uses 50 grams of micron-sized nickel powder and 1 gram of hydrogen gas.</description>
+    </item>
+    <item>
+      <title>Jul 15: Iwamura/Mitsubishi: Pd-D2O Thin-Film Results (2002)</title>
+      <link>https://www.lackluster.org/cf/#2002-7-15</link>
+      <guid isPermaLink="false">cf-2002-7-15-2026</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Yasuhiro Iwamura et al. at Mitsubishi Heavy Industries publish results of Pd-D2O gas-loaded thin-films showing transmutations. (See also CFN podcast #21: https://coldfusionnow.org/cfnpodcast/)</description>
+    </item>
+    <item>
+      <title>Jul 16: Rossi / Leonardo Corp (2013)</title>
+      <link>https://www.lackluster.org/cf/#2013-7-16</link>
+      <guid isPermaLink="false">cf-2013-7-16-2026</guid>
+      <pubDate>Thu, 16 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Patent</category>
+      <description>Andrea Rossi granted US 8,485,791 — Method and apparatus for carrying out nickel-hydrogen exothermal reactions (US grant of WO 2009/125444). https://patents.google.com/patent/US8485791B2/en</description>
+    </item>
+    <item>
+      <title>Jul 18: Hal Fox Founds Fusion Information Center (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-7-18</link>
+      <guid isPermaLink="false">cf-1989-7-18-2026</guid>
+      <pubDate>Sat, 18 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Publication</category>
+      <description>Fusion Information Center founded by Hal Fox publishes first issue of Fusion Facts.</description>
+    </item>
+    <item>
+      <title>Jul 21: ICCF-18: 18th International Conference (CMNS) (2013)</title>
+      <link>https://www.lackluster.org/cf/#2013-7-21</link>
+      <guid isPermaLink="false">cf-2013-7-21-2026</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Conference</category>
+      <description>ICCF-18 — International Conference on Condensed Matter Nuclear Science held in Columbia, Missouri, USA. Proceedings / info: https://iscmns.org/iccf18/</description>
+    </item>
+    <item>
+      <title>Jul 23: Liebert &amp; Liaw at U Hawaii: 500% Excess Power (1990)</title>
+      <link>https://www.lackluster.org/cf/#1990-7-23</link>
+      <guid isPermaLink="false">cf-1990-7-23-2026</guid>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Bruce Liebert, Bor Yann Kiaw et al. at University of Hawaii report multi-watt excess power output of 500%.</description>
+    </item>
+    <item>
+      <title>Jul 25: Fleischmann &amp; Pons: Pd-D2O Calorimetry (1990)</title>
+      <link>https://www.lackluster.org/cf/#1990-7-25</link>
+      <guid isPermaLink="false">cf-1990-7-25-2026</guid>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 GMT</pubDate>
       <category>Key Experiment</category>
-      <description>Key Experiment: Optimal Operating Point Characteristics by Mitchell Swartz.</description>
+      <description>Key Experiment: Calorimetry of the palladium-deuterium-heavy water system by M. Fleischmann and S. Pons. 1990 PDF: http://lenr-canr.org/acrobat/Fleischmancalorimetr.pdf</description>
     </item>
     <item>
-      <title>May 1: Chubb Organizes First Cold Fusion APS Session (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-1</link>
-      <guid isPermaLink="false">cf-1989-5-1-2026</guid>
-      <pubDate>Fri, 01 May 2026 06:00:00 GMT</pubDate>
+      <title>Jul 25: ICCF-24: 24th International Conference (CMNS) (2022)</title>
+      <link>https://www.lackluster.org/cf/#2022-7-25</link>
+      <guid isPermaLink="false">cf-2022-7-25-2026</guid>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 GMT</pubDate>
       <category>Conference</category>
-      <description>Scott Chubb organizes first session on cold fusion at an American Physical Society meeting.</description>
+      <description>ICCF-24 — International Conference on Condensed Matter Nuclear Science held in Mountain View, California, USA. Proceedings / info: https://anthropoceneinstitute.com/iccf24/</description>
     </item>
     <item>
-      <title>May 1: APS Meeting Denounces Cold Fusion (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-1</link>
-      <guid isPermaLink="false">cf-1989-5-1-2026</guid>
-      <pubDate>Fri, 01 May 2026 06:00:00 GMT</pubDate>
+      <title>Jul 26: Oriani: Calorimetric Excess Power Measurement (1990)</title>
+      <link>https://www.lackluster.org/cf/#1990-7-26</link>
+      <guid isPermaLink="false">cf-1990-7-26-2026</guid>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Key Experiment</category>
+      <description>Key Experiment: Calorimetric Measurement of Excess Power Output During the Cathodic Charging of Deuterium into palladium by R. Oriani. 1990. PDF: http://lenr-canr.org/acrobat/OrianiRAcalorimetr.pdf</description>
+    </item>
+    <item>
+      <title>Jul 27: Storms &amp; Talcott: Electrolytic Tritium Production (1990)</title>
+      <link>https://www.lackluster.org/cf/#1990-7-27</link>
+      <guid isPermaLink="false">cf-1990-7-27-2026</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Key Experiment</category>
+      <description>Key Experiment: A Study of Electrolytic Tritium Production by Edmund Storms and Carol Talcott. 1990 PDF: http://lenr-canr.org/acrobat/StormsEastudyofel.pdf (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
+    </item>
+    <item>
+      <title>Jul 27: Storms Replicates Takahashi Excess Heat (1992)</title>
+      <link>https://www.lackluster.org/cf/#1992-7-27</link>
+      <guid isPermaLink="false">cf-1992-7-27-2026</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Edmund Storms announces replication of Akito Takahashi excess heat. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
+    </item>
+    <item>
+      <title>Jul 28: Rafelski &amp; Jones: Cold Nuclear Fusion in Sci. American (1987)</title>
+      <link>https://www.lackluster.org/cf/#1987-7-28</link>
+      <guid isPermaLink="false">cf-1987-7-28-2026</guid>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>J. Rafelski and Steve Jones publish Cold Nuclear Fusion in Scientific American.</description>
+    </item>
+    <item>
+      <title>Jul 31: Ten Teams Report Cold Fusion Success in Japan (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-7-31</link>
+      <guid isPermaLink="false">cf-1989-7-31-2026</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 GMT</pubDate>
       <category>Conference</category>
-      <description>Physicists at American Physical Society (APS) meeting hotly denounce the work of Martin Fleischmann and Stanley Pons.</description>
+      <description>Ten teams report successful experiments at cold fusion conference held in Japan.</description>
     </item>
     <item>
-      <title>May 2: Case Demonstrates D2 Gas-Loaded Cell (1998)</title>
-      <link>https://www.lackluster.org/cf/#1998-5-2</link>
-      <guid isPermaLink="false">cf-1998-5-2-2026</guid>
-      <pubDate>Sat, 02 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 1: Mills: K2CO3 Aqueous Excess Heat Experiment (1991)</title>
+      <link>https://www.lackluster.org/cf/#1991-8-1</link>
+      <guid isPermaLink="false">cf-1991-8-1-2026</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Key Experiment</category>
+      <description>Key Experiment: Excess Heat Production by the Electrolysis of an Aqueous Potassium Carbonate Electrolyte and the Implications for Cold Fusion by Randall Mills and Steven O. Kneizys. *1991. PDF: http://lenr-canr.org/acrobat/MillsRLexcessheat.pdf</description>
+    </item>
+    <item>
+      <title>Aug 5: U of Utah Approves National Cold Fusion Institute (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-8-5</link>
+      <guid isPermaLink="false">cf-1989-8-5-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Institute</category>
+      <description>University of Utah Regents approve National Cold Fusion Institute.</description>
+    </item>
+    <item>
+      <title>Aug 5: Chubb: &#x27;Cold Fusion: Clean Energy for the Future&#x27; (2008)</title>
+      <link>https://www.lackluster.org/cf/#2008-8-5</link>
+      <guid isPermaLink="false">cf-2008-8-5-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Publication</category>
+      <description>Cold Fusion: Clean Energy for the Future is published by Talbot Chubb. https://archive.org/details/coldfusioncleanenergychubb</description>
+    </item>
+    <item>
+      <title>Aug 6: Celani Demos Ni-H Cell at NIWeek 2012 (2012)</title>
+      <link>https://www.lackluster.org/cf/#2012-8-6</link>
+      <guid isPermaLink="false">cf-2012-8-6-2026</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
       <category>Demo</category>
-      <description>Leslie Case demonstrates deuterium gas-loaded metallic-catalyst cell.</description>
+      <description>National Instruments, a scientific lab equipment and software maker based in Austin, Texas opens NIWeek 2012 featuring LENR.</description>
     </item>
     <item>
-      <title>May 3: Beaudette: &#x27;Excess Heat&#x27; Book Released (2000)</title>
-      <link>https://www.lackluster.org/cf/#2000-5-3</link>
-      <guid isPermaLink="false">cf-2000-5-3-2026</guid>
-      <pubDate>Sun, 03 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 7: Re-Analysis of MIT 1989 Cold Fusion Data (1992)</title>
+      <link>https://www.lackluster.org/cf/#1992-8-7</link>
+      <guid isPermaLink="false">cf-1992-8-7-2026</guid>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 GMT</pubDate>
       <category>Publication</category>
-      <description>Excess Heat How Cold Fusion Research Prevailed by Charles Beaudette is published. 2000. PDF: http://lenr-canr.org/acrobat/BeaudetteCexcessheat.pdf</description>
+      <description>Mitchell Swartz publishes re-analysis of MIT&#x27;s 1989 cold fusion experiments showing apparent excess heat in the original data. https://lenr-canr.org/acrobat/SwartzMreexamining.pdf</description>
     </item>
     <item>
-      <title>May 3: CFN Podcast #011 — Dr. Vladimir Vysotskii: Biological Transmutations (2018)</title>
-      <link>https://www.lackluster.org/cf/#2018-5-3</link>
-      <guid isPermaLink="false">cf-2018-5-3-2026</guid>
-      <pubDate>Sun, 03 May 2026 06:00:00 GMT</pubDate>
-      <category>Podcast</category>
-      <description>Cold Fusion Now! Podcast Ep. 011 — Dr. Vladimir Vysotskii: Biological Transmutations and Deactivation of Radioactive Isotopes. https://coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_011_Vladimir_Vysotskii.mp3</description>
+      <title>Aug 10: ICCF-14: 14th International Conference (CMNS) (2008)</title>
+      <link>https://www.lackluster.org/cf/#2008-8-10</link>
+      <guid isPermaLink="false">cf-2008-8-10-2026</guid>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Conference</category>
+      <description>ICCF-14 — International Conference on Condensed Matter Nuclear Science held in Washington, D.C., USA. Proceedings / info: http://lenr-canr.org/acrobat/NagelDJlowenergyna.pdf</description>
     </item>
     <item>
-      <title>May 4: Bockris Confirms at Texas A&amp;M (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-4</link>
-      <guid isPermaLink="false">cf-1989-5-4-2026</guid>
-      <pubDate>Mon, 04 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Third team at Texas A&amp;M headed by John Bockris confirms Fleischmann-Pons Effect (FPE)</description>
-    </item>
-    <item>
-      <title>May 5: Storms Testifies Before U.S. Congress (1993)</title>
-      <link>https://www.lackluster.org/cf/#1993-5-5</link>
-      <guid isPermaLink="false">cf-1993-5-5-2026</guid>
-      <pubDate>Tue, 05 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 12: Zawodny (2009)</title>
+      <link>https://www.lackluster.org/cf/#2009-8-12</link>
+      <guid isPermaLink="false">cf-2009-8-12-2026</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
       <category>Federal</category>
-      <description>Edmund Storms testifies before the U.S. House Subcommittee on Science, Space, and Technology. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
+      <description>Joseph Zawodny of NASA Langley Research Center releases “Low Energy Nuclear Reaction: An Energetics Revolution ...”</description>
     </item>
     <item>
-      <title>May 7: India: Ten Teams Replicate Fleischmann-Pons (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-7</link>
-      <guid isPermaLink="false">cf-1989-5-7-2026</guid>
-      <pubDate>Thu, 07 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Mumbai&#x27;s The Indian Post reports ten teams in India replicate the Fleischmann-Pons Effect (FPE)</description>
-    </item>
-    <item>
-      <title>May 8: F-Day at Electrochemical Society Meeting (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-8</link>
-      <guid isPermaLink="false">cf-1989-5-8-2026</guid>
-      <pubDate>Fri, 08 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>F-day at Electrochemical Society Meeting.</description>
-    </item>
-    <item>
-      <title>May 9: Fleischmann &amp; Pons at Electrochemical Society LA (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-9</link>
-      <guid isPermaLink="false">cf-1989-5-9-2026</guid>
-      <pubDate>Sat, 09 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 12: ICCF-17: 17th International Conference (CMNS) (2012)</title>
+      <link>https://www.lackluster.org/cf/#2012-8-12</link>
+      <guid isPermaLink="false">cf-2012-8-12-2026</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
       <category>Conference</category>
-      <description>Martin Fleischmann and Stanley Pons provide additional data at a meeting of the Electrochemical Society in Los Angeles, California.</description>
+      <description>ICCF-17 — International Conference on Condensed Matter Nuclear Science held in Daejeon, South Korea. Proceedings / info: https://iscmns.org/iccf17/</description>
     </item>
     <item>
-      <title>May 10: Fleischmann, Pons &amp; Hawkins Publish JEC Errata (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-10</link>
-      <guid isPermaLink="false">cf-1989-5-10-2026</guid>
-      <pubDate>Sun, 10 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 14: U.S. National Cold Fusion Institute Formed (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-8-14</link>
+      <guid isPermaLink="false">cf-1989-8-14-2026</guid>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Federal</category>
+      <description>The U.S. National Cold Fusion Institute in Salt Lake City, Utah is formed.</description>
+    </item>
+    <item>
+      <title>Aug 16: Piantelli Discovers Excess Heat in Ni-H System (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-8-16</link>
+      <guid isPermaLink="false">cf-1989-8-16-2026</guid>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 GMT</pubDate>
       <category>Science</category>
-      <description>Fleischmann, Pons, and Hawkins publish errata in Journal of Electroanalytical Chemistry.</description>
+      <description>Francesco Piantelli discovers extreme excess heat in a gas-loaded nickel-hydrogen system.</description>
     </item>
     <item>
-      <title>May 12: Stan Szpak: Pd-D Co-deposition Method (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-5-12</link>
-      <guid isPermaLink="false">cf-1991-5-12-2026</guid>
-      <pubDate>Tue, 12 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Navy researcher Stan Szpak et al publish on a new method of initiating the reaction that he developed using electro-deposited palladium-deuteride. 1991 ..... in Journal Electroanalytical Chemistry.</description>
+      <title>Aug 17: Documentary: Hydroton — A Model of Cold Fusion (Edmund Storms) (2017)</title>
+      <link>https://www.lackluster.org/cf/#2017-8-17</link>
+      <guid isPermaLink="false">cf-2017-8-17-2026</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Movie</category>
+      <description>“Hydroton — A Model of Cold Fusion” by Edmund Storms, produced by Cold Fusion Now!. Watch: https://www.youtube.com/watch?v=D4BPtwzsgiw (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
     </item>
     <item>
-      <title>May 13: Ruby Carat Founds Cold Fusion Now (2010)</title>
-      <link>https://www.lackluster.org/cf/#2010-5-13</link>
-      <guid isPermaLink="false">cf-2010-5-13-2026</guid>
-      <pubDate>Wed, 13 May 2026 06:00:00 GMT</pubDate>
-      <category>Movement</category>
-      <description>In the midst of the BP Oil Catastrophe, Ruby Carat forms Cold Fusion Now to promote clean energy from cold fusion.</description>
+      <title>Aug 18: Cornell Assembles Cold Fusion Archives (1990)</title>
+      <link>https://www.lackluster.org/cf/#1990-8-18</link>
+      <guid isPermaLink="false">cf-1990-8-18-2026</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Institute</category>
+      <description>Cornell University announces assembly of cold fusion archives.</description>
     </item>
     <item>
-      <title>May 13: CFN Podcast #012 — Dr. Melvin Miles: The Heat-Helium Discovery (2018)</title>
-      <link>https://www.lackluster.org/cf/#2018-5-13</link>
-      <guid isPermaLink="false">cf-2018-5-13-2026</guid>
-      <pubDate>Wed, 13 May 2026 06:00:00 GMT</pubDate>
-      <category>Podcast</category>
-      <description>Cold Fusion Now! Podcast Ep. 012 — Dr. Melvin Miles: The Heat-Helium Discovery. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Melvin-Miles-Cold-Fusion-Now-012.mp3</description>
+      <title>Aug 24: Japan Forms National Cold Fusion Working Group (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-8-24</link>
+      <guid isPermaLink="false">cf-1989-8-24-2026</guid>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Institute</category>
+      <description>Japan organizes a working group on cold fusion in the National Institute for Fusion Science.</description>
     </item>
     <item>
-      <title>May 15: Russian Glow-Discharge Cold Fusion Observation (1990)</title>
-      <link>https://www.lackluster.org/cf/#1990-5-15</link>
-      <guid isPermaLink="false">cf-1990-5-15-2026</guid>
-      <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>A.B. Karabut, Ya.R. Kucherov, and I.V. Savvatimova present Cold Fusion Observation at Gas-Discharge Device Cathode.</description>
-    </item>
-    <item>
-      <title>May 18: Ten Teams Report FPE Replication (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-18</link>
-      <guid isPermaLink="false">cf-1989-5-18-2026</guid>
-      <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Ten teams report success replicating the FPE at cold fusion meeting at Bhabha Atomic Research Centre (BARC) near Mumbai, India.</description>
-    </item>
-    <item>
-      <title>May 19: Storms (1990)</title>
-      <link>https://www.lackluster.org/cf/#1990-5-19</link>
-      <guid isPermaLink="false">cf-1990-5-19-2026</guid>
-      <pubDate>Tue, 19 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Edmund Storms of Los Alamos National Lab (LANL) compiles survey of 16 successes in tritium detection, 15 in neutron detection, and 19 successes replicating the FPE. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
-    </item>
-    <item>
-      <title>May 19: ICCF-9: 9th International Cold Fusion Conference (2002)</title>
-      <link>https://www.lackluster.org/cf/#2002-5-19</link>
-      <guid isPermaLink="false">cf-2002-5-19-2026</guid>
-      <pubDate>Tue, 19 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 24: ICCF-10: 10th International Cold Fusion Conference (2003)</title>
+      <link>https://www.lackluster.org/cf/#2003-8-24</link>
+      <guid isPermaLink="false">cf-2003-8-24-2026</guid>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 GMT</pubDate>
       <category>Conference</category>
-      <description>ICCF-9 — International Conference on Cold Fusion held in Beijing, China. Proceedings / info: http://lenr-canr.org/acrobat/LiXZcondensedm.pdf</description>
+      <description>ICCF-10 — International Conference on Cold Fusion held in Cambridge, Massachusetts, USA. Proceedings / info: http://lenr-canr.org/acrobat/HagelsteinPcondensedm.pdf</description>
     </item>
     <item>
-      <title>May 20: Storms Granted US 8,728,235 Cold Fusion Patent (2014)</title>
-      <link>https://www.lackluster.org/cf/#2014-5-20</link>
-      <guid isPermaLink="false">cf-2014-5-20-2026</guid>
-      <pubDate>Wed, 20 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 25: Patent: US 9,115,913 — Brillouin Energy (Robert Godes) (2015)</title>
+      <link>https://www.lackluster.org/cf/#2015-8-25</link>
+      <guid isPermaLink="false">cf-2015-8-25-2026</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 GMT</pubDate>
       <category>Patent</category>
-      <description>Edmund Storms granted US 8,728,235 — Method and apparatus for cold fusion based on the Hydroton model of nuclear-active environments in palladium hydride. https://patents.google.com/patent/US8728235/en</description>
+      <description>Robert Godes / Brillouin Energy Corporation granted US 9,115,913 — Energy generation apparatus based on controlled electron capture in nickel-hydrogen lattice. https://patents.google.com/patent/US9115913B1/en</description>
     </item>
     <item>
-      <title>May 21: ICCF-8: 8th International Cold Fusion Conference (2000)</title>
-      <link>https://www.lackluster.org/cf/#2000-5-21</link>
-      <guid isPermaLink="false">cf-2000-5-21-2026</guid>
-      <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 26: Swartz &amp; Dash Demonstrate Cells at MIT (2003)</title>
+      <link>https://www.lackluster.org/cf/#2003-8-26</link>
+      <guid isPermaLink="false">cf-2003-8-26-2026</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Mitchell Swartz of JET Energy and John Dash and his Portland, Oregon students each demonstrate cold fusion cells for the public at MIT during ICCF-10. 24-.</description>
+    </item>
+    <item>
+      <title>Aug 27: Cravens &amp; Letts: Laser Stimulation at ICCF-10 (2003)</title>
+      <link>https://www.lackluster.org/cf/#2003-8-27</link>
+      <guid isPermaLink="false">cf-2003-8-27-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Dennis Cravens and Dennis Letts present research at ICCF-10 showing anomalous heat is initiated by laser stimulation. (See also CFN podcast #15: https://coldfusionnow.org/cfnpodcast/)</description>
+    </item>
+    <item>
+      <title>Aug 27: ICCF-25: 25th International Conference (Cold Fusion) (2023)</title>
+      <link>https://www.lackluster.org/cf/#2023-8-27</link>
+      <guid isPermaLink="false">cf-2023-8-27-2026</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 GMT</pubDate>
       <category>Conference</category>
-      <description>ICCF-8 — International Conference on Cold Fusion held in Lerici, La Spezia, Italy. Proceedings / info: http://lenr-canr.org/acrobat/ScaramuzzVprocofthe.pdf</description>
+      <description>ICCF-25 — International Conference on Condensed Matter Nuclear Science held in Szczecin, Poland. Proceedings / info: https://iccf25.com/</description>
     </item>
     <item>
-      <title>May 21: Journal of Condensed Matter Nuclear Science (2002)</title>
-      <link>https://www.lackluster.org/cf/#2002-5-21</link>
-      <guid isPermaLink="false">cf-2002-5-21-2026</guid>
-      <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
+      <title>Aug 28: Dardik: Superwaves Intensify LENR Cells (2003)</title>
+      <link>https://www.lackluster.org/cf/#2003-8-28</link>
+      <guid isPermaLink="false">cf-2003-8-28-2026</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Science</category>
+      <description>Irving Dardik reports Superwaves intensify LENR cells developed with Shaul Lesin and Arik El-Boher at Energetics Technologies.</description>
+    </item>
+    <item>
+      <title>Aug 31: ICCF-27: 27th International Conference (CMNS) (2026)</title>
+      <link>https://www.lackluster.org/cf/#2026-8-31</link>
+      <guid isPermaLink="false">cf-2026-8-31-2026</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+      <category>Conference</category>
+      <description>ICCF-27 — International Conference on Condensed Matter Nuclear Science held in Niagara Falls, Canada. Proceedings / info: https://iccf27.com/</description>
+    </item>
+    <item>
+      <title>Sep 1: Fusion Technology Special Section on Cold Fusion (1989)</title>
+      <link>https://www.lackluster.org/cf/#1989-9-1</link>
+      <guid isPermaLink="false">cf-1989-9-1-2026</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 GMT</pubDate>
       <category>Publication</category>
-      <description>The new field journal is named the Journal of Condensed Matter Nuclear Science (JCMNS). Archive: https://www.iscmns.org/CMNS/publications.htm</description>
+      <description>George Miley editor of Fusion Technology announces special section in the Journal of the American Nuclear Society. 1989. Bibliography: https://lenr-canr.org/</description>
     </item>
     <item>
-      <title>May 21: Arata Demonstrates Cold Fusion Cell Live (25x Return) (2008)</title>
-      <link>https://www.lackluster.org/cf/#2008-5-21</link>
-      <guid isPermaLink="false">cf-2008-5-21-2026</guid>
-      <pubDate>Thu, 21 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Yoshiaki Arata publicly demonstrates cold fusion cell generating 25x return.</description>
-    </item>
-    <item>
-      <title>May 22: Multi-Lab Confirmations of Fleischmann-Pons Effect (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-22</link>
-      <guid isPermaLink="false">cf-1989-5-22-2026</guid>
-      <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Case-Western Reserve, Texas A&amp;M, U. of Florida, U. of Washington and the National Institute of Nuclear Physics at Frascati, Italy have all confirmed parts of the Fleischmann-Pons Effect.</description>
-    </item>
-    <item>
-      <title>May 22: Mallove Publishes &#x27;Fire from Ice&#x27; (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-5-22</link>
-      <guid isPermaLink="false">cf-1991-5-22-2026</guid>
-      <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
-      <category>Publication</category>
-      <description>Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor by Eugene Mallove is published. https://archive.org/details/firefromicesearc0000mall</description>
-    </item>
-    <item>
-      <title>May 22: Arata &amp; Zhang: Solid Fusion Reactor Paper (2008)</title>
-      <link>https://www.lackluster.org/cf/#2008-5-22</link>
-      <guid isPermaLink="false">cf-2008-5-22-2026</guid>
-      <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Yoshiaki Arata of Osaka University and Yue-Chang Zhang of Shanghai Jiao Tong University publicly demonstrate cold fusion cell that generates 25 times energy return. 2008 ...for the public.</description>
-    </item>
-    <item>
-      <title>May 23: First LANL Workshop on Cold Fusion (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-23</link>
-      <guid isPermaLink="false">cf-1989-5-23-2026</guid>
-      <pubDate>Sat, 23 May 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>The Workshop on Cold Fusion Phenomenon held at Los Alamos National Lab in New Mexico is the first cold fusion conference ever held.</description>
-    </item>
-    <item>
-      <title>May 25: Mexican Scientists Confirm Solid-State Fusion (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-5-25</link>
-      <guid isPermaLink="false">cf-1989-5-25-2026</guid>
-      <pubDate>Mon, 25 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>A team of Mexican scientists report confirmation of solid-state fusion.</description>
-    </item>
-    <item>
-      <title>May 26: ICCF-26: 26th International Conference (CMNS) (2025)</title>
-      <link>https://www.lackluster.org/cf/#2025-5-26</link>
-      <guid isPermaLink="false">cf-2025-5-26-2026</guid>
-      <pubDate>Tue, 26 May 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>ICCF-26 — International Conference on Condensed Matter Nuclear Science held in Morioka, Japan. Proceedings / info: https://www.jcfrs.org/iccf26/</description>
-    </item>
-    <item>
-      <title>May 27: Google&#x27;s $10M Cold Fusion Program (Nature paper) (2019)</title>
-      <link>https://www.lackluster.org/cf/#2019-5-27</link>
-      <guid isPermaLink="false">cf-2019-5-27-2026</guid>
-      <pubDate>Wed, 27 May 2026 06:00:00 GMT</pubDate>
-      <category>Key Experiment</category>
-      <description>“Revisiting the cold case of cold fusion” published in Nature by Berlinguette, Chiang, Munday, Schenkel, Fork, Koningstein, and Trevithick — Google&#x27;s four-year, $10M multi-institution program (UBC, MIT, LBNL) revisits palladium hydride excess heat and develops new measurement techniques for the field. Nature 569: 581–588. https://doi.org/10.1038/s41586-019-1256-6</description>
-    </item>
-    <item>
-      <title>May 28: First LANR/CF Colloquium at MIT (2005)</title>
-      <link>https://www.lackluster.org/cf/#2005-5-28</link>
-      <guid isPermaLink="false">cf-2005-5-28-2026</guid>
-      <pubDate>Thu, 28 May 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>First LANR/CF Colloquium at MIT organized by Mitchell Swartz.</description>
-    </item>
-    <item>
-      <title>May 31: Gluck &amp; Palibroda: Pd Thin-Foil Cold Fusion (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-5-31</link>
-      <guid isPermaLink="false">cf-1991-5-31-2026</guid>
-      <pubDate>Sun, 31 May 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Cold Nuclear Fusion in Thin Foils of Palladium by Peter Gluck and Evelina Palibroda reports finding neutrons.</description>
-    </item>
-    <item>
-      <title>Jun 1: Carnot: &#x27;Reflections on the Motive Power of Fire&#x27; (1824)</title>
-      <link>https://www.lackluster.org/cf/#1824-6-1</link>
-      <guid isPermaLink="false">cf-1824-6-1-2026</guid>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Deep History</category>
-      <description>Nicolas Leonard Sadi Carnot published first theoretical understanding of steam power in Reflections on the Motive Power of Fire.</description>
-    </item>
-    <item>
-      <title>Jun 3: American Nuclear Society Features LENR (1997)</title>
-      <link>https://www.lackluster.org/cf/#1997-6-3</link>
-      <guid isPermaLink="false">cf-1997-6-3-2026</guid>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>American Nuclear Society Annual Meeting in Orlando, Florida features Low Energy Nuclear Reactions Panel session.</description>
-    </item>
-    <item>
-      <title>Jun 3: ICCF-21: 21st International Conference (CMNS) (2018)</title>
-      <link>https://www.lackluster.org/cf/#2018-6-3</link>
-      <guid isPermaLink="false">cf-2018-6-3-2026</guid>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>ICCF-21 — International Conference on Condensed Matter Nuclear Science held in Fort Collins, Colorado, USA. Proceedings / info: https://iccf21.com/</description>
-    </item>
-    <item>
-      <title>Jun 5: Arthur C. Clarke Calls Cold Fusion Greatest Scandal (1998)</title>
-      <link>https://www.lackluster.org/cf/#1998-6-5</link>
-      <guid isPermaLink="false">cf-1998-6-5-2026</guid>
-      <pubDate>Fri, 05 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>Physicist and science fiction writer Arthur C. Clarke calls ignoring cold fusion “one of the greatest scandals in the history of science.”</description>
-    </item>
-    <item>
-      <title>Jun 5: CFN Podcast #024 — Dr. Sveinn Olafsson: Ultra-Dense Hydrogen &amp; Rydberg Matter (2019)</title>
-      <link>https://www.lackluster.org/cf/#2019-6-5</link>
-      <guid isPermaLink="false">cf-2019-6-5-2026</guid>
-      <pubDate>Fri, 05 Jun 2026 06:00:00 GMT</pubDate>
+      <title>Sep 3: CFN Podcast #014 — Alan Goldwater: Open Science LENR Research (2018)</title>
+      <link>https://www.lackluster.org/cf/#2018-9-3</link>
+      <guid isPermaLink="false">cf-2018-9-3-2026</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 GMT</pubDate>
       <category>Podcast</category>
-      <description>Cold Fusion Now! Podcast Ep. 024 — Dr. Sveinn Olafsson: Ultra-Dense Hydrogen and Rydberg Matter. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Sveinn-Olafsson-Cold-Fusion-Now-024.mp3</description>
-    </item>
-    <item>
-      <title>Jun 7: Mallove Resigns from MIT News Office (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-6-7</link>
-      <guid isPermaLink="false">cf-1991-6-7-2026</guid>
-      <pubDate>Sun, 07 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Federal</category>
-      <description>Eugene Mallove formally resigns as MIT News Office Chief Science Writer.</description>
-    </item>
-    <item>
-      <title>Jun 7: Patent: US 5,318,675 — Patterson / CETI Electrolysis (1994)</title>
-      <link>https://www.lackluster.org/cf/#1994-6-7</link>
-      <guid isPermaLink="false">cf-1994-6-7-2026</guid>
-      <pubDate>Sun, 07 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Patent</category>
-      <description>James Patterson / Clean Energy Technologies Inc. (CETI) granted US 5,318,675 — System for the electrolysis of water using a porous matrix of micron-sized beads. https://patents.google.com/patent/US5318675A/en</description>
-    </item>
-    <item>
-      <title>Jun 9: ICCF-23: 23rd International Conference (CMNS) (2021)</title>
-      <link>https://www.lackluster.org/cf/#2021-6-9</link>
-      <guid isPermaLink="false">cf-2021-6-9-2026</guid>
-      <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>ICCF-23 — International Conference on Condensed Matter Nuclear Science held in Xiamen University, China (online &amp; in-person). Proceedings / info: https://iccf23.iscmns.org/</description>
-    </item>
-    <item>
-      <title>Jun 11: CETI on ABC Good Morning America &amp; Nightline (1997)</title>
-      <link>https://www.lackluster.org/cf/#1997-6-11</link>
-      <guid isPermaLink="false">cf-1997-6-11-2026</guid>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Business</category>
-      <description>ABC-TV shows Good Morning America and NightLine feature Clean Energy Technology, Inc. (CETI) Patterson Power Cell on the same day.</description>
-    </item>
-    <item>
-      <title>Jun 11: Swartz LANR/CF Colloquium at MIT (2011)</title>
-      <link>https://www.lackluster.org/cf/#2011-6-11</link>
-      <guid isPermaLink="false">cf-2011-6-11-2026</guid>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>LANR/CF Colloquium hosted by Mitchell Swartz held at MIT.</description>
-    </item>
-    <item>
-      <title>Jun 12: First Issue of Fusion Facts Published (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-6-12</link>
-      <guid isPermaLink="false">cf-1989-6-12-2026</guid>
-      <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Publication</category>
-      <description>First issue of Fusion Facts is published by Hal Fox announcing cold fusion is real and has commercial possibilities.</description>
-    </item>
-    <item>
-      <title>Jun 16: Fusion Facts: 242 Positive Papers from 23 Countries (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-6-16</link>
-      <guid isPermaLink="false">cf-1991-6-16-2026</guid>
-      <pubDate>Tue, 16 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Publication</category>
-      <description>Fusion Facts publishes a review of 242 positive papers from 23 countries.</description>
-    </item>
-    <item>
-      <title>Jun 18: Nagel Forms NUCAT Energy (2011)</title>
-      <link>https://www.lackluster.org/cf/#2011-6-18</link>
-      <guid isPermaLink="false">cf-2011-6-18-2026</guid>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Business</category>
-      <description>David J. Nagel forms NUCAT Energy, LLC. (See also CFN Podcast #1: https://www.lackluster.org/cf/#2018-1-3)</description>
-    </item>
-    <item>
-      <title>Jun 19: First LENR/Transmutation Conference at Texas A&amp;M (1995)</title>
-      <link>https://www.lackluster.org/cf/#1995-6-19</link>
-      <guid isPermaLink="false">cf-1995-6-19-2026</guid>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>First Conference on Low Energy Nuclear Reactions (Transmutations) held at Texas A&amp;M University.</description>
-    </item>
-    <item>
-      <title>Jun 23: BARC: Tritium Increase from Cold Fusion Cells (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-6-23</link>
-      <guid isPermaLink="false">cf-1989-6-23-2026</guid>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>P.K. Iyengar and Mahadeva Srinivasan et al. measure four-fold increase of tritium from cold fusion cell. (See also CFN Podcast #7: https://www.lackluster.org/cf/#2018-3-23)</description>
-    </item>
-    <item>
-      <title>Jun 23: Cincinnati Group: LENT Radioactive Waste Remediation (1997)</title>
-      <link>https://www.lackluster.org/cf/#1997-6-23</link>
-      <guid isPermaLink="false">cf-1997-6-23-2026</guid>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Business</category>
-      <description>The Cincinnati Group presents a process of radioactive waste remediation and offers a LENT-1 thorium activity reduction demonstration cell as a commercial product.</description>
-    </item>
-    <item>
-      <title>Jun 25: ICCF-13: 13th International Conference (CMNS) (2007)</title>
-      <link>https://www.lackluster.org/cf/#2007-6-25</link>
-      <guid isPermaLink="false">cf-2007-6-25-2026</guid>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>ICCF-13 — International Conference on Condensed Matter Nuclear Science held in Sochi, Russia. Proceedings / info: http://lenr-canr.org/acrobat/BazhutovYNproceedinp.pdf</description>
-    </item>
-    <item>
-      <title>Jun 26: MIT &#x27;Wake for Cold Fusion&#x27; Party (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-6-26</link>
-      <guid isPermaLink="false">cf-1989-6-26-2026</guid>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Reaction</category>
-      <description>MIT Plasma Fusion Center holds Wake for Cold Fusion Party at 4PM claiming cold fusion is dead.</description>
-    </item>
-    <item>
-      <title>Jun 26: Storms &amp; Talcott Detect Tritium at LANL (1989)</title>
-      <link>https://www.lackluster.org/cf/#1989-6-26</link>
-      <guid isPermaLink="false">cf-1989-6-26-2026</guid>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Edmund Storms and Carol Talcott from LANL detect tritium “in significant amounts” from Pd-D electrolytic cells. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)</description>
-    </item>
-    <item>
-      <title>Jun 28: Bush &amp; Eagleton Report Record Excess Heat (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-6-28</link>
-      <guid isPermaLink="false">cf-1991-6-28-2026</guid>
-      <pubDate>Sun, 28 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Science</category>
-      <description>Robert Bush and Robert Eagleton report record amount of excess heat at ICCF-2.</description>
-    </item>
-    <item>
-      <title>Jun 29: ICCF-2: 2nd International Cold Fusion Conference (1991)</title>
-      <link>https://www.lackluster.org/cf/#1991-6-29</link>
-      <guid isPermaLink="false">cf-1991-6-29-2026</guid>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Conference</category>
-      <description>ICCF-2 — International Conference on Cold Fusion held in Como, Italy. Proceedings / info: http://lenr-canr.org/acrobat/BressaniTtheicc.pdf</description>
-    </item>
-    <item>
-      <title>Jun 29: DTRA Supports LENR Research (2007)</title>
-      <link>https://www.lackluster.org/cf/#2007-6-29</link>
-      <guid isPermaLink="false">cf-2007-6-29-2026</guid>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 GMT</pubDate>
-      <category>Federal</category>
-      <description>High Energy Science and Technology Assessment from U.S. Defense Threat Reduction Agency (DTRA) supports cold fusion research.</description>
+      <description>Cold Fusion Now! Podcast Ep. 014 — Alan Goldwater: Open Science LENR Research. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Alan-Goldwater-Cold-Fusion-Now-014.mp3</description>
     </item>
   </channel>
 </rss>

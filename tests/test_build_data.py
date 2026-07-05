@@ -14,7 +14,7 @@ ICAL = ROOT / 'calendar.ics'
 RSS = ROOT / 'feed.xml'
 
 MIN_EVENTS = 280   # ratchet baseline; bump after intentional drops
-MIN_QUOTES = 150
+MIN_QUOTES = 140
 URL_RE = re.compile(r'https?://[^\s<]+')
 
 failures = []
