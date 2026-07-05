@@ -46,12 +46,13 @@
                 <button id="nextMonth" class="nav-btn" title="Next month (→)">&rarr;</button>
                 <button id="todayBtn" class="nav-btn today-btn" title="Jump to today (T)">Today</button>
                 <button id="viewToggleBtn" class="nav-btn today-btn" title="Toggle year-grid view (Y)">Year</button>
+                <button id="tagsToggleBtn" class="nav-btn today-btn" title="Show / hide Type & Origin filter tags" aria-expanded="false">Tags</button>
                 <input id="searchBox" type="search" placeholder="Search… (/)" aria-label="Search events">
                 <button id="copyAllBtn" class="nav-btn today-btn" title="Copy every event to clipboard for pasting into an LLM">Copy All</button>
             </div>
         </header>
 
-        <div id="filterChips" class="filter-chips"></div>
+        <div id="filterChips" class="filter-chips collapsed"></div>
 
         <main class="calendar-container">
             <div class="calendar-wrapper">
@@ -91,7 +92,6 @@
                 An Interactive Chronology of Low Energy Nuclear Reactions
             </div>
             <nav class="footer-links">
-                <a href="http://coldfusionnow.org" target="_blank" rel="noopener noreferrer">coldfusionnow.org</a>
                 <a href="http://lenr-canr.org" target="_blank" rel="noopener noreferrer">lenr-canr.org</a>
                 <a href="http://lenr-forum.com" target="_blank" rel="noopener noreferrer">lenr-forum.com</a>
                 <a href="http://lenr-news.com" target="_blank" rel="noopener noreferrer">lenr-news.com</a>

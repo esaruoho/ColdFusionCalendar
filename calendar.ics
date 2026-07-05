@@ -9,22 +9,8 @@ X-WR-CALDESC:Yearly anniversaries of milestones in cold fusion / LENR / ene
 X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:cf-e6a46310b5dbee64@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:00010101
-DTEND;VALUE=DATE:00010102
-RRULE:FREQ=YEARLY
-SUMMARY:Tens of thousands of years ago\, humans tame fire.
-DESCRIPTION:Tens of thousands of years ago\, humans tame fire.\n\nYear: 500
- 00 BCE\nType: Deep History\nOrigin: Global\n\nSource: https://www.lacklust
- er.org/cf/#-50000-1-1
-CATEGORIES:Deep History
-URL:https://www.lackluster.org/cf/#-50000-1-1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-57b8f5c9ae343b89@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-900d8381aceaf6d5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:00010108
 DTEND;VALUE=DATE:00010109
 RRULE:FREQ=YEARLY
@@ -37,8 +23,8 @@ URL:https://www.lackluster.org/cf/#-450-1-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6e178079019aba36@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3a8d4a92c0daae49@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:01500910
 DTEND;VALUE=DATE:01500911
 RRULE:FREQ=YEARLY
@@ -52,8 +38,8 @@ URL:https://www.lackluster.org/cf/#150-9-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a5e7867bc6e00b4a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5aede1b0cb93cbd4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:05001105
 DTEND;VALUE=DATE:05001106
 RRULE:FREQ=YEARLY
@@ -66,8 +52,8 @@ URL:https://www.lackluster.org/cf/#500-11-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c65c7c5dd486a549@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-de2363e32e74ec35@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:16710219
 DTEND;VALUE=DATE:16710220
 RRULE:FREQ=YEARLY
@@ -81,8 +67,8 @@ URL:https://www.lackluster.org/cf/#1671-2-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f899af8dc7c6ba7e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ab112025f2b6fb05@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:18031021
 DTEND;VALUE=DATE:18031022
 RRULE:FREQ=YEARLY
@@ -97,8 +83,8 @@ URL:https://www.lackluster.org/cf/#1803-10-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-470cf040ab0221e2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a4aa69ed3be9bf22@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:18240601
 DTEND;VALUE=DATE:18240602
 RRULE:FREQ=YEARLY
@@ -113,8 +99,8 @@ URL:https://www.lackluster.org/cf/#1824-6-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-93575c1f2f885003@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6d91a44d1e24b031@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:18560710
 DTEND;VALUE=DATE:18560711
 RRULE:FREQ=YEARLY
@@ -126,8 +112,8 @@ URL:https://www.lackluster.org/cf/#1856-7-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-02561db01f48662e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3dd54ec457f6f7d9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19050927
 DTEND;VALUE=DATE:19050928
 RRULE:FREQ=YEARLY
@@ -142,8 +128,8 @@ URL:https://www.lackluster.org/cf/#1905-9-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b6cff3f580e6e197@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-69a3c49d306b6a0d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19260917
 DTEND;VALUE=DATE:19260918
 RRULE:FREQ=YEARLY
@@ -158,8 +144,8 @@ URL:https://www.lackluster.org/cf/#1926-9-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bb0a6660dee5f9d9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-32121fcb7531c0cc@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19261013
 DTEND;VALUE=DATE:19261014
 RRULE:FREQ=YEARLY
@@ -173,13 +159,13 @@ URL:https://www.lackluster.org/cf/#1926-10-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-34978b29d9f4c882@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-27301d392b3d162d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19270329
 DTEND;VALUE=DATE:19270330
 RRULE:FREQ=YEARLY
-SUMMARY:Happy Birthday Martin Fleischmann.
-DESCRIPTION:Happy Birthday Martin Fleischmann.\n\nYear: 1927\nType: Recogni
+SUMMARY:Happy Birthday Martin Fleischmann!
+DESCRIPTION:Happy Birthday Martin Fleischmann!\n\nYear: 1927\nType: Recogni
  tion\nOrigin: Czechoslovakia\n\nSource: https://www.lackluster.org/cf/#192
  7-3-29
 CATEGORIES:Recognition
@@ -187,8 +173,8 @@ URL:https://www.lackluster.org/cf/#1927-3-29
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-263d7bd3c32bf1cd@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-31004a5589154666@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19380907
 DTEND;VALUE=DATE:19380908
 RRULE:FREQ=YEARLY
@@ -196,42 +182,42 @@ SUMMARY:Hans Bethe submits paper Energy Production in Stars to Physical Rev
  iew on fusion reactions in the Sun.
 DESCRIPTION:Hans Bethe submits paper Energy Production in Stars to Physical
   Review on fusion reactions in the Sun.\n\nYear: 1938\nType: Science\nOrig
- in: US\n\nSource: https://www.lackluster.org/cf/#1938-9-7
+ in: USA\n\nSource: https://www.lackluster.org/cf/#1938-9-7
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1938-9-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fbc457c31777e3a9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3d5b226333c21d24@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19421202
 DTEND;VALUE=DATE:19421203
 RRULE:FREQ=YEARLY
 SUMMARY:Enrico Fermi initiates first chain reaction at University of Chicag
  o.
 DESCRIPTION:Enrico Fermi initiates first chain reaction at University of Ch
- icago.\n\nYear: 1942\nType: Deep History\nOrigin: US\n\nSource: https://ww
- w.lackluster.org/cf/#1942-12-2
+ icago.\n\nYear: 1942\nType: Deep History\nOrigin: USA\n\nSource: https://w
+ ww.lackluster.org/cf/#1942-12-2
 CATEGORIES:Deep History
 URL:https://www.lackluster.org/cf/#1942-12-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ee51b19e4df24bc3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7cf1735afffb28d7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19430209
 DTEND;VALUE=DATE:19430210
 RRULE:FREQ=YEARLY
 SUMMARY:Happy Birthday Stanley Pons!
 DESCRIPTION:Happy Birthday Stanley Pons!\n\nYear: 1943\nType: Recognition\n
- Origin: US\n\nSource: https://www.lackluster.org/cf/#1943-2-9
+ Origin: USA\n\nSource: https://www.lackluster.org/cf/#1943-2-9
 CATEGORIES:Recognition
 URL:https://www.lackluster.org/cf/#1943-2-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e136c7ce67595041@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e0aac1111c92aa23@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19560308
 DTEND;VALUE=DATE:19560309
 RRULE:FREQ=YEARLY
@@ -239,28 +225,28 @@ SUMMARY:M.
 DESCRIPTION:M. King Hubbert presents Nuclear Energy and Fossil Fuels to the
   American Petroleum Institute predicting a peak in global oil production a
  nd the use of nuclear power to replace it.\n\nYear: 1956\nType: Deep Histo
- ry\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1956-3-8
+ ry\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1956-3-8
 CATEGORIES:Deep History
 URL:https://www.lackluster.org/cf/#1956-3-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-31d27729fd22fe55@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-181ffdf05be2d081@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19870728
 DTEND;VALUE=DATE:19870729
 RRULE:FREQ=YEARLY
 SUMMARY:J.
 DESCRIPTION:J. Rafelski and Steve Jones publish Cold Nuclear Fusion in Scie
- ntific American.\n\nYear: 1987\nType: Science\nOrigin: US\n\nSource: https
- ://www.lackluster.org/cf/#1987-7-28
+ ntific American.\n\nYear: 1987\nType: Science\nOrigin: USA\n\nSource: http
+ s://www.lackluster.org/cf/#1987-7-28
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1987-7-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2aba75796ef46985@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e878b42d45557d6b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890223
 DTEND;VALUE=DATE:19890224
 RRULE:FREQ=YEARLY
@@ -268,61 +254,61 @@ SUMMARY:Martin Fleischmann and Stanley Pons visit Steve Jones at Brigham Yo
  ung University (BYU) and learn of imminent publishing of similar anoma…
 DESCRIPTION:Martin Fleischmann and Stanley Pons visit Steve Jones at Brigha
  m Young University (BYU) and learn of imminent publishing of similar anoma
- lous heat results.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: htt
- ps://www.lackluster.org/cf/#1989-2-23
+ lous heat results.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: ht
+ tps://www.lackluster.org/cf/#1989-2-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-2-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a1dd1ec197de45da@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b68e111f5b6e48d4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890308
 DTEND;VALUE=DATE:19890309
 RRULE:FREQ=YEARLY
 SUMMARY:May 8 would be “f-day” chemists' revenge on physicists.
 DESCRIPTION:May 8 would be “f-day” chemists' revenge on physicists.\n\n
- Year: 1989\nType: Institute\nOrigin: US\n\nSource: https://www.lackluster.
- org/cf/#1989-3-8
+ Year: 1989\nType: Institute\nOrigin: USA\n\nSource: https://www.lackluster
+ .org/cf/#1989-3-8
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#1989-3-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-521673623b6cdc47@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fecdcde20eced06e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890311
 DTEND;VALUE=DATE:19890312
 RRULE:FREQ=YEARLY
 SUMMARY:Martin Fleischmann and Stanley Pons submit their research for publi
  cation.
 DESCRIPTION:Martin Fleischmann and Stanley Pons submit their research for p
- ublication.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://ww
- w.lackluster.org/cf/#1989-3-11
+ ublication.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: https://w
+ ww.lackluster.org/cf/#1989-3-11
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-3-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8eed341f754d41d1@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-824e1e227fdb6d98@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890313
 DTEND;VALUE=DATE:19890314
 RRULE:FREQ=YEARLY
-SUMMARY:Stanley Pons and Martin Fleischmann file U.S.
-DESCRIPTION:Stanley Pons and Martin Fleischmann file U.S. patent applicatio
+SUMMARY:Martin Fleischmann and Stanley Pons file U.S.
+DESCRIPTION:Martin Fleischmann and Stanley Pons file U.S. patent applicatio
  n that becomes US 4\,943\,355 “Method for Producing Power and Treating M
  aterials\,” assigned to the University of Utah Research Foundation\; gra
  nted July 24\, 1990. https://patents.google.com/patent/US4943355A/en\n\nYe
- ar: 1989\nType: Patent\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#1989-3-13
+ ar: 1989\nType: Patent\nOrigin: USA\n\nSource: https://www.lackluster.org/
+ cf/#1989-3-13
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#1989-3-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-123e0101fc89296b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e535752b0cbee542@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890323
 DTEND;VALUE=DATE:19890324
 RRULE:FREQ=YEARLY
@@ -330,58 +316,58 @@ SUMMARY:Martin Fleischmann and Stanley Pons of University of Utah Salt Lake
   City announce their discovery of nuclear-sized excess heat in a test-…
 DESCRIPTION:Martin Fleischmann and Stanley Pons of University of Utah Salt 
  Lake City announce their discovery of nuclear-sized excess heat in a test-
- tube.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://www.lack
- luster.org/cf/#1989-3-23
+ tube.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: https://www.lac
+ kluster.org/cf/#1989-3-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-3-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-556beba1d952ff59@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ebdcd202a09a8ccd@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890324
 DTEND;VALUE=DATE:19890325
 RRULE:FREQ=YEARLY
 SUMMARY:SRI International of Menlo Park\, California begins experiments.
 DESCRIPTION:SRI International of Menlo Park\, California begins experiments
- .\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://www.lacklust
- er.org/cf/#1989-3-24
+ .\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: https://www.lacklus
+ ter.org/cf/#1989-3-24
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-3-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-46e9a60254317b6f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d26e0bad0e338142@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890325
 DTEND;VALUE=DATE:19890326
 RRULE:FREQ=YEARLY
 SUMMARY:Utah Governor Norm Bangerter convenes state legislature to consider
   funding for cold fusion.
 DESCRIPTION:Utah Governor Norm Bangerter convenes state legislature to cons
- ider funding for cold fusion.\n\nYear: 1989\nType: Federal\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#1989-3-25
+ ider funding for cold fusion.\n\nYear: 1989\nType: Federal\nOrigin: USA\n\
+ nSource: https://www.lackluster.org/cf/#1989-3-25
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-3-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-190e58b3d3dfe564@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3894c3c2b1d329d1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890325
 DTEND;VALUE=DATE:19890326
 RRULE:FREQ=YEARLY
 SUMMARY:Navy's China Lake cold fusion program begins.
 DESCRIPTION:Navy's China Lake cold fusion program begins.\n\nYear: 1989\nTy
- pe: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-3-2
- 5
+ pe: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-3-
+ 25
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-3-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9d8b650104c9abe4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-783104ce54b00762@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890330
 DTEND;VALUE=DATE:19890331
 RRULE:FREQ=YEARLY
@@ -389,14 +375,14 @@ SUMMARY:Steve Jones of BYU announces previous work that demonstrates fusion
   can occur at room-temperature.
 DESCRIPTION:Steve Jones of BYU announces previous work that demonstrates fu
  sion can occur at room-temperature.\n\nYear: 1989\nType: Science\nOrigin: 
- US\n\nSource: https://www.lackluster.org/cf/#1989-3-30
+ USA\n\nSource: https://www.lackluster.org/cf/#1989-3-30
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-3-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f0704bddcc46cb44@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-15e719a04103136e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890331
 DTEND;VALUE=DATE:19890401
 RRULE:FREQ=YEARLY
@@ -410,8 +396,8 @@ URL:https://www.lackluster.org/cf/#1989-3-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-719c010d772494c1@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-57639601208bccb8@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890331
 DTEND;VALUE=DATE:19890401
 RRULE:FREQ=YEARLY
@@ -426,8 +412,8 @@ URL:https://www.lackluster.org/cf/#1989-3-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-59569f91a15e64d1@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-63a4ab6551838f63@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890402
 DTEND;VALUE=DATE:19890403
 RRULE:FREQ=YEARLY
@@ -441,8 +427,8 @@ URL:https://www.lackluster.org/cf/#1989-4-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4055beb1cf97624a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a98b2c3cd54d8a77@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890404
 DTEND;VALUE=DATE:19890405
 RRULE:FREQ=YEARLY
@@ -456,22 +442,22 @@ URL:https://www.lackluster.org/cf/#1989-4-4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4455ef65f780de70@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-66255cf41d69f580@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890406
 DTEND;VALUE=DATE:19890407
 RRULE:FREQ=YEARLY
 SUMMARY:John Bockris and N.J.C.
 DESCRIPTION:John Bockris and N.J.C. Packham find tritium in electrolytic ce
- lls.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://www.lackl
- uster.org/cf/#1989-4-6
+ lls.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: https://www.lack
+ luster.org/cf/#1989-4-6
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-03e3ba67ca271d26@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-990bd135fb24af59@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890407
 DTEND;VALUE=DATE:19890408
 RRULE:FREQ=YEARLY
@@ -486,22 +472,22 @@ URL:https://www.lackluster.org/cf/#1989-4-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b599dcd85daa0f95@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d21e24c410a03d20@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890407
 DTEND;VALUE=DATE:19890408
 RRULE:FREQ=YEARLY
 SUMMARY:State of Utah passes cold fusion research legislation.
 DESCRIPTION:State of Utah passes cold fusion research legislation.\n\nYear:
-  1989\nType: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/
- #1989-4-7
+  1989\nType: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf
+ /#1989-4-7
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-4-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d25cb92fa141ba03@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9f9b13ebbf5aa260@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890408
 DTEND;VALUE=DATE:19890409
 RRULE:FREQ=YEARLY
@@ -509,14 +495,14 @@ SUMMARY:State of Utah approves $5 million for cold fusion research if Fleis
  chmann and Pons' results are confirmed.
 DESCRIPTION:State of Utah approves $5 million for cold fusion research if F
  leischmann and Pons' results are confirmed.\n\nYear: 1989\nType: Federal\n
- Origin: US\n\nSource: https://www.lackluster.org/cf/#1989-4-8
+ Origin: USA\n\nSource: https://www.lackluster.org/cf/#1989-4-8
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-4-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-de4a55850b9331c6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9126b74878ec54d7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890410
 DTEND;VALUE=DATE:19890411
 RRULE:FREQ=YEARLY
@@ -524,45 +510,46 @@ SUMMARY:Fleischmann\, Pons\, and Hawkins Electrochemically Induced Nuclear
  Fusion of Deuterium published in Journal of Electroanalytical Chemistry.
 DESCRIPTION:Fleischmann\, Pons\, and Hawkins Electrochemically Induced Nucl
  ear Fusion of Deuterium published in Journal of Electroanalytical Chemistr
- y.\n\nYear: 1989\nType: Publication\nOrigin: US\n\nSource: https://www.lac
- kluster.org/cf/#1989-4-10
+ y.\n\nYear: 1989\nType: Publication\nOrigin: USA\n\nSource: https://www.la
+ ckluster.org/cf/#1989-4-10
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1989-4-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8c38f3284f55b925@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5c087ab1c267ebd6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890410
 DTEND;VALUE=DATE:19890411
 RRULE:FREQ=YEARLY
 SUMMARY:Texas A&M reports 60-80% excess heat\, remain cautious about nuclea
  r origin.
 DESCRIPTION:Texas A&M reports 60-80% excess heat\, remain cautious about nu
- clear origin.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://
- www.lackluster.org/cf/#1989-4-10
+ clear origin.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: https:/
+ /www.lackluster.org/cf/#1989-4-10
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9e99ccfe9c243f4d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2f6a045339f0bdf1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890412
 DTEND;VALUE=DATE:19890413
 RRULE:FREQ=YEARLY
-SUMMARY:Stanley Pons and others speak at ACS President's Event on “Nuclea
- r Fusion in a Test Tube”.
-DESCRIPTION:Stanley Pons and others speak at ACS President's Event on “Nu
- clear Fusion in a Test Tube”\n\nYear: 1989\nType: Conference\nOrigin: US
- \n\nSource: https://www.lackluster.org/cf/#1989-4-12
+SUMMARY:“Fusion in the rod produced 4 watts energy for every watt used to
+  run the cell.” Stanley Pons from F.
+DESCRIPTION:“Fusion in the rod produced 4 watts energy for every watt use
+ d to run the cell.” Stanley Pons from F. David Peat.\n\nYear: 1989\nType
+ : Conference\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-4
+ -12
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-4-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4b896029fc98f568@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e11429d1b58f7447@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890412
 DTEND;VALUE=DATE:19890413
 RRULE:FREQ=YEARLY
@@ -576,13 +563,13 @@ URL:https://www.lackluster.org/cf/#1989-4-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bd1decdd1645dcef@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-cb586b14593d4dd4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890412
 DTEND;VALUE=DATE:19890413
 RRULE:FREQ=YEARLY
 SUMMARY:Dr.
-DESCRIPTION:Dr. Mathews et al. at Indira Ghandi Centre for Atomic Research 
+DESCRIPTION:Dr. Mathews et al. at Indira Gandhi Centre for Atomic Research 
  in India replicates FPE.\n\nYear: 1989\nType: Science\nOrigin: India\n\nSo
  urce: https://www.lackluster.org/cf/#1989-4-12
 CATEGORIES:Science
@@ -590,24 +577,8 @@ URL:https://www.lackluster.org/cf/#1989-4-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-676da85da812cd02@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:19890412
-DTEND;VALUE=DATE:19890413
-RRULE:FREQ=YEARLY
-SUMMARY:“Fusion in the rod produced 4 watts energy for every watt used to
-  run the cell.” Stanley Pons from F.
-DESCRIPTION:“Fusion in the rod produced 4 watts energy for every watt use
- d to run the cell.” Stanley Pons from F. David Peat.\n\nYear: 1989\nType
- : Conference\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-4-
- 12
-CATEGORIES:Conference
-URL:https://www.lackluster.org/cf/#1989-4-12
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-4ad14a6ca0e75c34@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-aab92dae408579d2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890414
 DTEND;VALUE=DATE:19890415
 RRULE:FREQ=YEARLY
@@ -615,29 +586,29 @@ SUMMARY:Glenn Seaborg tells President Bush that University of Utah claims a
  re “not fusion”\, but should be investigated anyway.
 DESCRIPTION:Glenn Seaborg tells President Bush that University of Utah clai
  ms are “not fusion”\, but should be investigated anyway.\n\nYear: 1989
- \nType: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989
- -4-14
+ \nType: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#198
+ 9-4-14
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-4-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-407ab853656afd9a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8b0d155151d5cb48@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890417
 DTEND;VALUE=DATE:19890418
 RRULE:FREQ=YEARLY
 SUMMARY:Fusion Information Center incorporates in Utah.
 DESCRIPTION:Fusion Information Center incorporates in Utah.\n\nYear: 1989\n
- Type: Business\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-
- 4-17
+ Type: Business\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989
+ -4-17
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#1989-4-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-576da47acda5daed@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-454cdef7e6a1907f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890417
 DTEND;VALUE=DATE:19890418
 RRULE:FREQ=YEARLY
@@ -645,30 +616,15 @@ SUMMARY:Stanley Pons announces a reaction has been sustained for 800 hours
  in one of his cells\, producing 80 times energy return.
 DESCRIPTION:Stanley Pons announces a reaction has been sustained for 800 ho
  urs in one of his cells\, producing 80 times energy return.\n\nYear: 1989\
- nType: Conference\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#19
- 89-4-17
+ nType: Conference\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1
+ 989-4-17
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-4-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3e3ec584e4a3b0f9@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:19890417
-DTEND;VALUE=DATE:19890418
-RRULE:FREQ=YEARLY
-SUMMARY:Stanley Pons announces detection of Helium-4 from Pd-D electrolytic
-  cells.
-DESCRIPTION:Stanley Pons announces detection of Helium-4 from Pd-D electrol
- ytic cells.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: https://ww
- w.lackluster.org/cf/#1989-4-17
-CATEGORIES:Science
-URL:https://www.lackluster.org/cf/#1989-4-17
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-d89ded26c5ea1676@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-526f3661ce9eadb7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890418
 DTEND;VALUE=DATE:19890419
 RRULE:FREQ=YEARLY
@@ -683,22 +639,22 @@ URL:https://www.lackluster.org/cf/#1989-4-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-29f532bcae55b1c8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-74edf02f09f0ae93@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890418
 DTEND;VALUE=DATE:19890419
 RRULE:FREQ=YEARLY
 SUMMARY:Robert Huggins et al.
 DESCRIPTION:Robert Huggins et al. At Stanford University announces confirma
  tion of Fleischmann-Pons Effect (FPE)\n\nYear: 1989\nType: Science\nOrigin
- : US\n\nSource: https://www.lackluster.org/cf/#1989-4-18
+ : USA\n\nSource: https://www.lackluster.org/cf/#1989-4-18
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e35109f217047d7c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f45f82e41fd30885@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890421
 DTEND;VALUE=DATE:19890422
 RRULE:FREQ=YEARLY
@@ -706,46 +662,46 @@ SUMMARY:Successful replication of FPE is reported by Robert Huggins at Stan
  ford University\, and by physicists in Czechoslovakia and India.
 DESCRIPTION:Successful replication of FPE is reported by Robert Huggins at 
  Stanford University\, and by physicists in Czechoslovakia and India.\n\nYe
- ar: 1989\nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/
- cf/#1989-4-21
+ ar: 1989\nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.org
+ /cf/#1989-4-21
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-412ebd05695ad616@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-305f8ceb556dd48c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890421
 DTEND;VALUE=DATE:19890422
 RRULE:FREQ=YEARLY
 SUMMARY:P.K.
 DESCRIPTION:P.K. Iyengarand Mahadeva Srinivasan et al. Measureanomalousneut
  ronburstsmeasuredfromelectrolytic cells cold fusion cells at BARC in Mumba
- i\, India. (See also CFN podcast #7: https://coldfusionnow.org/cfnpodcast/
- )\n\nYear: 1989\nType: Science\nOrigin: India\n\nSource: https://www.lackl
- uster.org/cf/#1989-4-21
+ i\, India. (See also CFN Podcast #7: https://www.lackluster.org/cf/#2018-3
+ -23)\n\nYear: 1989\nType: Science\nOrigin: India\n\nSource: https://www.la
+ ckluster.org/cf/#1989-4-21
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5b42a9e0833c61c1@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1779af5e31f30bb7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890424
 DTEND;VALUE=DATE:19890425
 RRULE:FREQ=YEARLY
 SUMMARY:One month after the announcement U.S.
 DESCRIPTION:One month after the announcement U.S. Energy Secretary James Wa
  tkins establishes review panel to evaluate cold fusion claims.\n\nYear: 19
- 89\nType: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#19
- 89-4-24
+ 89\nType: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1
+ 989-4-24
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-4-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-13459334c5e6b2fd@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9ead6d7d56db79cb@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890425
 DTEND;VALUE=DATE:19890426
 RRULE:FREQ=YEARLY
@@ -759,22 +715,22 @@ URL:https://www.lackluster.org/cf/#1989-4-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-78dc791395b0bd13@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-903aa593fc3a0caf@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890426
 DTEND;VALUE=DATE:19890427
 RRULE:FREQ=YEARLY
 SUMMARY:Stanley Pons briefs the U.S.
 DESCRIPTION:Stanley Pons briefs the U.S. House Science\, Space and Technolo
- gy committee on cold fusion.\n\nYear: 1989\nType: Federal\nOrigin: US\n\nS
- ource: https://www.lackluster.org/cf/#1989-4-26
+ gy committee on cold fusion.\n\nYear: 1989\nType: Federal\nOrigin: USA\n\n
+ Source: https://www.lackluster.org/cf/#1989-4-26
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-4-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f7071be931a1c54e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a55c0985ed6931eb@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890427
 DTEND;VALUE=DATE:19890428
 RRULE:FREQ=YEARLY
@@ -783,14 +739,14 @@ SUMMARY:“Observation of Cold Nuclear Fusion in Condensed Matter” by Ste
 DESCRIPTION:“Observation of Cold Nuclear Fusion in Condensed Matter” by
   Steve Jones et al. From BYU published in Nature. 1989. PDF: http://lenr-c
  anr.org/acrobat/JonesSEobservatio.pdf\n\nYear: 1989\nType: Science\nOrigin
- : US\n\nSource: https://www.lackluster.org/cf/#1989-4-27
+ : USA\n\nSource: https://www.lackluster.org/cf/#1989-4-27
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-78b71874149d1fbf@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d7baa605a82d9377@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890428
 DTEND;VALUE=DATE:19890429
 RRULE:FREQ=YEARLY
@@ -804,38 +760,38 @@ URL:https://www.lackluster.org/cf/#1989-4-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a5d980d84e265569@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-cce8848c99116fa6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890428
 DTEND;VALUE=DATE:19890429
 RRULE:FREQ=YEARLY
 SUMMARY:Team at Case Western University reports excess heat and tritium fro
  m electrolytic.
 DESCRIPTION:Team at Case Western University reports excess heat and tritium
-  from electrolytic.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#1989-4-28
+  from electrolytic.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#1989-4-28
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-4-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cc955c7c52c1c3f6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fb4b345b735ecb2e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890501
 DTEND;VALUE=DATE:19890502
 RRULE:FREQ=YEARLY
 SUMMARY:Scott Chubb organizes first session on cold fusion at an American P
  hysical Society meeting.
 DESCRIPTION:Scott Chubb organizes first session on cold fusion at an Americ
- an Physical Society meeting.\n\nYear: 1989\nType: Conference\nOrigin: US\n
- \nSource: https://www.lackluster.org/cf/#1989-5-1
+ an Physical Society meeting.\n\nYear: 1989\nType: Conference\nOrigin: USA\
+ n\nSource: https://www.lackluster.org/cf/#1989-5-1
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-5-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-59de7f0d5da42536@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-87003e933cc849ee@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890501
 DTEND;VALUE=DATE:19890502
 RRULE:FREQ=YEARLY
@@ -843,30 +799,30 @@ SUMMARY:Physicists at American Physical Society (APS) meeting hotly denounc
  e the work of Martin Fleischmann and Stanley Pons.
 DESCRIPTION:Physicists at American Physical Society (APS) meeting hotly den
  ounce the work of Martin Fleischmann and Stanley Pons.\n\nYear: 1989\nType
- : Conference\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-5-
- 1
+ : Conference\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-5
+ -1
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-5-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-12192d42fb4fd7ae@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fe175f3febeb8f66@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890504
 DTEND;VALUE=DATE:19890505
 RRULE:FREQ=YEARLY
 SUMMARY:Third team at Texas A&M headed by John Bockris confirms Fleischmann
  -Pons Effect (FPE).
 DESCRIPTION:Third team at Texas A&M headed by John Bockris confirms Fleisch
- mann-Pons Effect (FPE)\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource:
-  https://www.lackluster.org/cf/#1989-5-4
+ mann-Pons Effect (FPE)\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource
+ : https://www.lackluster.org/cf/#1989-5-4
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-5-4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5d417648a9f1aee0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d7e1cc3a3545bda6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890507
 DTEND;VALUE=DATE:19890508
 RRULE:FREQ=YEARLY
@@ -880,21 +836,21 @@ URL:https://www.lackluster.org/cf/#1989-5-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e5b88538120c5900@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b70326a187c7a111@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890508
 DTEND;VALUE=DATE:19890509
 RRULE:FREQ=YEARLY
 SUMMARY:F-day at Electrochemical Society Meeting.
 DESCRIPTION:F-day at Electrochemical Society Meeting.\n\nYear: 1989\nType: 
- Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-5-8
+ Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-5-8
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-5-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cb1887bd8c5040a8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-aa17e5ddec9ff601@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890509
 DTEND;VALUE=DATE:19890510
 RRULE:FREQ=YEARLY
@@ -902,30 +858,30 @@ SUMMARY:Martin Fleischmann and Stanley Pons provide additional data at a me
  eting of the Electrochemical Society in Los Angeles\, California.
 DESCRIPTION:Martin Fleischmann and Stanley Pons provide additional data at 
  a meeting of the Electrochemical Society in Los Angeles\, California.\n\nY
- ear: 1989\nType: Conference\nOrigin: US\n\nSource: https://www.lackluster.
- org/cf/#1989-5-9
+ ear: 1989\nType: Conference\nOrigin: USA\n\nSource: https://www.lackluster
+ .org/cf/#1989-5-9
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-5-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c59bf79a346409ba@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-31aaf609b8ee1627@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890510
 DTEND;VALUE=DATE:19890511
 RRULE:FREQ=YEARLY
 SUMMARY:Fleischmann\, Pons\, and Hawkins publish errata in Journal of Elect
  roanalytical Chemistry.
 DESCRIPTION:Fleischmann\, Pons\, and Hawkins publish errata in Journal of E
- lectroanalytical Chemistry.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSo
- urce: https://www.lackluster.org/cf/#1989-5-10
+ lectroanalytical Chemistry.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nS
+ ource: https://www.lackluster.org/cf/#1989-5-10
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-5-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0755389e8d498217@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-01f33ed9a5333d16@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890518
 DTEND;VALUE=DATE:19890519
 RRULE:FREQ=YEARLY
@@ -940,8 +896,8 @@ URL:https://www.lackluster.org/cf/#1989-5-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f41ef516c11eb9d2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-062da069e21b7d56@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890522
 DTEND;VALUE=DATE:19890523
 RRULE:FREQ=YEARLY
@@ -956,8 +912,8 @@ URL:https://www.lackluster.org/cf/#1989-5-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f84510a7f95aa0e0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d7301040892ee2c5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890523
 DTEND;VALUE=DATE:19890524
 RRULE:FREQ=YEARLY
@@ -965,15 +921,15 @@ SUMMARY:The Workshop on Cold Fusion Phenomenon held at Los Alamos National
  Lab in New Mexico is the first cold fusion conference ever held.
 DESCRIPTION:The Workshop on Cold Fusion Phenomenon held at Los Alamos Natio
  nal Lab in New Mexico is the first cold fusion conference ever held.\n\nYe
- ar: 1989\nType: Conference\nOrigin: US\n\nSource: https://www.lackluster.o
- rg/cf/#1989-5-23
+ ar: 1989\nType: Conference\nOrigin: USA\n\nSource: https://www.lackluster.
+ org/cf/#1989-5-23
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-5-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d6618b4bf07f86d4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-bae87dd2d43a0099@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890525
 DTEND;VALUE=DATE:19890526
 RRULE:FREQ=YEARLY
@@ -987,8 +943,8 @@ URL:https://www.lackluster.org/cf/#1989-5-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8ec74b3fe96fbcb5@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8026fe0a56698296@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890612
 DTEND;VALUE=DATE:19890613
 RRULE:FREQ=YEARLY
@@ -996,45 +952,45 @@ SUMMARY:First issue of Fusion Facts is published by Hal Fox announcing cold
   fusion is real and has commercial possibilities.
 DESCRIPTION:First issue of Fusion Facts is published by Hal Fox announcing 
  cold fusion is real and has commercial possibilities.\n\nYear: 1989\nType:
-  Publication\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-6-
- 12
+  Publication\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-6
+ -12
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1989-6-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-02eeebfaf11fc4fa@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6e3972a990a450e8@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890623
 DTEND;VALUE=DATE:19890624
 RRULE:FREQ=YEARLY
 SUMMARY:P.K.
 DESCRIPTION:P.K. Iyengar and Mahadeva Srinivasan et al. measure four-fold i
- ncrease of tritium from cold fusion cell. (See also CFN podcast #7: https:
- //coldfusionnow.org/cfnpodcast/)\n\nYear: 1989\nType: Science\nOrigin: Ind
- ia\n\nSource: https://www.lackluster.org/cf/#1989-6-23
+ ncrease of tritium from cold fusion cell. (See also CFN Podcast #7: https:
+ //www.lackluster.org/cf/#2018-3-23)\n\nYear: 1989\nType: Science\nOrigin: 
+ India\n\nSource: https://www.lackluster.org/cf/#1989-6-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-6-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-af89755c5c6cddb2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c5687dd4923e2110@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890626
 DTEND;VALUE=DATE:19890627
 RRULE:FREQ=YEARLY
 SUMMARY:MIT Plasma Fusion Center holds Wake for Cold Fusion Party at 4PM cl
  aiming cold fusion is dead.
 DESCRIPTION:MIT Plasma Fusion Center holds Wake for Cold Fusion Party at 4P
- M claiming cold fusion is dead.\n\nYear: 1989\nType: Reaction\nOrigin: US\
- n\nSource: https://www.lackluster.org/cf/#1989-6-26
+ M claiming cold fusion is dead.\n\nYear: 1989\nType: Reaction\nOrigin: USA
+ \n\nSource: https://www.lackluster.org/cf/#1989-6-26
 CATEGORIES:Reaction
 URL:https://www.lackluster.org/cf/#1989-6-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-621404498de4f53b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-60a2586f30416a1e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890626
 DTEND;VALUE=DATE:19890627
 RRULE:FREQ=YEARLY
@@ -1043,43 +999,43 @@ SUMMARY:Edmund Storms and Carol Talcott from LANL detect tritium “in sign
 DESCRIPTION:Edmund Storms and Carol Talcott from LANL detect tritium “in 
  significant amounts” from Pd-D electrolytic cells. (See also CFN podcast
   #19: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 1989\nType: Science\
- nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-6-26
+ nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-6-26
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-6-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-14708410164e19c4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-16d1bd4c373f8dd4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890713
 DTEND;VALUE=DATE:19890714
 RRULE:FREQ=YEARLY
 SUMMARY:Cold Nuclear Fusion by S.E.
 DESCRIPTION:Cold Nuclear Fusion by S.E. Jones and J. Rafelski published in 
- Scientific American.\n\nYear: 1989\nType: Science\nOrigin: US\n\nSource: h
- ttps://www.lackluster.org/cf/#1989-7-13
+ Scientific American.\n\nYear: 1989\nType: Science\nOrigin: USA\n\nSource: 
+ https://www.lackluster.org/cf/#1989-7-13
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-7-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c8c3b2ee36edd1cb@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6ff0a9bb76bc6413@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890718
 DTEND;VALUE=DATE:19890719
 RRULE:FREQ=YEARLY
 SUMMARY:Fusion Information Center founded by Hal Fox publishes first issue 
  of Fusion Facts.
 DESCRIPTION:Fusion Information Center founded by Hal Fox publishes first is
- sue of Fusion Facts.\n\nYear: 1989\nType: Publication\nOrigin: US\n\nSourc
- e: https://www.lackluster.org/cf/#1989-7-18
+ sue of Fusion Facts.\n\nYear: 1989\nType: Publication\nOrigin: USA\n\nSour
+ ce: https://www.lackluster.org/cf/#1989-7-18
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1989-7-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e3d1ae6ebf09b53a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5ef575412585806c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890731
 DTEND;VALUE=DATE:19890801
 RRULE:FREQ=YEARLY
@@ -1093,36 +1049,36 @@ URL:https://www.lackluster.org/cf/#1989-7-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-69a594d260d219be@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f0d96238ebae6f18@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890805
 DTEND;VALUE=DATE:19890806
 RRULE:FREQ=YEARLY
 SUMMARY:University of Utah Regents approve National Cold Fusion Institute.
 DESCRIPTION:University of Utah Regents approve National Cold Fusion Institu
- te.\n\nYear: 1989\nType: Institute\nOrigin: US\n\nSource: https://www.lack
- luster.org/cf/#1989-8-5
+ te.\n\nYear: 1989\nType: Institute\nOrigin: USA\n\nSource: https://www.lac
+ kluster.org/cf/#1989-8-5
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#1989-8-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a7d6e914afd895ba@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2e7ce7b1a87cfec6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890814
 DTEND;VALUE=DATE:19890815
 RRULE:FREQ=YEARLY
 SUMMARY:The U.S.
 DESCRIPTION:The U.S. National Cold Fusion Institute in Salt Lake City\, Uta
- h is formed.\n\nYear: 1989\nType: Federal\nOrigin: US\n\nSource: https://w
- ww.lackluster.org/cf/#1989-8-14
+ h is formed.\n\nYear: 1989\nType: Federal\nOrigin: USA\n\nSource: https://
+ www.lackluster.org/cf/#1989-8-14
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-8-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-14104043af329ec0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f4350759a8e90fdd@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890816
 DTEND;VALUE=DATE:19890817
 RRULE:FREQ=YEARLY
@@ -1136,8 +1092,8 @@ URL:https://www.lackluster.org/cf/#1989-8-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7bfbe7b7bd41f85f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a34214e4db28c25f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890824
 DTEND;VALUE=DATE:19890825
 RRULE:FREQ=YEARLY
@@ -1151,8 +1107,8 @@ URL:https://www.lackluster.org/cf/#1989-8-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-736c20214db74c3c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-eda0fcc9a2299ced@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19890901
 DTEND;VALUE=DATE:19890902
 RRULE:FREQ=YEARLY
@@ -1160,15 +1116,15 @@ SUMMARY:George Miley editor of Fusion Technology announces special section
  in the Journal of the American Nuclear Society.
 DESCRIPTION:George Miley editor of Fusion Technology announces special sect
  ion in the Journal of the American Nuclear Society. 1989. Bibliography: ht
- tps://lenr-canr.org/\n\nYear: 1989\nType: Publication\nOrigin: US\n\nSourc
- e: https://www.lackluster.org/cf/#1989-9-1
+ tps://lenr-canr.org/\n\nYear: 1989\nType: Publication\nOrigin: USA\n\nSour
+ ce: https://www.lackluster.org/cf/#1989-9-1
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1989-9-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bbd5f3269976ed4c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2143ddb6147a1306@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891016
 DTEND;VALUE=DATE:19891017
 RRULE:FREQ=YEARLY
@@ -1176,15 +1132,15 @@ SUMMARY:Four-day meeting of Electrochemical Society begins in Hollywood\, F
  lorida with 20 mostly positive cold fusion papers presented.
 DESCRIPTION:Four-day meeting of Electrochemical Society begins in Hollywood
  \, Florida with 20 mostly positive cold fusion papers presented.\n\nYear: 
- 1989\nType: Conference\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#1989-10-16
+ 1989\nType: Conference\nOrigin: USA\n\nSource: https://www.lackluster.org/
+ cf/#1989-10-16
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-10-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1abf75db1307dec3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-4ba7bb741a3f1a7c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891018
 DTEND;VALUE=DATE:19891019
 RRULE:FREQ=YEARLY
@@ -1192,14 +1148,14 @@ SUMMARY:National Science Foundation (NSF) and Electric Power Research Insti
  tute (EPRI) hold meeting in Washington\, D.C.
 DESCRIPTION:National Science Foundation (NSF) and Electric Power Research I
  nstitute (EPRI) hold meeting in Washington\, D.C.\n\nYear: 1989\nType: Con
- ference\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-10-18
+ ference\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-10-18
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1989-10-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2cb51a1a6fb66621@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-67aab8ac3400ed61@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891021
 DTEND;VALUE=DATE:19891022
 RRULE:FREQ=YEARLY
@@ -1207,14 +1163,14 @@ SUMMARY:Paul Chu and A.
 DESCRIPTION:Paul Chu and A. John Appleby of Texas A&M states “We are now 
  very comfortable that what we are seeing here is something that is not che
  mical\; it is something nuclear taking place.”\n\nYear: 1989\nType: Scie
- nce\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1989-10-21
+ nce\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1989-10-21
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1989-10-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e2fe53979fbee980@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c546b890a441d587@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891031
 DTEND;VALUE=DATE:19891101
 RRULE:FREQ=YEARLY
@@ -1222,29 +1178,29 @@ SUMMARY:The DoE Energy Research Advisory Board (ERAB) approves final report
   dismissing cold fusion evidence.
 DESCRIPTION:The DoE Energy Research Advisory Board (ERAB) approves final re
  port dismissing cold fusion evidence.\n\nYear: 1989\nType: Federal\nOrigin
- : US\n\nSource: https://www.lackluster.org/cf/#1989-10-31
+ : USA\n\nSource: https://www.lackluster.org/cf/#1989-10-31
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-10-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c4748aae562624e8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3522dd199005818a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891101
 DTEND;VALUE=DATE:19891102
 RRULE:FREQ=YEARLY
 SUMMARY:U.S.
 DESCRIPTION:U.S. Department of Energy ERAB report concludes evidence for co
  ld fusion is “not persuasive” despite numerous successful replications
- .\n\nYear: 1989\nType: Federal\nOrigin: US\n\nSource: https://www.lacklust
- er.org/cf/#1989-11-1
+ .\n\nYear: 1989\nType: Federal\nOrigin: USA\n\nSource: https://www.lacklus
+ ter.org/cf/#1989-11-1
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1989-11-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c63be5cd8d96a575@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-44d3e73b2757e76b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19891212
 DTEND;VALUE=DATE:19891213
 RRULE:FREQ=YEARLY
@@ -1258,23 +1214,23 @@ URL:https://www.lackluster.org/cf/#1989-12-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9f34748380a95209@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8dec06738a3b954f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900102
 DTEND;VALUE=DATE:19900103
 RRULE:FREQ=YEARLY
 SUMMARY:Fusion Facts names Martin Fleischmann and Stanley Pons as Fusion Sc
  ientists of the Year.
 DESCRIPTION:Fusion Facts names Martin Fleischmann and Stanley Pons as Fusio
- n Scientists of the Year.\n\nYear: 1990\nType: Publication\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#1990-1-2
+ n Scientists of the Year.\n\nYear: 1990\nType: Publication\nOrigin: USA\n\
+ nSource: https://www.lackluster.org/cf/#1990-1-2
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1990-1-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-63ca1d52c35f4ee7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ea91acee3117e1e3@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900122
 DTEND;VALUE=DATE:19900123
 RRULE:FREQ=YEARLY
@@ -1282,29 +1238,29 @@ SUMMARY:Division of Advanced Energy Projects Director at U.S.
 DESCRIPTION:Division of Advanced Energy Projects Director at U.S. Departmen
  t of Energy Ryszard Gajewski announces funding for cold fusion\, his budge
  t is later slashed and he is replaced.\n\nYear: 1990\nType: Science\nOrigi
- n: US\n\nSource: https://www.lackluster.org/cf/#1990-1-22
+ n: USA\n\nSource: https://www.lackluster.org/cf/#1990-1-22
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1990-1-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0ffafeddf8da2c7d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1ef6a12af818989e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900201
 DTEND;VALUE=DATE:19900202
 RRULE:FREQ=YEARLY
 SUMMARY:Fritz Will begins as head of National Cold Fusion Institute at Univ
  ersity of Utah.
 DESCRIPTION:Fritz Will begins as head of National Cold Fusion Institute at 
- University of Utah.\n\nYear: 1990\nType: Institute\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#1990-2-1
+ University of Utah.\n\nYear: 1990\nType: Institute\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#1990-2-1
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#1990-2-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-dc47cd980e278167@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b6edfe84e01a0586@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900320
 DTEND;VALUE=DATE:19900321
 RRULE:FREQ=YEARLY
@@ -1318,8 +1274,8 @@ URL:https://www.lackluster.org/cf/#1990-3-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-10e799f1315b97e8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a08eb4a801a41421@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900328
 DTEND;VALUE=DATE:19900329
 RRULE:FREQ=YEARLY
@@ -1327,15 +1283,15 @@ SUMMARY:ICCF-1 — International Conference on Cold Fusion held in Salt Lak
  e City\, Utah\, USA.
 DESCRIPTION:ICCF-1 — International Conference on Cold Fusion held in Salt
   Lake City\, Utah\, USA. Proceedings / info: http://lenr-canr.org/acrobat/
- EPRIproceeding.pdf\n\nYear: 1990\nType: Conference\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#1990-3-28
+ EPRIproceeding.pdf\n\nYear: 1990\nType: Conference\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#1990-3-28
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1990-3-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-481b21110815c13f@lackluster.org
-DTSTAMP:20260429T000000Z
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900420
 DTEND;VALUE=DATE:19900421
 RRULE:FREQ=YEARLY
@@ -1351,8 +1307,8 @@ URL:https://www.lackluster.org/cf/#1990-4-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-13c2dfcfa7509bf7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c5e5317c3b968e72@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900515
 DTEND;VALUE=DATE:19900516
 RRULE:FREQ=YEARLY
@@ -1366,8 +1322,8 @@ URL:https://www.lackluster.org/cf/#1990-5-15
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d7dca4dcecb6a2b6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3ec71aa2614eff2d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900519
 DTEND;VALUE=DATE:19900520
 RRULE:FREQ=YEARLY
@@ -1377,29 +1333,29 @@ SUMMARY:Edmund Storms of Los Alamos National Lab (LANL) compiles survey of
 DESCRIPTION:Edmund Storms of Los Alamos National Lab (LANL) compiles survey
   of 16 successes in tritium detection\, 15 in neutron detection\, and 19 s
  uccesses replicating the FPE. (See also CFN podcast #19: https://coldfusio
- nnow.org/cfnpodcast/)\n\nYear: 1990\nType: Science\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#1990-5-19
+ nnow.org/cfnpodcast/)\n\nYear: 1990\nType: Science\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#1990-5-19
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1990-5-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-05199fd7180f4d35@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-30d36030d42578bd@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900723
 DTEND;VALUE=DATE:19900724
 RRULE:FREQ=YEARLY
 SUMMARY:Bruce Liebert\, Bor Yann Kiaw et al.
 DESCRIPTION:Bruce Liebert\, Bor Yann Kiaw et al. at University of Hawaii re
  port multi-watt excess power output of 500%.\n\nYear: 1990\nType: Science\
- nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1990-7-23
+ nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1990-7-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1990-7-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a7af17058aa2fa10@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-46bc65af51959972@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900725
 DTEND;VALUE=DATE:19900726
 RRULE:FREQ=YEARLY
@@ -1408,14 +1364,14 @@ SUMMARY:Key Experiment: Calorimetry of the palladium-deuterium-heavy water
 DESCRIPTION:Key Experiment: Calorimetry of the palladium-deuterium-heavy wa
  ter system by M. Fleischmann and S. Pons. 1990 PDF: http://lenr-canr.org/a
  crobat/Fleischmancalorimetr.pdf\n\nYear: 1990\nType: Key Experiment\nOrigi
- n: US\n\nSource: https://www.lackluster.org/cf/#1990-7-25
+ n: USA\n\nSource: https://www.lackluster.org/cf/#1990-7-25
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1990-7-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6cc461822bf3d8b0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1094b59043b6d3db@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900726
 DTEND;VALUE=DATE:19900727
 RRULE:FREQ=YEARLY
@@ -1424,31 +1380,15 @@ SUMMARY:Key Experiment: Calorimetric Measurement of Excess Power Output Dur
 DESCRIPTION:Key Experiment: Calorimetric Measurement of Excess Power Output
   During the Cathodic Charging of Deuterium into palladium by R. Oriani. 19
  90. PDF: http://lenr-canr.org/acrobat/OrianiRAcalorimetr.pdf\n\nYear: 1990
- \nType: Key Experiment\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#1990-7-26
+ \nType: Key Experiment\nOrigin: USA\n\nSource: https://www.lackluster.org/
+ cf/#1990-7-26
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1990-7-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-86ec41e44abeb289@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:19900727
-DTEND;VALUE=DATE:19900728
-RRULE:FREQ=YEARLY
-SUMMARY:Key Experiment: Electrolytic Tritium Production by Edmund Storms an
- d Carol Talcott from LANL.
-DESCRIPTION:Key Experiment: Electrolytic Tritium Production by Edmund Storm
- s and Carol Talcott from LANL. (See also CFN podcast #19: https://coldfusi
- onnow.org/cfnpodcast/)\n\nYear: 1990\nType: Key Experiment\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#1990-7-27
-CATEGORIES:Key Experiment
-URL:https://www.lackluster.org/cf/#1990-7-27
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-d6bc376153f976ea@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ed2cc3b473257c8d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900727
 DTEND;VALUE=DATE:19900728
 RRULE:FREQ=YEARLY
@@ -1457,29 +1397,29 @@ SUMMARY:Key Experiment: A Study of Electrolytic Tritium Production by Edmun
 DESCRIPTION:Key Experiment: A Study of Electrolytic Tritium Production by E
  dmund Storms and Carol Talcott. 1990 PDF: http://lenr-canr.org/acrobat/Sto
  rmsEastudyofel.pdf (See also CFN podcast #19: https://coldfusionnow.org/cf
- npodcast/)\n\nYear: 1990\nType: Key Experiment\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#1990-7-27
+ npodcast/)\n\nYear: 1990\nType: Key Experiment\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#1990-7-27
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1990-7-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1692f14f9b5a7992@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-931735bdf94085e3@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19900818
 DTEND;VALUE=DATE:19900819
 RRULE:FREQ=YEARLY
 SUMMARY:Cornell University announces assembly of cold fusion archives.
 DESCRIPTION:Cornell University announces assembly of cold fusion archives.\
- n\nYear: 1990\nType: Institute\nOrigin: US\n\nSource: https://www.lacklust
- er.org/cf/#1990-8-18
+ n\nYear: 1990\nType: Institute\nOrigin: USA\n\nSource: https://www.lacklus
+ ter.org/cf/#1990-8-18
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#1990-8-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-593458fc996cd8d3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-bd5f9125f629fdf9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19901006
 DTEND;VALUE=DATE:19901007
 RRULE:FREQ=YEARLY
@@ -1487,14 +1427,14 @@ SUMMARY:Fusion Facts reports on 112 papers confirming excess heat and nucle
  ar activity from 16 countries.
 DESCRIPTION:Fusion Facts reports on 112 papers confirming excess heat and n
  uclear activity from 16 countries.\n\nYear: 1990\nType: Publication\nOrigi
- n: US\n\nSource: https://www.lackluster.org/cf/#1990-10-6
+ n: USA\n\nSource: https://www.lackluster.org/cf/#1990-10-6
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1990-10-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8892021a15166257@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e3ecf77621afd2d7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19901022
 DTEND;VALUE=DATE:19901023
 RRULE:FREQ=YEARLY
@@ -1502,15 +1442,15 @@ SUMMARY:conference on held at BYU Provo\, Utah produces proof cold fusion c
  an occur in deuterated systems without being catalyzed by muons.
 DESCRIPTION:conference on held at BYU Provo\, Utah produces proof cold fusi
  on can occur in deuterated systems without being catalyzed by muons.\n\nYe
- ar: 1990\nType: Conference\nOrigin: US\n\nSource: https://www.lackluster.o
- rg/cf/#1990-10-22
+ ar: 1990\nType: Conference\nOrigin: USA\n\nSource: https://www.lackluster.
+ org/cf/#1990-10-22
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1990-10-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-52643c2fb14226d4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1c713a5cd1f1401a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19901023
 DTEND;VALUE=DATE:19901024
 RRULE:FREQ=YEARLY
@@ -1524,23 +1464,23 @@ URL:https://www.lackluster.org/cf/#1990-10-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c117a6e8747ca253@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a0592cf09663f363@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19901111
 DTEND;VALUE=DATE:19901112
 RRULE:FREQ=YEARLY
 SUMMARY:National Cold Fusion Institute hosts scientific review of cold fusi
  on work.
 DESCRIPTION:National Cold Fusion Institute hosts scientific review of cold 
- fusion work.\n\nYear: 1990\nType: Conference\nOrigin: US\n\nSource: https:
- //www.lackluster.org/cf/#1990-11-11
+ fusion work.\n\nYear: 1990\nType: Conference\nOrigin: USA\n\nSource: https
+ ://www.lackluster.org/cf/#1990-11-11
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1990-11-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c71b61f02d7aef91@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9462485741999dcb@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19901230
 DTEND;VALUE=DATE:19901231
 RRULE:FREQ=YEARLY
@@ -1554,8 +1494,8 @@ URL:https://www.lackluster.org/cf/#1990-12-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-16a250c551346866@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-516f789facbb1999@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910303
 DTEND;VALUE=DATE:19910304
 RRULE:FREQ=YEARLY
@@ -1569,8 +1509,8 @@ URL:https://www.lackluster.org/cf/#1991-3-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b2b4f1ac245c4eaa@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-620673ead7e39a5a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910317
 DTEND;VALUE=DATE:19910318
 RRULE:FREQ=YEARLY
@@ -1579,15 +1519,15 @@ SUMMARY:Naval Researcher Melvin Miles and Benjamin Bush of University of Te
 DESCRIPTION:Naval Researcher Melvin Miles and Benjamin Bush of University o
  f Texas Austin report Helium-4 as a nuclear by-product of cold fusion. (Se
  e also CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 19
- 91\nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#19
- 91-3-17
+ 91\nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1
+ 991-3-17
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1991-3-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ed6ce1b4ab320870@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-982e23ce14a9e4ac@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910406
 DTEND;VALUE=DATE:19910407
 RRULE:FREQ=YEARLY
@@ -1600,8 +1540,8 @@ URL:https://www.lackluster.org/cf/#1991-4-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-46bbe7b7e2fe9bfd@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-aacbdef5d883d008@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910423
 DTEND;VALUE=DATE:19910424
 RRULE:FREQ=YEARLY
@@ -1609,14 +1549,14 @@ SUMMARY:Randall Mills announces generation of significant excess heat from
  nickel and light-water cells.
 DESCRIPTION:Randall Mills announces generation of significant excess heat f
  rom nickel and light-water cells.\n\nYear: 1991\nType: Science\nOrigin: US
- \n\nSource: https://www.lackluster.org/cf/#1991-4-23
+ A\n\nSource: https://www.lackluster.org/cf/#1991-4-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1991-4-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-558a48853066ebd6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-decda1227f9992c4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910430
 DTEND;VALUE=DATE:19910501
 RRULE:FREQ=YEARLY
@@ -1629,8 +1569,8 @@ URL:https://www.lackluster.org/cf/#1991-4-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a170caf548a73bb3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fe0cb980fb60690b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910512
 DTEND;VALUE=DATE:19910513
 RRULE:FREQ=YEARLY
@@ -1639,15 +1579,15 @@ SUMMARY:Navy researcher Stan Szpak et al publish on a new method of initiat
 DESCRIPTION:Navy researcher Stan Szpak et al publish on a new method of ini
  tiating the reaction that he developed using electro-deposited palladium-d
  euteride. 1991 ..... in Journal Electroanalytical Chemistry.\n\nYear: 1991
- \nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1991
- -5-12
+ \nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#199
+ 1-5-12
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1991-5-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-66fa5ebe039710fc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8ee0160d97bddc63@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910522
 DTEND;VALUE=DATE:19910523
 RRULE:FREQ=YEARLY
@@ -1655,15 +1595,15 @@ SUMMARY:Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor
   by Eugene Mallove is published.
 DESCRIPTION:Fire from Ice: Searching for the Truth Behind the Cold Fusion F
  uror by Eugene Mallove is published. https://archive.org/details/firefromi
- cesearc0000mall\n\nYear: 1991\nType: Publication\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#1991-5-22
+ cesearc0000mall\n\nYear: 1991\nType: Publication\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#1991-5-22
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1991-5-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8ae8d5aac8c54e72@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-be2475af29b23f2e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910531
 DTEND;VALUE=DATE:19910601
 RRULE:FREQ=YEARLY
@@ -1677,53 +1617,53 @@ URL:https://www.lackluster.org/cf/#1991-5-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-50210756ee94288b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a467ff8c2aff8442@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910607
 DTEND;VALUE=DATE:19910608
 RRULE:FREQ=YEARLY
 SUMMARY:Eugene Mallove formally resigns as MIT News Office Chief Science Wr
  iter.
 DESCRIPTION:Eugene Mallove formally resigns as MIT News Office Chief Scienc
- e Writer.\n\nYear: 1991\nType: Federal\nOrigin: US\n\nSource: https://www.
- lackluster.org/cf/#1991-6-7
+ e Writer.\n\nYear: 1991\nType: Federal\nOrigin: USA\n\nSource: https://www
+ .lackluster.org/cf/#1991-6-7
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1991-6-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-db9660ab13abbd53@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7205b6f30d7c1c5d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910616
 DTEND;VALUE=DATE:19910617
 RRULE:FREQ=YEARLY
 SUMMARY:Fusion Facts publishes a review of 242 positive papers from 23 coun
  tries.
 DESCRIPTION:Fusion Facts publishes a review of 242 positive papers from 23 
- countries.\n\nYear: 1991\nType: Publication\nOrigin: US\n\nSource: https:/
- /www.lackluster.org/cf/#1991-6-16
+ countries.\n\nYear: 1991\nType: Publication\nOrigin: USA\n\nSource: https:
+ //www.lackluster.org/cf/#1991-6-16
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1991-6-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a83d19bc2f9ea311@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a100a5033c0de468@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910628
 DTEND;VALUE=DATE:19910629
 RRULE:FREQ=YEARLY
 SUMMARY:Robert Bush and Robert Eagleton report record amount of excess heat
   at ICCF-2.
 DESCRIPTION:Robert Bush and Robert Eagleton report record amount of excess 
- heat at ICCF-2.\n\nYear: 1991\nType: Science\nOrigin: US\n\nSource: https:
- //www.lackluster.org/cf/#1991-6-28
+ heat at ICCF-2.\n\nYear: 1991\nType: Science\nOrigin: USA\n\nSource: https
+ ://www.lackluster.org/cf/#1991-6-28
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1991-6-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-599a98af408a274b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3d3cd7aa1a54ce49@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910629
 DTEND;VALUE=DATE:19910630
 RRULE:FREQ=YEARLY
@@ -1738,22 +1678,22 @@ URL:https://www.lackluster.org/cf/#1991-6-29
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-36c03bf89089d321@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0d06fdaef052c020@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910630
 DTEND;VALUE=DATE:19910701
 RRULE:FREQ=YEARLY
 SUMMARY:U.S.
 DESCRIPTION:U.S. National Cold Fusion Institute in Salt Lake City\, Utah cl
- oses.\n\nYear: 1991\nType: Institute\nOrigin: US\n\nSource: https://www.la
- ckluster.org/cf/#1991-6-30
+ oses.\n\nYear: 1991\nType: Institute\nOrigin: USA\n\nSource: https://www.l
+ ackluster.org/cf/#1991-6-30
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#1991-6-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6d880530b4a61d02@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ff6706b40b228dd1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910702
 DTEND;VALUE=DATE:19910703
 RRULE:FREQ=YEARLY
@@ -1761,14 +1701,14 @@ SUMMARY:Melvin Miles\, Benjamin Bush et al.
 DESCRIPTION:Melvin Miles\, Benjamin Bush et al. present Heat and Helium Pro
  duction in Cold Fusion Experiments at ICCF-2. (See also CFN podcast #12: h
  ttps://coldfusionnow.org/cfnpodcast/)\n\nYear: 1991\nType: Conference\nOri
- gin: US\n\nSource: https://www.lackluster.org/cf/#1991-7-2
+ gin: USA\n\nSource: https://www.lackluster.org/cf/#1991-7-2
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1991-7-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5d00a2ad2216b6ab@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8fcf04fa474a8547@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910801
 DTEND;VALUE=DATE:19910802
 RRULE:FREQ=YEARLY
@@ -1778,22 +1718,22 @@ DESCRIPTION:Key Experiment: Excess Heat Production by the Electrolysis of a
  n Aqueous Potassium Carbonate Electrolyte and the Implications for Cold Fu
  sion by Randall Mills and Steven O. Kneizys. *1991. PDF: http://lenr-canr.
  org/acrobat/MillsRLexcessheat.pdf\n\nYear: 1991\nType: Key Experiment\nOri
- gin: US\n\nSource: https://www.lackluster.org/cf/#1991-8-1
+ gin: USA\n\nSource: https://www.lackluster.org/cf/#1991-8-1
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1991-8-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b7abca04240fdcec@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-04a2b728ebd9349e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19910919
 DTEND;VALUE=DATE:19910920
 RRULE:FREQ=YEARLY
 SUMMARY:Hideo Ikegami (Technova Inc.\, Tokyo) files EP 0477018 A1 “Appara
- tus and method for utilizing heat generated owing to Pons-Fleischmann eff
+ tus and method for utilizing heat generated owing to Fleischmann-Pons eff
  …
 DESCRIPTION:Hideo Ikegami (Technova Inc.\, Tokyo) files EP 0477018 A1 “Ap
- paratus and method for utilizing heat generated owing to Pons-Fleischmann 
+ paratus and method for utilizing heat generated owing to Fleischmann-Pons 
  effect” — heat-pipe / thermoelectric / Stirling extractor with CPU-con
  trolled feedback. https://patents.google.com/patent/EP0477018A1/en\n\nYear
  : 1991\nType: Patent\nOrigin: Japan\n\nSource: https://www.lackluster.org/
@@ -1803,22 +1743,22 @@ URL:https://www.lackluster.org/cf/#1991-9-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-075ce33e2b57b562@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e7729dd2aa6529f0@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19911103
 DTEND;VALUE=DATE:19911104
 RRULE:FREQ=YEARLY
 SUMMARY:Dr.
 DESCRIPTION:Dr. Chambers\, G. Hubler\, and K. Grabowski of Naval Research L
- ab find neutrons.\n\nYear: 1991\nType: Federal\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#1991-11-3
+ ab find neutrons.\n\nYear: 1991\nType: Federal\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#1991-11-3
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1991-11-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-65e98cd288eacc1c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d57b7b6311e582c1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19911110
 DTEND;VALUE=DATE:19911111
 RRULE:FREQ=YEARLY
@@ -1831,8 +1771,8 @@ URL:https://www.lackluster.org/cf/#1991-11-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-86a495f2821d3c49@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1183a695a260c9b5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19911111
 DTEND;VALUE=DATE:19911112
 RRULE:FREQ=YEARLY
@@ -1840,15 +1780,15 @@ SUMMARY:Nobel Laureate Julian Schwinger talks at MIT saying “The circumst
  ances of cold fusion are not those of hot fusion.”.
 DESCRIPTION:Nobel Laureate Julian Schwinger talks at MIT saying “The circ
  umstances of cold fusion are not those of hot fusion.”\n\nYear: 1991\nTy
- pe: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1991-11-
- 11
+ pe: Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1991-11
+ -11
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1991-11-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0d2d533d3d03f103@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b7fa5a845e07c284@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19911117
 DTEND;VALUE=DATE:19911118
 RRULE:FREQ=YEARLY
@@ -1862,8 +1802,8 @@ URL:https://www.lackluster.org/cf/#1991-11-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fe35d8b0a213e7f2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-efeb20711927dcbc@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19911215
 DTEND;VALUE=DATE:19911216
 RRULE:FREQ=YEARLY
@@ -1876,8 +1816,8 @@ URL:https://www.lackluster.org/cf/#1991-12-15
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-051554a02b1e473e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8d43ab3896c34b05@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920105
 DTEND;VALUE=DATE:19920106
 RRULE:FREQ=YEARLY
@@ -1890,8 +1830,8 @@ URL:https://www.lackluster.org/cf/#1992-1-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-31c1090704c9960e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-cc344df4d4ca76e6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920127
 DTEND;VALUE=DATE:19920128
 RRULE:FREQ=YEARLY
@@ -1906,23 +1846,23 @@ URL:https://www.lackluster.org/cf/#1992-1-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-eb17a539d78b730f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3f5a0f9a1597263e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920212
 DTEND;VALUE=DATE:19920213
 RRULE:FREQ=YEARLY
 SUMMARY:Eugene Mallove and Mitchell Swartz meet with DoE Secretary James Wa
  tkins.
 DESCRIPTION:Eugene Mallove and Mitchell Swartz meet with DoE Secretary Jame
- s Watkins.\n\nYear: 1992\nType: Federal\nOrigin: US\n\nSource: https://www
- .lackluster.org/cf/#1992-2-12
+ s Watkins.\n\nYear: 1992\nType: Federal\nOrigin: USA\n\nSource: https://ww
+ w.lackluster.org/cf/#1992-2-12
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1992-2-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7c4767d3bb1634a6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5f5e9915fa1cdda2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920327
 DTEND;VALUE=DATE:19920328
 RRULE:FREQ=YEARLY
@@ -1936,8 +1876,8 @@ URL:https://www.lackluster.org/cf/#1992-3-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e9ce62217d28d1d7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fb1dc1eac03b1481@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920708
 DTEND;VALUE=DATE:19920709
 RRULE:FREQ=YEARLY
@@ -1952,23 +1892,23 @@ URL:https://www.lackluster.org/cf/#1992-7-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8a262f3a650fd564@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7e595f9b9b4bc468@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920727
 DTEND;VALUE=DATE:19920728
 RRULE:FREQ=YEARLY
 SUMMARY:Edmund Storms announces replication of Akito Takahashi excess heat.
 DESCRIPTION:Edmund Storms announces replication of Akito Takahashi excess h
  eat. (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)\n\n
- Year: 1992\nType: Science\nOrigin: US\n\nSource: https://www.lackluster.or
- g/cf/#1992-7-27
+ Year: 1992\nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.o
+ rg/cf/#1992-7-27
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1992-7-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-82010daf75db80fc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1c68afe0e3c8f4fe@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920807
 DTEND;VALUE=DATE:19920808
 RRULE:FREQ=YEARLY
@@ -1977,14 +1917,14 @@ SUMMARY:Mitchell Swartz publishes re-analysis of MIT's 1989 cold fusion exp
 DESCRIPTION:Mitchell Swartz publishes re-analysis of MIT's 1989 cold fusion
   experiments showing apparent excess heat in the original data. https://le
  nr-canr.org/acrobat/SwartzMreexamining.pdf\n\nYear: 1992\nType: Publicatio
- n\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1992-8-7
+ n\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1992-8-7
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1992-8-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9339f60101a78b52@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6dc0dc46fa608b1c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920908
 DTEND;VALUE=DATE:19920909
 RRULE:FREQ=YEARLY
@@ -1998,8 +1938,8 @@ URL:https://www.lackluster.org/cf/#1992-9-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f2cbdfba11c6940a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2f6e86706f57335b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920916
 DTEND;VALUE=DATE:19920917
 RRULE:FREQ=YEARLY
@@ -2008,14 +1948,14 @@ SUMMARY:Robert Bush of California State Polytechnic University publishes A
 DESCRIPTION:Robert Bush of California State Polytechnic University publishe
  s A Light Water Excess Heat Reaction Suggests Cold Fusion is Alkali-Hydrog
  en Fusion in Fusion Technology V.22.\n\nYear: 1992\nType: Science\nOrigin:
-  US\n\nSource: https://www.lackluster.org/cf/#1992-9-16
+  USA\n\nSource: https://www.lackluster.org/cf/#1992-9-16
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1992-9-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-43b29f32cf94d742@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9b97d1ccfa754fc8@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920918
 DTEND;VALUE=DATE:19920919
 RRULE:FREQ=YEARLY
@@ -2030,8 +1970,8 @@ URL:https://www.lackluster.org/cf/#1992-9-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1d8380b4e5759e0c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0a548db18095f440@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920924
 DTEND;VALUE=DATE:19920925
 RRULE:FREQ=YEARLY
@@ -2039,15 +1979,15 @@ SUMMARY:Michael McKubre of SRI International presents a summary of their wo
  rk to a group at MIT.
 DESCRIPTION:Michael McKubre of SRI International presents a summary of thei
  r work to a group at MIT. (See also CFN podcast #2\, #13: https://coldfusi
- onnow.org/cfnpodcast/)\n\nYear: 1992\nType: Science\nOrigin: US\n\nSource:
-  https://www.lackluster.org/cf/#1992-9-24
+ onnow.org/cfnpodcast/)\n\nYear: 1992\nType: Science\nOrigin: USA\n\nSource
+ : https://www.lackluster.org/cf/#1992-9-24
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1992-9-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9556f26e84180dee@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-55945dd1ff9ebf83@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19920928
 DTEND;VALUE=DATE:19920929
 RRULE:FREQ=YEARLY
@@ -2061,8 +2001,8 @@ URL:https://www.lackluster.org/cf/#1992-9-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6b060b3887a1889d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b9bde474aadcaf61@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19921002
 DTEND;VALUE=DATE:19921003
 RRULE:FREQ=YEARLY
@@ -2076,8 +2016,8 @@ URL:https://www.lackluster.org/cf/#1992-10-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6b327a070e6d5155@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-67a2385623e8798e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19921021
 DTEND;VALUE=DATE:19921022
 RRULE:FREQ=YEARLY
@@ -2092,8 +2032,8 @@ URL:https://www.lackluster.org/cf/#1992-10-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f3c52a823b0faa80@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6e4b86c74aaaca31@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19930329
 DTEND;VALUE=DATE:19930330
 RRULE:FREQ=YEARLY
@@ -2106,38 +2046,38 @@ URL:https://www.lackluster.org/cf/#1993-3-29
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-706ca1dbfbfe9663@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-073eb4f043ce84ac@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19930505
 DTEND;VALUE=DATE:19930506
 RRULE:FREQ=YEARLY
 SUMMARY:Edmund Storms testifies before the U.S.
 DESCRIPTION:Edmund Storms testifies before the U.S. House Subcommittee on S
  cience\, Space\, and Technology. (See also CFN podcast #19: https://coldfu
- sionnow.org/cfnpodcast/)\n\nYear: 1993\nType: Federal\nOrigin: US\n\nSourc
- e: https://www.lackluster.org/cf/#1993-5-5
+ sionnow.org/cfnpodcast/)\n\nYear: 1993\nType: Federal\nOrigin: USA\n\nSour
+ ce: https://www.lackluster.org/cf/#1993-5-5
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1993-5-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-86d65e54f2d463c6@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b767aacaf458830c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19931130
 DTEND;VALUE=DATE:19931201
 RRULE:FREQ=YEARLY
 SUMMARY:Key Experiment: Reproducible Tritium Generation in Electrochemical 
  Cells.
 DESCRIPTION:Key Experiment: Reproducible Tritium Generation in Electrochemi
- cal Cells.\n\nYear: 1993\nType: Key Experiment\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#1993-11-30
+ cal Cells.\n\nYear: 1993\nType: Key Experiment\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#1993-11-30
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1993-11-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d9a0507ccf81aa21@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-cf9bda4af692d576@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19931206
 DTEND;VALUE=DATE:19931207
 RRULE:FREQ=YEARLY
@@ -2145,15 +2085,15 @@ SUMMARY:ICCF-4 — International Conference on Cold Fusion held in Lahaina\
  , Maui\, Hawaii\, USA.
 DESCRIPTION:ICCF-4 — International Conference on Cold Fusion held in Laha
  ina\, Maui\, Hawaii\, USA. Proceedings / info: http://lenr-canr.org/acroba
- t/PassellTOfourthinter.pdf\n\nYear: 1993\nType: Conference\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#1993-12-6
+ t/PassellTOfourthinter.pdf\n\nYear: 1993\nType: Conference\nOrigin: USA\n\
+ nSource: https://www.lackluster.org/cf/#1993-12-6
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1993-12-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-91e2317064bae61c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ea33ff57e169331f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19931209
 DTEND;VALUE=DATE:19931210
 RRULE:FREQ=YEARLY
@@ -2161,15 +2101,15 @@ SUMMARY:Cold Fusion magazine launches by Wayne Green and colleagues with Eu
  gene Mallove as Editor.
 DESCRIPTION:Cold Fusion magazine launches by Wayne Green and colleagues wit
  h Eugene Mallove as Editor. Archived at: https://infinite-energy.com/coldf
- usionmagazine/\n\nYear: 1993\nType: Publication\nOrigin: US\n\nSource: htt
- ps://www.lackluster.org/cf/#1993-12-9
+ usionmagazine/\n\nYear: 1993\nType: Publication\nOrigin: USA\n\nSource: ht
+ tps://www.lackluster.org/cf/#1993-12-9
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1993-12-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f722f1e8224f8fde@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-041b542f5bb4a99b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19940207
 DTEND;VALUE=DATE:19940208
 RRULE:FREQ=YEARLY
@@ -2183,8 +2123,8 @@ URL:https://www.lackluster.org/cf/#1994-2-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-27e79404e313a3e7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fe9a2e1ac11521af@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19940321
 DTEND;VALUE=DATE:19940322
 RRULE:FREQ=YEARLY
@@ -2200,8 +2140,8 @@ URL:https://www.lackluster.org/cf/#1994-3-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-33c29b53a522f6f9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d50b67edb69ea0d0@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19940607
 DTEND;VALUE=DATE:19940608
 RRULE:FREQ=YEARLY
@@ -2209,15 +2149,15 @@ SUMMARY:James Patterson / Clean Energy Technologies Inc.
 DESCRIPTION:James Patterson / Clean Energy Technologies Inc. (CETI) granted
   US 5\,318\,675 — System for the electrolysis of water using a porous ma
  trix of micron-sized beads. https://patents.google.com/patent/US5318675A/e
- n\n\nYear: 1994\nType: Patent\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#1994-6-7
+ n\n\nYear: 1994\nType: Patent\nOrigin: USA\n\nSource: https://www.lacklust
+ er.org/cf/#1994-6-7
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#1994-6-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3afc73085e34a678@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d925190ff563290e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19940701
 DTEND;VALUE=DATE:19940702
 RRULE:FREQ=YEARLY
@@ -2225,47 +2165,30 @@ SUMMARY:Key Experiment: Isothermal Flow Calorimetric Investigations by M.
 DESCRIPTION:Key Experiment: Isothermal Flow Calorimetric Investigations by 
  M. McKubre. 1994. PDF: http://lenr-canr.org/acrobat/McKubreMCHisothermala.
  pdf (See also CFN podcast #2\, #13\, #17: https://coldfusionnow.org/cfnpod
- cast/)\n\nYear: 1994\nType: Key Experiment\nOrigin: US\n\nSource: https://
- www.lackluster.org/cf/#1994-7-1
+ cast/)\n\nYear: 1994\nType: Key Experiment\nOrigin: USA\n\nSource: https:/
+ /www.lackluster.org/cf/#1994-7-1
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1994-7-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-01655f43c84cb888@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f69a2dbb4b562e05@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19940914
 DTEND;VALUE=DATE:19940915
 RRULE:FREQ=YEARLY
-SUMMARY:FrancescoPiantelli\, Sergio Focardi\, V.Gabbani\, V.
-DESCRIPTION:FrancescoPiantelli\, Sergio Focardi\, V.Gabbani\, V. Montalbano
- \, and S. Veronisi create excess energy of over 900 MegaJoules using nicke
- l and light-hydrogen.\n\nYear: 1994\nType: Science\nOrigin: Italy\n\nSourc
- e: https://www.lackluster.org/cf/#1994-9-14
+SUMMARY:Francesco Piantelli\, Sergio Focardi\, V.Gabbani\, V.
+DESCRIPTION:Francesco Piantelli\, Sergio Focardi\, V.Gabbani\, V. Montalban
+ o\, and S. Veronisi create excess energy of over 900 MegaJoules using nick
+ el and light-hydrogen.\n\nYear: 1994\nType: Science\nOrigin: Italy\n\nSour
+ ce: https://www.lackluster.org/cf/#1994-9-14
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1994-9-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8e59114f099d8d0b@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:19941123
-DTEND;VALUE=DATE:19941124
-RRULE:FREQ=YEARLY
-SUMMARY:Key Experiment: Reduced Radioactivity of Tritium In Small Titanium 
- Particles by Otto Reifenschweiler of Phillips Research Laboratories in…
-DESCRIPTION:Key Experiment: Reduced Radioactivity of Tritium In Small Titan
- ium Particles by Otto Reifenschweiler of Phillips Research Laboratories in
-  Netherlands. 1994. PDF: http://lenr-canr.org/acrobat/Reifenschwreducedrad
- .pdf\n\nYear: 1994\nType: Key Experiment\nOrigin: Netherlands\n\nSource: h
- ttps://www.lackluster.org/cf/#1994-11-23
-CATEGORIES:Key Experiment
-URL:https://www.lackluster.org/cf/#1994-11-23
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-3dfdb30b8c9aa37d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-97146347e7adbd85@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19941124
 DTEND;VALUE=DATE:19941125
 RRULE:FREQ=YEARLY
@@ -2280,8 +2203,8 @@ URL:https://www.lackluster.org/cf/#1994-11-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bba99cc55286a0a9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f1f1c5174c9a7a3f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19941207
 DTEND;VALUE=DATE:19941208
 RRULE:FREQ=YEARLY
@@ -2289,15 +2212,15 @@ SUMMARY:Key Experiment: Surface Morphology and … correlation with Excess
  Heat by John Dash\, G.
 DESCRIPTION:Key Experiment: Surface Morphology and … correlation with Exc
  ess Heat by John Dash\, G. Noble and D. Diman at Portland State University
-  Physics.\n\nYear: 1994\nType: Key Experiment\nOrigin: US\n\nSource: https
- ://www.lackluster.org/cf/#1994-12-7
+  Physics.\n\nYear: 1994\nType: Key Experiment\nOrigin: USA\n\nSource: http
+ s://www.lackluster.org/cf/#1994-12-7
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1994-12-7
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a64ee759b670967c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ea734624b9de774c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19941213
 DTEND;VALUE=DATE:19941214
 RRULE:FREQ=YEARLY
@@ -2307,15 +2230,15 @@ SUMMARY:James Patterson / CETI granted US 5\,372\,688 — System for electr
 DESCRIPTION:James Patterson / CETI granted US 5\,372\,688 — System for el
  ectrolysis of water using a porous-matrix bead-pack cathode (Patterson Pow
  er Cell). https://patents.google.com/patent/US5372688A/en\n\nYear: 1994\nT
- ype: Patent\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1994-12-
- 13
+ ype: Patent\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1994-12
+ -13
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#1994-12-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-973ba1fe3d3975e8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1f834c34190ce72c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950121
 DTEND;VALUE=DATE:19950122
 RRULE:FREQ=YEARLY
@@ -2323,14 +2246,14 @@ SUMMARY:Eugene Mallove conducts IAP short course at Massachusetts Institute
   of Technology (MIT) calling it Cold Fusion Day.
 DESCRIPTION:Eugene Mallove conducts IAP short course at Massachusetts Insti
  tute of Technology (MIT) calling it Cold Fusion Day.\n\nYear: 1995\nType: 
- Demo\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1995-1-21
+ Demo\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1995-1-21
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#1995-1-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ede4acdc56302ced@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1b4a1bd9bfa8621d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950214
 DTEND;VALUE=DATE:19950215
 RRULE:FREQ=YEARLY
@@ -2345,8 +2268,8 @@ URL:https://www.lackluster.org/cf/#1995-2-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1135cc3b0a46dcd8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2d58485dc5848d62@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950409
 DTEND;VALUE=DATE:19950410
 RRULE:FREQ=YEARLY
@@ -2354,15 +2277,15 @@ SUMMARY:Eugene Mallove\, Jed Rothwell and Chris Tinsley launch Infinite Ene
  rgy magazine\, still in publication.
 DESCRIPTION:Eugene Mallove\, Jed Rothwell and Chris Tinsley launch Infinite
   Energy magazine\, still in publication. https://infinite-energy.com/\n\nY
- ear: 1995\nType: Publication\nOrigin: US\n\nSource: https://www.lackluster
- .org/cf/#1995-4-9
+ ear: 1995\nType: Publication\nOrigin: USA\n\nSource: https://www.lackluste
+ r.org/cf/#1995-4-9
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1995-4-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-85fd8c029a2ef0d9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-04ade017fe5cd55b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950409
 DTEND;VALUE=DATE:19950410
 RRULE:FREQ=YEARLY
@@ -2377,8 +2300,8 @@ URL:https://www.lackluster.org/cf/#1995-4-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5f71b5f3dd7a2d05@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-483e36f8e0bb31b7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950420
 DTEND;VALUE=DATE:19950421
 RRULE:FREQ=YEARLY
@@ -2386,16 +2309,16 @@ SUMMARY:Excess Heat Measurement in AlLaO3 Doped with Deuterium by Jean-Paul
   Biberian from Sciences de Luminy Physics in Monaco\, France.
 DESCRIPTION:Excess Heat Measurement in AlLaO3 Doped with Deuterium by Jean-
  Paul Biberian from Sciences de Luminy Physics in Monaco\, France. PDF: htt
- p://lenr-canr.org/acrobat/PonsSproceeding.pdf#page=65 (See also CFN podcas
- t #4: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 1995\nType: Science\
- nOrigin: France\n\nSource: https://www.lackluster.org/cf/#1995-4-20
+ p://lenr-canr.org/acrobat/PonsSproceeding.pdf#page=65 (See also CFN Podcas
+ t #4: https://www.lackluster.org/cf/#2018-2-14)\n\nYear: 1995\nType: Scien
+ ce\nOrigin: France\n\nSource: https://www.lackluster.org/cf/#1995-4-20
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1995-4-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3d5114ca83332345@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7568dc5e09ad27ac@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19950619
 DTEND;VALUE=DATE:19950620
 RRULE:FREQ=YEARLY
@@ -2403,28 +2326,28 @@ SUMMARY:First Conference on Low Energy Nuclear Reactions (Transmutations) h
  eld at Texas A&M University.
 DESCRIPTION:First Conference on Low Energy Nuclear Reactions (Transmutation
  s) held at Texas A&M University.\n\nYear: 1995\nType: Conference\nOrigin: 
- US\n\nSource: https://www.lackluster.org/cf/#1995-6-19
+ USA\n\nSource: https://www.lackluster.org/cf/#1995-6-19
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1995-6-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-87614e0f4e3fbf12@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0022bca78dd4a68e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19951206
 DTEND;VALUE=DATE:19951207
 RRULE:FREQ=YEARLY
 SUMMARY:Clean Energy Technologies Inc.
 DESCRIPTION:Clean Energy Technologies Inc. (CETI) demonstrates 1300 Watts O
- ut in Anaheim.\n\nYear: 1995\nType: Demo\nOrigin: US\n\nSource: https://ww
- w.lackluster.org/cf/#1995-12-6
+ ut in Anaheim.\n\nYear: 1995\nType: Demo\nOrigin: USA\n\nSource: https://w
+ ww.lackluster.org/cf/#1995-12-6
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#1995-12-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-467bcc8ba7249907@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b8f033603ec53ca4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960216
 DTEND;VALUE=DATE:19960217
 RRULE:FREQ=YEARLY
@@ -2433,15 +2356,15 @@ SUMMARY:NASA Lewis Research Center releases Replication of the Apparent Exc
 DESCRIPTION:NASA Lewis Research Center releases Replication of the Apparent
   Excess Heat Effect in a Light-Water-Potassium-Carbonate-Nickel Electrolyt
  ic Cell by Janis Niedra\, Ira Meyers\, Gustave Fralick\, and Richard Baldw
- in.\n\nYear: 1996\nType: Federal\nOrigin: US\n\nSource: https://www.lacklu
- ster.org/cf/#1996-2-16
+ in.\n\nYear: 1996\nType: Federal\nOrigin: USA\n\nSource: https://www.lackl
+ uster.org/cf/#1996-2-16
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#1996-2-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7bae8af5c5ba4014@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b94d2da92cbd73bb@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960227
 DTEND;VALUE=DATE:19960228
 RRULE:FREQ=YEARLY
@@ -2449,15 +2372,15 @@ SUMMARY:James Patterson / CETI granted US 5\,494\,559 — System for electr
  olytic processing including a Patterson Power Cell.
 DESCRIPTION:James Patterson / CETI granted US 5\,494\,559 — System for el
  ectrolytic processing including a Patterson Power Cell. https://patents.go
- ogle.com/patent/US5494559A/en\n\nYear: 1996\nType: Patent\nOrigin: US\n\nS
- ource: https://www.lackluster.org/cf/#1996-2-27
+ ogle.com/patent/US5494559A/en\n\nYear: 1996\nType: Patent\nOrigin: USA\n\n
+ Source: https://www.lackluster.org/cf/#1996-2-27
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#1996-2-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b5813a5a75ea7a3d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5ba1d1059e9a7f0a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960302
 DTEND;VALUE=DATE:19960303
 RRULE:FREQ=YEARLY
@@ -2472,38 +2395,38 @@ URL:https://www.lackluster.org/cf/#1996-3-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6fa7250926c54192@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c3681ad5c5535a42@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960326
 DTEND;VALUE=DATE:19960327
 RRULE:FREQ=YEARLY
 SUMMARY:Oriani at University of Minnesota obtains excess heat using Mizuno'
  s proton conductors.
 DESCRIPTION:Oriani at University of Minnesota obtains excess heat using Miz
- uno's proton conductors.\n\nYear: 1996\nType: Science\nOrigin: US\n\nSourc
- e: https://www.lackluster.org/cf/#1996-3-26
+ uno's proton conductors.\n\nYear: 1996\nType: Science\nOrigin: USA\n\nSour
+ ce: https://www.lackluster.org/cf/#1996-3-26
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1996-3-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-f5e209e84b0f76fc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fed22318b07d1afe@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960913
 DTEND;VALUE=DATE:19960914
 RRULE:FREQ=YEARLY
 SUMMARY:Key Experiment: Nuclear Transmutations by George Miley and James Pa
  tterson.
 DESCRIPTION:Key Experiment: Nuclear Transmutations by George Miley and Jame
- s Patterson.\n\nYear: 1996\nType: Key Experiment\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#1996-9-13
+ s Patterson.\n\nYear: 1996\nType: Key Experiment\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#1996-9-13
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1996-9-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bcd0d1cb9b79c37e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-4924f8e0cf1079ab@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19960921
 DTEND;VALUE=DATE:19960922
 RRULE:FREQ=YEARLY
@@ -2513,14 +2436,14 @@ DESCRIPTION:Key Experiment: Anomalous Effects in Deuterated Systems by Melv
  in Miles\, Benjamin Bush\, and Kendall Johnson at Naval Air Warfare Center
  . PDF: https://apps.dtic.mil/sti/tr/pdf/ADA315020.pdf (See also CFN podcas
  t #12: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 1996\nType: Key Exp
- eriment\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1996-9-21
+ eriment\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1996-9-21
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1996-9-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bc41458bac0bcc68@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6f610bac00ca43f5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19961005
 DTEND;VALUE=DATE:19961006
 RRULE:FREQ=YEARLY
@@ -2535,8 +2458,8 @@ URL:https://www.lackluster.org/cf/#1996-10-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-93eb88a68428884d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5d82d8eb8fc6e51e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19961013
 DTEND;VALUE=DATE:19961014
 RRULE:FREQ=YEARLY
@@ -2551,8 +2474,8 @@ URL:https://www.lackluster.org/cf/#1996-10-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8897ada01e91172e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c1d786a7cad3cc9b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19961109
 DTEND;VALUE=DATE:19961110
 RRULE:FREQ=YEARLY
@@ -2560,15 +2483,15 @@ SUMMARY:Key Experiment: Nuclear Transmutations in Thin-Film Nickel Coatings
   by George Miley.
 DESCRIPTION:Key Experiment: Nuclear Transmutations in Thin-Film Nickel Coat
  ings by George Miley. 1996. PDF: http://lenr-canr.org/acrobat/MileyGHnucle
- artra.pdf\n\nYear: 1996\nType: Science\nOrigin: US\n\nSource: https://www.
- lackluster.org/cf/#1996-11-9
+ artra.pdf\n\nYear: 1996\nType: Science\nOrigin: USA\n\nSource: https://www
+ .lackluster.org/cf/#1996-11-9
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1996-11-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0eb523397c0ca75d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5cca95496507756f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19961123
 DTEND;VALUE=DATE:19961124
 RRULE:FREQ=YEARLY
@@ -2577,16 +2500,16 @@ SUMMARY:Key Experiment: Reproducible\, Anomalous Emissions form Palladium D
 DESCRIPTION:Key Experiment: Reproducible\, Anomalous Emissions form Palladi
  um Deuteride/Hydride by M. Srinivasan et al. at Bhabha Atomic Research Cen
  tre in India. *1996. PDF: http://lenr-canr.org/acrobat/RoutRKreproducib.pd
- f (See also CFN podcast #7: https://coldfusionnow.org/cfnpodcast/)\n\nYear
- : 1996\nType: Science\nOrigin: India\n\nSource: https://www.lackluster.org
- /cf/#1996-11-23
+ f (See also CFN Podcast #7: https://www.lackluster.org/cf/#2018-3-23)\n\nY
+ ear: 1996\nType: Science\nOrigin: India\n\nSource: https://www.lackluster.
+ org/cf/#1996-11-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1996-11-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e527f87309f0db13@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-dff4d89388a586b6@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19970114
 DTEND;VALUE=DATE:19970115
 RRULE:FREQ=YEARLY
@@ -2600,8 +2523,8 @@ URL:https://www.lackluster.org/cf/#1997-1-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0c9b2402d905b46d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c75a0707cfd18372@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19970404
 DTEND;VALUE=DATE:19970405
 RRULE:FREQ=YEARLY
@@ -2610,14 +2533,14 @@ SUMMARY:Cold fusion-themed movie “The Saint” with Val Kilmer and Elisab
 DESCRIPTION:Cold fusion-themed movie “The Saint” with Val Kilmer and El
  isabeth Shue opens in theaters. Eugene Mallove serves as technical consult
  ant. https://www.imdb.com/title/tt0120053/\n\nYear: 1997\nType: Movie\nOri
- gin: US\n\nSource: https://www.lackluster.org/cf/#1997-4-4
+ gin: USA\n\nSource: https://www.lackluster.org/cf/#1997-4-4
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#1997-4-4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c4d9ca703030b093@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-85572cc5decbb5ba@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19970603
 DTEND;VALUE=DATE:19970604
 RRULE:FREQ=YEARLY
@@ -2625,14 +2548,14 @@ SUMMARY:American Nuclear Society Annual Meeting in Orlando\, Florida featur
  es Low Energy Nuclear Reactions Panel session.
 DESCRIPTION:American Nuclear Society Annual Meeting in Orlando\, Florida fe
  atures Low Energy Nuclear Reactions Panel session.\n\nYear: 1997\nType: Co
- nference\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#1997-6-3
+ nference\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#1997-6-3
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1997-6-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ffe72a7c0844ca52@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f07465253278ebe5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19970611
 DTEND;VALUE=DATE:19970612
 RRULE:FREQ=YEARLY
@@ -2640,15 +2563,15 @@ SUMMARY:ABC-TV shows Good Morning America and NightLine feature Clean Energ
  y Technology\, Inc.
 DESCRIPTION:ABC-TV shows Good Morning America and NightLine feature Clean E
  nergy Technology\, Inc. (CETI) Patterson Power Cell on the same day.\n\nYe
- ar: 1997\nType: Business\nOrigin: US\n\nSource: https://www.lackluster.org
- /cf/#1997-6-11
+ ar: 1997\nType: Business\nOrigin: USA\n\nSource: https://www.lackluster.or
+ g/cf/#1997-6-11
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#1997-6-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4ebc0cb23551d59d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3017939904d2c47c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19970623
 DTEND;VALUE=DATE:19970624
 RRULE:FREQ=YEARLY
@@ -2656,15 +2579,15 @@ SUMMARY:The Cincinnati Group presents a process of radioactive waste remedi
  ation and offers a LENT-1 thorium activity reduction demonstration cel…
 DESCRIPTION:The Cincinnati Group presents a process of radioactive waste re
  mediation and offers a LENT-1 thorium activity reduction demonstration cel
- l as a commercial product.\n\nYear: 1997\nType: Business\nOrigin: US\n\nSo
- urce: https://www.lackluster.org/cf/#1997-6-23
+ l as a commercial product.\n\nYear: 1997\nType: Business\nOrigin: USA\n\nS
+ ource: https://www.lackluster.org/cf/#1997-6-23
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#1997-6-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cd8f1673d64522f7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a9e6783e44f10ef4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19971204
 DTEND;VALUE=DATE:19971205
 RRULE:FREQ=YEARLY
@@ -2679,23 +2602,23 @@ URL:https://www.lackluster.org/cf/#1997-12-4
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-65ac1665493aa791@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-da928539b1d0adfb@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19971225
 DTEND;VALUE=DATE:19971226
 RRULE:FREQ=YEARLY
 SUMMARY:Capital fund New Energy Partners begins investing in the cold fusio
  n field.
 DESCRIPTION:Capital fund New Energy Partners begins investing in the cold f
- usion field.\n\nYear: 1997\nType: Business\nOrigin: US\n\nSource: https://
- www.lackluster.org/cf/#1997-12-25
+ usion field.\n\nYear: 1997\nType: Business\nOrigin: USA\n\nSource: https:/
+ /www.lackluster.org/cf/#1997-12-25
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#1997-12-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fe6e5b16cdc193c4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-075b5faf76f283a2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980215
 DTEND;VALUE=DATE:19980216
 RRULE:FREQ=YEARLY
@@ -2708,8 +2631,8 @@ URL:https://www.lackluster.org/cf/#1998-2-15
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-13788fa6599ad4ff@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6672afbd77f41b01@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980419
 DTEND;VALUE=DATE:19980420
 RRULE:FREQ=YEARLY
@@ -2717,15 +2640,15 @@ SUMMARY:Key Experiment: Optimal Operating Point Characteristics of Nickel L
  ight Water Experiments by Mitchell Swartz of JET Energy.
 DESCRIPTION:Key Experiment: Optimal Operating Point Characteristics of Nick
  el Light Water Experiments by Mitchell Swartz of JET Energy.\n\nYear: 1998
- \nType: Key Experiment\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#1998-4-19
+ \nType: Key Experiment\nOrigin: USA\n\nSource: https://www.lackluster.org/
+ cf/#1998-4-19
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1998-4-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0c07066ec3e9027e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-92a6a9baea95b1fc@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980419
 DTEND;VALUE=DATE:19980420
 RRULE:FREQ=YEARLY
@@ -2740,8 +2663,8 @@ URL:https://www.lackluster.org/cf/#1998-4-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d89237beaa5dd656@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-76976882471971c1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980425
 DTEND;VALUE=DATE:19980426
 RRULE:FREQ=YEARLY
@@ -2756,38 +2679,38 @@ URL:https://www.lackluster.org/cf/#1998-4-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3fe051e355223773@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-defbcbdd86247243@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980430
 DTEND;VALUE=DATE:19980501
 RRULE:FREQ=YEARLY
 SUMMARY:Key Experiment: Optimal Operating Point Characteristics by Mitchell
   Swartz.
 DESCRIPTION:Key Experiment: Optimal Operating Point Characteristics by Mitc
- hell Swartz.\n\nYear: 1998\nType: Key Experiment\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#1998-4-30
+ hell Swartz.\n\nYear: 1998\nType: Key Experiment\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#1998-4-30
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#1998-4-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a7a21c18f78c3c2e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1b302010cb646571@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980502
 DTEND;VALUE=DATE:19980503
 RRULE:FREQ=YEARLY
 SUMMARY:Leslie Case demonstrates deuterium gas-loaded metallic-catalyst cel
  l.
 DESCRIPTION:Leslie Case demonstrates deuterium gas-loaded metallic-catalyst
-  cell.\n\nYear: 1998\nType: Demo\nOrigin: US\n\nSource: https://www.lacklu
- ster.org/cf/#1998-5-2
+  cell.\n\nYear: 1998\nType: Demo\nOrigin: USA\n\nSource: https://www.lackl
+ uster.org/cf/#1998-5-2
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#1998-5-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b465bc6703fce5ce@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-22728245ad522edf@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19980605
 DTEND;VALUE=DATE:19980606
 RRULE:FREQ=YEARLY
@@ -2801,8 +2724,8 @@ URL:https://www.lackluster.org/cf/#1998-6-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-175ea6be9a5df7de@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d53265d3a7a08b7e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19981102
 DTEND;VALUE=DATE:19981103
 RRULE:FREQ=YEARLY
@@ -2810,15 +2733,15 @@ SUMMARY:Wired magazine publishes “Dirty Science: The Strange Rebirth of C
  old Fusion” by Charles Platt.
 DESCRIPTION:Wired magazine publishes “Dirty Science: The Strange Rebirth 
  of Cold Fusion” by Charles Platt. https://www.wired.com/1998/11/coldfusi
- on/\n\nYear: 1998\nType: Publication\nOrigin: US\n\nSource: https://www.la
- ckluster.org/cf/#1998-11-2
+ on/\n\nYear: 1998\nType: Publication\nOrigin: USA\n\nSource: https://www.l
+ ackluster.org/cf/#1998-11-2
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1998-11-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-75c56e97dfd2edb3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-3500f374187deed9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19981120
 DTEND;VALUE=DATE:19981121
 RRULE:FREQ=YEARLY
@@ -2826,31 +2749,31 @@ SUMMARY:“Heavy Watergate: The War Against Cold Fusion” released as part
   of Phenomenon: The Lost Archives.
 DESCRIPTION:“Heavy Watergate: The War Against Cold Fusion” released as 
  part of Phenomenon: The Lost Archives. https://www.imdb.com/title/tt041220
- 2/\n\nYear: 1998\nType: Movie\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#1998-11-20
+ 2/\n\nYear: 1998\nType: Movie\nOrigin: USA\n\nSource: https://www.lacklust
+ er.org/cf/#1998-11-20
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#1998-11-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-35099474f51fe278@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-900db7708c41fe9c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19990131
 DTEND;VALUE=DATE:19990201
 RRULE:FREQ=YEARLY
 SUMMARY:16th Science Frontiers Festival features cold fusion with Jean-Paul
   Biberian.
 DESCRIPTION:16th Science Frontiers Festival features cold fusion with Jean-
- Paul Biberian. (See also CFN podcast #4: https://coldfusionnow.org/cfnpodc
- ast/)\n\nYear: 1999\nType: Science\nOrigin: France\n\nSource: https://www.
- lackluster.org/cf/#1999-1-31
+ Paul Biberian. (See also CFN Podcast #4: https://www.lackluster.org/cf/#20
+ 18-2-14)\n\nYear: 1999\nType: Science\nOrigin: France\n\nSource: https://w
+ ww.lackluster.org/cf/#1999-1-31
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#1999-1-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0fdb56b668c783fc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-37c267dae6871740@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19990301
 DTEND;VALUE=DATE:19990302
 RRULE:FREQ=YEARLY
@@ -2859,28 +2782,14 @@ SUMMARY:MIT and Cold Fusion: A Special Report by Eugene Mallove details mal
 DESCRIPTION:MIT and Cold Fusion: A Special Report by Eugene Mallove details
   malfeasance in the 1989 MIT calorimetry. https://infinite-energy.com/iema
  gazine/issue24/mitspecialreport.html\n\nYear: 1999\nType: Publication\nOri
- gin: US\n\nSource: https://www.lackluster.org/cf/#1999-3-1
+ gin: USA\n\nSource: https://www.lackluster.org/cf/#1999-3-1
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#1999-3-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-001ac696609aeb21@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:19990401
-DTEND;VALUE=DATE:19990402
-RRULE:FREQ=YEARLY
-SUMMARY:“Cold Fusion: Fire From Water” documentary released.
-DESCRIPTION:“Cold Fusion: Fire From Water” documentary released.\n\nYea
- r: 1999\nType: Movie\nOrigin: US\n\nSource: https://www.lackluster.org/cf/
- #1999-4-1
-CATEGORIES:Movie
-URL:https://www.lackluster.org/cf/#1999-4-1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-001ac696609aeb21@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f908634ddb948cd3@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19990401
 DTEND;VALUE=DATE:19990402
 RRULE:FREQ=YEARLY
@@ -2888,29 +2797,29 @@ SUMMARY:“Cold Fusion: Fire From Water” documentary released\, presented
   by James “Scotty” Doohan.
 DESCRIPTION:“Cold Fusion: Fire From Water” documentary released\, prese
  nted by James “Scotty” Doohan. Watch: https://www.youtube.com/watch?v=
- 9hsf7fYNlXQ\n\nYear: 1999\nType: Movie\nOrigin: US\n\nSource: https://www.
- lackluster.org/cf/#1999-4-1
+ 9hsf7fYNlXQ\n\nYear: 1999\nType: Movie\nOrigin: USA\n\nSource: https://www
+ .lackluster.org/cf/#1999-4-1
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#1999-4-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-16119c83f0432f0e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5deadc203665fce1@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:19990429
 DTEND;VALUE=DATE:19990430
 RRULE:FREQ=YEARLY
 SUMMARY:Conference on Free Energy at U.S.
 DESCRIPTION:Conference on Free Energy at U.S. State Department includes col
- d fusion.\n\nYear: 1999\nType: Conference\nOrigin: US\n\nSource: https://w
- ww.lackluster.org/cf/#1999-4-29
+ d fusion.\n\nYear: 1999\nType: Conference\nOrigin: USA\n\nSource: https://
+ www.lackluster.org/cf/#1999-4-29
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#1999-4-29
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9c1fbd0f8be1cc82@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-03bad6d0419d3dfe@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20000503
 DTEND;VALUE=DATE:20000504
 RRULE:FREQ=YEARLY
@@ -2918,15 +2827,15 @@ SUMMARY:Excess Heat How Cold Fusion Research Prevailed by Charles Beaudette
   is published.
 DESCRIPTION:Excess Heat How Cold Fusion Research Prevailed by Charles Beaud
  ette is published. 2000. PDF: http://lenr-canr.org/acrobat/BeaudetteCexces
- sheat.pdf\n\nYear: 2000\nType: Publication\nOrigin: US\n\nSource: https://
- www.lackluster.org/cf/#2000-5-3
+ sheat.pdf\n\nYear: 2000\nType: Publication\nOrigin: USA\n\nSource: https:/
+ /www.lackluster.org/cf/#2000-5-3
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2000-5-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e6885121c0ae57ee@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2c045f5b8e321a3f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20000521
 DTEND;VALUE=DATE:20000522
 RRULE:FREQ=YEARLY
@@ -2941,8 +2850,8 @@ URL:https://www.lackluster.org/cf/#2000-5-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-95c77822456eae4e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-39d09e6a15b9f66e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20001201
 DTEND;VALUE=DATE:20001202
 RRULE:FREQ=YEARLY
@@ -2950,14 +2859,14 @@ SUMMARY:Breaking Symmetry a movie directed by MIT Professor Keith Johnson i
  s released.
 DESCRIPTION:Breaking Symmetry a movie directed by MIT Professor Keith Johns
  on is released. https://www.imdb.com/title/tt1437885/\n\nYear: 2000\nType:
-  Movie\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2000-12-1
+  Movie\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2000-12-1
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2000-12-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-981d9fede97af080@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c51612ee9cb7d88e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20020203
 DTEND;VALUE=DATE:20020204
 RRULE:FREQ=YEARLY
@@ -2966,15 +2875,15 @@ SUMMARY:Naval researchers release Technical Report 1862 The Thermal and Nuc
 DESCRIPTION:Naval researchers release Technical Report 1862 The Thermal and
   Nuclear Aspect of the Pd/D20 system edited by Stan Szpak and Pam Boss doc
  umenting a decade of successful experimental science in low-energy nuclear
-  reactions (LENR)\n\nYear: 2002\nType: Publication\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#2002-2-3
+  reactions (LENR)\n\nYear: 2002\nType: Publication\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#2002-2-3
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2002-2-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9976d895cfd6b7e4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fcd1053528f97dad@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20020217
 DTEND;VALUE=DATE:20020218
 RRULE:FREQ=YEARLY
@@ -2982,15 +2891,15 @@ SUMMARY:Robert Godes of Brillouin Energy has first successful reaction cont
  rol.
 DESCRIPTION:Robert Godes of Brillouin Energy has first successful reaction 
  control. (See also CFN podcast #20: https://coldfusionnow.org/cfnpodcast/)
- \n\nYear: 2002\nType: Science\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#2002-2-17
+ \n\nYear: 2002\nType: Science\nOrigin: USA\n\nSource: https://www.lacklust
+ er.org/cf/#2002-2-17
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2002-2-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-89636bfa03dfe8a3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9791d24070d836d4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20020519
 DTEND;VALUE=DATE:20020520
 RRULE:FREQ=YEARLY
@@ -3005,22 +2914,8 @@ URL:https://www.lackluster.org/cf/#2002-5-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-6a4cf06e6b868c04@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20020521
-DTEND;VALUE=DATE:20020522
-RRULE:FREQ=YEARLY
-SUMMARY:New Journal is named Condensed Matter Nuclear Science.
-DESCRIPTION:New Journal is named Condensed Matter Nuclear Science.\n\nYear:
-  2002\nType: Publication\nOrigin: Global\n\nSource: https://www.lackluster
- .org/cf/#2002-5-21
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2002-5-21
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-7b32691ad8eb0166@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f629d10ba3027fd8@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20020521
 DTEND;VALUE=DATE:20020522
 RRULE:FREQ=YEARLY
@@ -3035,8 +2930,8 @@ URL:https://www.lackluster.org/cf/#2002-5-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fa26bb937e4bf24a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f6e121a96d3151a7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20020715
 DTEND;VALUE=DATE:20020716
 RRULE:FREQ=YEARLY
@@ -3051,8 +2946,8 @@ URL:https://www.lackluster.org/cf/#2002-7-15
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d2458c0484473bbf@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-d151ca7bca3e2720@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20030824
 DTEND;VALUE=DATE:20030825
 RRULE:FREQ=YEARLY
@@ -3061,14 +2956,14 @@ SUMMARY:ICCF-10 — International Conference on Cold Fusion held in Cambrid
 DESCRIPTION:ICCF-10 — International Conference on Cold Fusion held in Cam
  bridge\, Massachusetts\, USA. Proceedings / info: http://lenr-canr.org/acr
  obat/HagelsteinPcondensedm.pdf\n\nYear: 2003\nType: Conference\nOrigin: US
- \n\nSource: https://www.lackluster.org/cf/#2003-8-24
+ A\n\nSource: https://www.lackluster.org/cf/#2003-8-24
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2003-8-24
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-643a2e92049f2406@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-57995298589dbc32@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20030826
 DTEND;VALUE=DATE:20030827
 RRULE:FREQ=YEARLY
@@ -3076,15 +2971,15 @@ SUMMARY:Mitchell Swartz of JET Energy and John Dash and his Portland\, Oreg
  on students each demonstrate cold fusion cells for the public at MIT du…
 DESCRIPTION:Mitchell Swartz of JET Energy and John Dash and his Portland\, 
  Oregon students each demonstrate cold fusion cells for the public at MIT d
- uring ICCF-10. 24-.\n\nYear: 2003\nType: Science\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#2003-8-26
+ uring ICCF-10. 24-.\n\nYear: 2003\nType: Science\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#2003-8-26
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2003-8-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b4198c75e860a875@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-dcfb8b525abb2296@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20030827
 DTEND;VALUE=DATE:20030828
 RRULE:FREQ=YEARLY
@@ -3093,14 +2988,14 @@ SUMMARY:Dennis Cravens and Dennis Letts present research at ICCF-10 showing
 DESCRIPTION:Dennis Cravens and Dennis Letts present research at ICCF-10 sho
  wing anomalous heat is initiated by laser stimulation. (See also CFN podca
  st #15: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 2003\nType: Scienc
- e\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2003-8-27
+ e\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2003-8-27
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2003-8-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-16c01b16a796d80b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a73bdbff8012f259@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20030828
 DTEND;VALUE=DATE:20030829
 RRULE:FREQ=YEARLY
@@ -3108,15 +3003,15 @@ SUMMARY:Irving Dardik reports Superwaves intensify LENR cells developed wit
  h Shaul Lesin and Arik El-Boher at Energetics Technologies.
 DESCRIPTION:Irving Dardik reports Superwaves intensify LENR cells developed
   with Shaul Lesin and Arik El-Boher at Energetics Technologies.\n\nYear: 2
- 003\nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2
- 003-8-28
+ 003\nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#
+ 2003-8-28
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2003-8-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3db1fc3760a9e7e5@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-abe746421015d549@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20031121
 DTEND;VALUE=DATE:20031122
 RRULE:FREQ=YEARLY
@@ -3130,8 +3025,8 @@ URL:https://www.lackluster.org/cf/#2003-11-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-748d1e49aba746ed@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c61ccd82a7c2b092@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20041001
 DTEND;VALUE=DATE:20041002
 RRULE:FREQ=YEARLY
@@ -3140,14 +3035,14 @@ SUMMARY:Steven Krivit and Nadine Winocur publish The Rebirth of Cold Fusion
 DESCRIPTION:Steven Krivit and Nadine Winocur publish The Rebirth of Cold Fu
  sion: Real Science\, Real Hope\, Real Energy. https://newenergytimes.com/v
  2/books/RBCF/RebirthOfColdFusion.shtml\n\nYear: 2004\nType: Publication\nO
- rigin: US\n\nSource: https://www.lackluster.org/cf/#2004-10-1
+ rigin: USA\n\nSource: https://www.lackluster.org/cf/#2004-10-1
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2004-10-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d35617dd0358bb29@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-859b3f9ddab23bea@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20041031
 DTEND;VALUE=DATE:20041101
 RRULE:FREQ=YEARLY
@@ -3162,52 +3057,38 @@ URL:https://www.lackluster.org/cf/#2004-10-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-703d44f3ad33f719@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1ad55e2cda4dd380@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20041201
 DTEND;VALUE=DATE:20041202
 RRULE:FREQ=YEARLY
 SUMMARY:The U.S.
 DESCRIPTION:The U.S. Department of Energy issues final report of second rev
  iew of LENR\, somewhat more positive than 1989's review\, though no fundin
- g is recommended.\n\nYear: 2004\nType: Federal\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#2004-12-1
+ g is recommended.\n\nYear: 2004\nType: Federal\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#2004-12-1
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2004-12-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-da35bd8b0f18a189@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20041217
-DTEND;VALUE=DATE:20041218
-RRULE:FREQ=YEARLY
-SUMMARY:Cold Fusion and the Future by Jed Rothwell released.
-DESCRIPTION:Cold Fusion and the Future by Jed Rothwell released.\n\nYear: 2
- 004\nType: Publication\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#2004-12-17
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2004-12-17
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-da35bd8b0f18a189@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0f58f89942dd7fbc@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20041217
 DTEND;VALUE=DATE:20041218
 RRULE:FREQ=YEARLY
 SUMMARY:Cold Fusion and the Future by Jed Rothwell released.
 DESCRIPTION:Cold Fusion and the Future by Jed Rothwell released. 2004. PDF:
   http://lenr-canr.org/acrobat/RothwellJcoldfusiona.pdf\n\nYear: 2004\nType
- : Publication\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2004-1
- 2-17
+ : Publication\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2004-
+ 12-17
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2004-12-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bb89b1fd54bf3fb7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0d159f3c1bbde40a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20041228
 DTEND;VALUE=DATE:20041229
 RRULE:FREQ=YEARLY
@@ -3221,22 +3102,22 @@ URL:https://www.lackluster.org/cf/#2004-12-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4bdddb4046a11a8a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-01c570313b0fbfe2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20050528
 DTEND;VALUE=DATE:20050529
 RRULE:FREQ=YEARLY
 SUMMARY:First LANR/CF Colloquium at MIT organized by Mitchell Swartz.
 DESCRIPTION:First LANR/CF Colloquium at MIT organized by Mitchell Swartz.\n
- \nYear: 2005\nType: Conference\nOrigin: US\n\nSource: https://www.lacklust
- er.org/cf/#2005-5-28
+ \nYear: 2005\nType: Conference\nOrigin: USA\n\nSource: https://www.lacklus
+ ter.org/cf/#2005-5-28
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2005-5-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1f13d83d1566a58b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a45479467fe7c20c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20051127
 DTEND;VALUE=DATE:20051128
 RRULE:FREQ=YEARLY
@@ -3251,23 +3132,8 @@ URL:https://www.lackluster.org/cf/#2005-11-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0ac7f0025d7b66ed@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20051129
-DTEND;VALUE=DATE:20051130
-RRULE:FREQ=YEARLY
-SUMMARY:Sterling Allan and friends found the New Energy Congress to advance
-  breakthrough energy technology.
-DESCRIPTION:Sterling Allan and friends found the New Energy Congress to adv
- ance breakthrough energy technology.\n\nYear: 2005\nType: Movement\nOrigin
- : US\n\nSource: https://www.lackluster.org/cf/#2005-11-29
-CATEGORIES:Movement
-URL:https://www.lackluster.org/cf/#2005-11-29
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-48c1d1f6a31361ef@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-462c93ed320225e0@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20061010
 DTEND;VALUE=DATE:20061011
 RRULE:FREQ=YEARLY
@@ -3282,38 +3148,38 @@ URL:https://www.lackluster.org/cf/#2006-10-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9f4091a141a3fa6f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-61740e71cf47daae@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20061213
 DTEND;VALUE=DATE:20061214
 RRULE:FREQ=YEARLY
 SUMMARY:Defense Threat Reduction Agency (DTRA) concludes High Energy Worksh
  op.
 DESCRIPTION:Defense Threat Reduction Agency (DTRA) concludes High Energy Wo
- rkshop.\n\nYear: 2006\nType: Federal\nOrigin: US\n\nSource: https://www.la
- ckluster.org/cf/#2006-12-13
+ rkshop.\n\nYear: 2006\nType: Federal\nOrigin: USA\n\nSource: https://www.l
+ ackluster.org/cf/#2006-12-13
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2006-12-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0d8ad5d351e8330d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-47f540eeff02b952@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20070331
 DTEND;VALUE=DATE:20070401
 RRULE:FREQ=YEARLY
 SUMMARY:American Chemical Society (ACS) holds cold fusion sessions after 18
  -year hiatus.
 DESCRIPTION:American Chemical Society (ACS) holds cold fusion sessions afte
- r 18-year hiatus.\n\nYear: 2007\nType: Conference\nOrigin: US\n\nSource: h
- ttps://www.lackluster.org/cf/#2007-3-31
+ r 18-year hiatus.\n\nYear: 2007\nType: Conference\nOrigin: USA\n\nSource: 
+ https://www.lackluster.org/cf/#2007-3-31
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2007-3-31
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ed866470b2a57eee@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c9e6bf7f13fb7fae@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20070625
 DTEND;VALUE=DATE:20070626
 RRULE:FREQ=YEARLY
@@ -3328,23 +3194,23 @@ URL:https://www.lackluster.org/cf/#2007-6-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e7b44a911bacfce8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c33b24373c0433da@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20070629
 DTEND;VALUE=DATE:20070630
 RRULE:FREQ=YEARLY
 SUMMARY:High Energy Science and Technology Assessment from U.S.
 DESCRIPTION:High Energy Science and Technology Assessment from U.S. Defense
   Threat Reduction Agency (DTRA) supports cold fusion research.\n\nYear: 20
- 07\nType: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#20
- 07-6-29
+ 07\nType: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2
+ 007-6-29
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2007-6-29
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8552201b30e7da84@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-67ca22e8f82cc726@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20070709
 DTEND;VALUE=DATE:20070710
 RRULE:FREQ=YEARLY
@@ -3354,14 +3220,14 @@ DESCRIPTION:The Science of Low Energy Nuclear Reaction\, a comprehensive su
  rvey of the field by Edmund Storms is published by World Scientific. Avail
  able via lenr-canr.org bibliography: http://lenr-canr.org/ (See also CFN p
  odcast #19: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 2007\nType: Pu
- blication\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2007-7-9
+ blication\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2007-7-9
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2007-7-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fc0a863543e96474@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-bbbff8be1378461c@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20080409
 DTEND;VALUE=DATE:20080410
 RRULE:FREQ=YEARLY
@@ -3378,8 +3244,8 @@ URL:https://www.lackluster.org/cf/#2008-4-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7d60f8c8b551e083@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-aceea7c6b4e7b389@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20080521
 DTEND;VALUE=DATE:20080522
 RRULE:FREQ=YEARLY
@@ -3393,8 +3259,8 @@ URL:https://www.lackluster.org/cf/#2008-5-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2dfefebd28f9c046@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a6c519bc0ff0fa68@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20080522
 DTEND;VALUE=DATE:20080523
 RRULE:FREQ=YEARLY
@@ -3410,8 +3276,8 @@ URL:https://www.lackluster.org/cf/#2008-5-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1ef91dafc982b443@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2138560c4a2ed586@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20080805
 DTEND;VALUE=DATE:20080806
 RRULE:FREQ=YEARLY
@@ -3419,15 +3285,15 @@ SUMMARY:Cold Fusion: Clean Energy for the Future is published by Talbot Chu
  bb.
 DESCRIPTION:Cold Fusion: Clean Energy for the Future is published by Talbot
   Chubb. https://archive.org/details/coldfusioncleanenergychubb\n\nYear: 20
- 08\nType: Publication\nOrigin: US\n\nSource: https://www.lackluster.org/cf
- /#2008-8-5
+ 08\nType: Publication\nOrigin: USA\n\nSource: https://www.lackluster.org/c
+ f/#2008-8-5
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2008-8-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-087634ba957433f5@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-751e1b2624a9c13a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20080810
 DTEND;VALUE=DATE:20080811
 RRULE:FREQ=YEARLY
@@ -3436,44 +3302,29 @@ SUMMARY:ICCF-14 — International Conference on Condensed Matter Nuclear Sc
 DESCRIPTION:ICCF-14 — International Conference on Condensed Matter Nuclea
  r Science held in Washington\, D.C.\, USA. Proceedings / info: http://lenr
  -canr.org/acrobat/NagelDJlowenergyna.pdf\n\nYear: 2008\nType: Conference\n
- Origin: US\n\nSource: https://www.lackluster.org/cf/#2008-8-10
+ Origin: USA\n\nSource: https://www.lackluster.org/cf/#2008-8-10
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2008-8-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-69bcd0b3f6244a3e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-bf0664fd3cd31cc5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20081120
 DTEND;VALUE=DATE:20081121
 RRULE:FREQ=YEARLY
 SUMMARY:James Martinez inaugurates Cold Fusion Radio with Edmund Storms.
 DESCRIPTION:James Martinez inaugurates Cold Fusion Radio with Edmund Storms
  . (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)\n\nYea
- r: 2008\nType: Movement\nOrigin: US\n\nSource: https://www.lackluster.org/
- cf/#2008-11-20
+ r: 2008\nType: Movement\nOrigin: USA\n\nSource: https://www.lackluster.org
+ /cf/#2008-11-20
 CATEGORIES:Movement
 URL:https://www.lackluster.org/cf/#2008-11-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0b2bd8a06e2cd70c@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20090102
-DTEND;VALUE=DATE:20090103
-RRULE:FREQ=YEARLY
-SUMMARY:Breakthrough Power by Jeane Manning and Jeol Garbon of the Breakthr
- ough Energy Movement released.
-DESCRIPTION:Breakthrough Power by Jeane Manning and Jeol Garbon of the Brea
- kthrough Energy Movement released.\n\nYear: 2009\nType: Publication\nOrigi
- n: US\n\nSource: https://www.lackluster.org/cf/#2009-1-2
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2009-1-2
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-0b2bd8a06e2cd70c@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7d9cbf0b94468830@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20090102
 DTEND;VALUE=DATE:20090103
 RRULE:FREQ=YEARLY
@@ -3482,14 +3333,14 @@ SUMMARY:Breakthrough Power by Jeane Manning and Joel Garbon of the Breakthr
 DESCRIPTION:Breakthrough Power by Jeane Manning and Joel Garbon of the Brea
  kthrough Energy Movement released. https://www.amazon.com/Breakthrough-Pow
  er-Quantum-Leap-Energy/dp/0972776745\n\nYear: 2009\nType: Publication\nOri
- gin: US\n\nSource: https://www.lackluster.org/cf/#2009-1-2
+ gin: USA\n\nSource: https://www.lackluster.org/cf/#2009-1-2
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2009-1-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fd2bacf836aa83f9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-44a75f345353273f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20090106
 DTEND;VALUE=DATE:20090107
 RRULE:FREQ=YEARLY
@@ -3497,29 +3348,29 @@ SUMMARY:Brillouin Energy Corporation begins operation with Chief Technical
  Officer Robert Godes.
 DESCRIPTION:Brillouin Energy Corporation begins operation with Chief Techni
  cal Officer Robert Godes. (See also CFN podcast #20: https://coldfusionnow
- .org/cfnpodcast/)\n\nYear: 2009\nType: Business\nOrigin: US\n\nSource: htt
- ps://www.lackluster.org/cf/#2009-1-6
+ .org/cfnpodcast/)\n\nYear: 2009\nType: Business\nOrigin: USA\n\nSource: ht
+ tps://www.lackluster.org/cf/#2009-1-6
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#2009-1-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-668f0e30e7018617@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8e978be0b3e9493d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20090419
 DTEND;VALUE=DATE:20090420
 RRULE:FREQ=YEARLY
 SUMMARY:CBS 60 Minutes airs Cold Fusion More Than Junk Science segment.
 DESCRIPTION:CBS 60 Minutes airs Cold Fusion More Than Junk Science segment.
- \n\nYear: 2009\nType: Publication\nOrigin: US\n\nSource: https://www.lackl
- uster.org/cf/#2009-4-19
+ \n\nYear: 2009\nType: Publication\nOrigin: USA\n\nSource: https://www.lack
+ luster.org/cf/#2009-4-19
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2009-4-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-9ca69aef84e76bf8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c272ace9d83e59e3@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20090812
 DTEND;VALUE=DATE:20090813
 RRULE:FREQ=YEARLY
@@ -3527,15 +3378,15 @@ SUMMARY:Joseph Zawodny of NASA Langley Research Center releases “Low Ener
  gy Nuclear Reaction: An Energetics Revolution ...”.
 DESCRIPTION:Joseph Zawodny of NASA Langley Research Center releases “Low 
  Energy Nuclear Reaction: An Energetics Revolution ...”\n\nYear: 2009\nTy
- pe: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2009-8-1
- 2
+ pe: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2009-8-
+ 12
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2009-8-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-85a76622256538ed@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6bec8a54ca395f4a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20091005
 DTEND;VALUE=DATE:20091006
 RRULE:FREQ=YEARLY
@@ -3550,8 +3401,8 @@ URL:https://www.lackluster.org/cf/#2009-10-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5030e1fd0bb5c7b5@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7fc0e91f86941d37@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20091008
 DTEND;VALUE=DATE:20091009
 RRULE:FREQ=YEARLY
@@ -3565,36 +3416,36 @@ URL:https://www.lackluster.org/cf/#2009-10-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8d51b52f311e5f7b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1e063fbfa462aab0@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20091113
 DTEND;VALUE=DATE:20091114
 RRULE:FREQ=YEARLY
 SUMMARY:U.S.
 DESCRIPTION:U.S. Defense Intelligence Agency releases Technology Forecast r
  eport recommending support for LENR research.\n\nYear: 2009\nType: Federal
- \nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2009-11-13
+ \nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2009-11-13
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2009-11-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-df1fa4b169d8b930@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a4054df099ca17af@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20091119
 DTEND;VALUE=DATE:20091120
 RRULE:FREQ=YEARLY
 SUMMARY:Andrea Rossi demonstrates Ecat in New Hampshire.
 DESCRIPTION:Andrea Rossi demonstrates Ecat in New Hampshire.\n\nYear: 2009\
- nType: Demo\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2009-11-
- 19
+ nType: Demo\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2009-11
+ -19
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#2009-11-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ed7361f7a29d7b4d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6a2997fb1a037930@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20100513
 DTEND;VALUE=DATE:20100514
 RRULE:FREQ=YEARLY
@@ -3602,14 +3453,14 @@ SUMMARY:In the midst of the BP Oil Catastrophe\, Ruby Carat forms Cold Fusi
  on Now to promote clean energy from cold fusion.
 DESCRIPTION:In the midst of the BP Oil Catastrophe\, Ruby Carat forms Cold 
  Fusion Now to promote clean energy from cold fusion.\n\nYear: 2010\nType: 
- Movement\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2010-5-13
+ Movement\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2010-5-13
 CATEGORIES:Movement
 URL:https://www.lackluster.org/cf/#2010-5-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cb5da63f107126a8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-9c85f7a69d0911b9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110111
 DTEND;VALUE=DATE:20110112
 RRULE:FREQ=YEARLY
@@ -3623,8 +3474,8 @@ URL:https://www.lackluster.org/cf/#2011-1-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-be8513dd3d3cc561@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2a3d8a923555b16e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110206
 DTEND;VALUE=DATE:20110207
 RRULE:FREQ=YEARLY
@@ -3639,8 +3490,8 @@ URL:https://www.lackluster.org/cf/#2011-2-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-64a437c17121763a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-dab516041286c000@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110611
 DTEND;VALUE=DATE:20110612
 RRULE:FREQ=YEARLY
@@ -3653,35 +3504,22 @@ URL:https://www.lackluster.org/cf/#2011-6-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cd408d9a98953340@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-44ba936bf51f1f5e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110618
 DTEND;VALUE=DATE:20110619
 RRULE:FREQ=YEARLY
 SUMMARY:David J.
-DESCRIPTION:David J. Nagel forms NUCAT Energy\, LLC.\n\nYear: 2011\nType: B
- usiness\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2011-6-18
+DESCRIPTION:David J. Nagel forms NUCAT Energy\, LLC. (See also CFN Podcast 
+ #1: https://www.lackluster.org/cf/#2018-1-3)\n\nYear: 2011\nType: Business
+ \nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2011-6-18
 CATEGORIES:Business
 URL:https://www.lackluster.org/cf/#2011-6-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bd7255f691ee5a4d@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20110618
-DTEND;VALUE=DATE:20110619
-RRULE:FREQ=YEARLY
-SUMMARY:David J.
-DESCRIPTION:David J. Nagel forms NUCAT Energy\, LLC. (See also CFN podcast 
- #1: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 2011\nType: Business\n
- Origin: US\n\nSource: https://www.lackluster.org/cf/#2011-6-18
-CATEGORIES:Business
-URL:https://www.lackluster.org/cf/#2011-6-18
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-bc3fdad7a8fab556@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ee720b1d4e34bc70@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110714
 DTEND;VALUE=DATE:20110715
 RRULE:FREQ=YEARLY
@@ -3689,15 +3527,15 @@ SUMMARY:Andrea Rossi describes to NASA a steam generator that uses 50 grams
   of micron-sized nickel powder and 1 gram of hydrogen gas.
 DESCRIPTION:Andrea Rossi describes to NASA a steam generator that uses 50 g
  rams of micron-sized nickel powder and 1 gram of hydrogen gas.\n\nYear: 20
- 11\nType: Federal\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#20
- 11-7-14
+ 11\nType: Federal\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2
+ 011-7-14
 CATEGORIES:Federal
 URL:https://www.lackluster.org/cf/#2011-7-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-317fde5f90f8c4a4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1ee5e72139a430d0@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110922
 DTEND;VALUE=DATE:20110923
 RRULE:FREQ=YEARLY
@@ -3706,59 +3544,43 @@ SUMMARY:LENR Workshop held at NASA Glenn Research Center features brief by
 DESCRIPTION:LENR Workshop held at NASA Glenn Research Center features brief
   by Chief Scientist NASA Langley Research Center Dennis Bushnell and Marsh
  all Spaceflight Center LENR group's Michael Nelson.\n\nYear: 2011\nType: S
- cience\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2011-9-22
+ cience\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2011-9-22
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2011-9-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fe51e582d0c097e4@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20110922
-DTEND;VALUE=DATE:20110923
-RRULE:FREQ=YEARLY
-SUMMARY:LENR Workshop outlines collaborative effort to study cold fusion at
-  three NASA centers\, along with an industry consortia.
-DESCRIPTION:LENR Workshop outlines collaborative effort to study cold fusio
- n at three NASA centers\, along with an industry consortia.\n\nYear: 2011\
- nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2011-
- 9-22
-CATEGORIES:Science
-URL:https://www.lackluster.org/cf/#2011-9-22
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-304d288944e0268b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b3b13f3bf827eb3d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20110923
 DTEND;VALUE=DATE:20110924
 RRULE:FREQ=YEARLY
 SUMMARY:LENR Workshop outlines collaborative study effort at three NASA cen
  ters.
 DESCRIPTION:LENR Workshop outlines collaborative study effort at three NASA
-  centers.\n\nYear: 2011\nType: Science\nOrigin: US\n\nSource: https://www.
- lackluster.org/cf/#2011-9-23
+  centers.\n\nYear: 2011\nType: Science\nOrigin: USA\n\nSource: https://www
+ .lackluster.org/cf/#2011-9-23
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2011-9-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-858ab3f8d34c2a13@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-575f066c797eb38d@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20111003
 DTEND;VALUE=DATE:20111004
 RRULE:FREQ=YEARLY
 SUMMARY:First Commercial Course on LENR held by NUCAT Energy.
 DESCRIPTION:First Commercial Course on LENR held by NUCAT Energy.\n\nYear: 
- 2011\nType: Science\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#
- 2011-10-3
+ 2011\nType: Science\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/
+ #2011-10-3
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2011-10-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7ea1417678653513@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-244d8a9ee5437c57@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20111028
 DTEND;VALUE=DATE:20111029
 RRULE:FREQ=YEARLY
@@ -3773,8 +3595,8 @@ URL:https://www.lackluster.org/cf/#2011-10-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fec1b12d003e7758@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-cf82f675cb2fd142@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20111111
 DTEND;VALUE=DATE:20111112
 RRULE:FREQ=YEARLY
@@ -3791,23 +3613,23 @@ URL:https://www.lackluster.org/cf/#2011-11-11
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-5feab88b158b49ee@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-979060318220bbf4@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120130
 DTEND;VALUE=DATE:20120131
 RRULE:FREQ=YEARLY
 SUMMARY:MIT Cold Fusion 101 course features public display of JET Energy NA
  NOR cell.
 DESCRIPTION:MIT Cold Fusion 101 course features public display of JET Energ
- y NANOR cell.\n\nYear: 2012\nType: Demo\nOrigin: US\n\nSource: https://www
- .lackluster.org/cf/#2012-1-30
+ y NANOR cell.\n\nYear: 2012\nType: Demo\nOrigin: USA\n\nSource: https://ww
+ w.lackluster.org/cf/#2012-1-30
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#2012-1-30
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-bdcc1dfbd983f2ed@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-6483d52d4379499e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120210
 DTEND;VALUE=DATE:20120211
 RRULE:FREQ=YEARLY
@@ -3815,30 +3637,30 @@ SUMMARY:The University of Missouri with Robert Duncan form the Sidney Kimme
  l Institute for Nuclear Renaissance (SKINR) to study LENR.
 DESCRIPTION:The University of Missouri with Robert Duncan form the Sidney K
  immel Institute for Nuclear Renaissance (SKINR) to study LENR.\n\nYear: 20
- 12\nType: Institute\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#
- 2012-2-10
+ 12\nType: Institute\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/
+ #2012-2-10
 CATEGORIES:Institute
 URL:https://www.lackluster.org/cf/#2012-2-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a12cd11d20057893@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a6c7c20ea7454015@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120321
 DTEND;VALUE=DATE:20120322
 RRULE:FREQ=YEARLY
 SUMMARY:George Miley presents design for LENR-based spacecraft power genera
  tor.
 DESCRIPTION:George Miley presents design for LENR-based spacecraft power ge
- nerator.\n\nYear: 2012\nType: Science\nOrigin: US\n\nSource: https://www.l
- ackluster.org/cf/#2012-3-21
+ nerator.\n\nYear: 2012\nType: Science\nOrigin: USA\n\nSource: https://www.
+ lackluster.org/cf/#2012-3-21
 CATEGORIES:Science
 URL:https://www.lackluster.org/cf/#2012-3-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-8fb9e1eaf04a65f2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b3a163e5232bf40f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120322
 DTEND;VALUE=DATE:20120323
 RRULE:FREQ=YEARLY
@@ -3853,8 +3675,8 @@ URL:https://www.lackluster.org/cf/#2012-3-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e0cdffa6643e66bc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-ca1b8bb970523dc5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120806
 DTEND;VALUE=DATE:20120807
 RRULE:FREQ=YEARLY
@@ -3862,15 +3684,15 @@ SUMMARY:National Instruments\, a scientific lab equipment and software make
  r based in Austin\, Texas opens NIWeek 2012 featuring LENR.
 DESCRIPTION:National Instruments\, a scientific lab equipment and software 
  maker based in Austin\, Texas opens NIWeek 2012 featuring LENR.\n\nYear: 2
- 012\nType: Demo\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2012
- -8-6
+ 012\nType: Demo\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#201
+ 2-8-6
 CATEGORIES:Demo
 URL:https://www.lackluster.org/cf/#2012-8-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-698786462005d7d4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8bacd960895a1bce@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20120812
 DTEND;VALUE=DATE:20120813
 RRULE:FREQ=YEARLY
@@ -3885,39 +3707,22 @@ URL:https://www.lackluster.org/cf/#2012-8-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-af2a1123c73a8e9f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1bf38d6ccb6023ec@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20121012
 DTEND;VALUE=DATE:20121013
 RRULE:FREQ=YEARLY
 SUMMARY:Cold fusion documentary The Believers wins Best Documentary.
 DESCRIPTION:Cold fusion documentary The Believers wins Best Documentary. ht
  tps://www.imdb.com/title/tt2265577/\n\nYear: 2012\nType: Movie\nOrigin: US
- \n\nSource: https://www.lackluster.org/cf/#2012-10-12
+ A\n\nSource: https://www.lackluster.org/cf/#2012-10-12
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2012-10-12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-19c898ae9af391c5@lackluster.org
-DTSTAMP:20260429T000000Z
-DTSTART;VALUE=DATE:20121203
-DTEND;VALUE=DATE:20121204
-RRULE:FREQ=YEARLY
-SUMMARY:Jean-Paul Biberian releases new book All about Fusion Cold Fusion\,
-  ITER\, Alchemy\, Biological Transmutations with Preface by Stanley Pons.
-DESCRIPTION:Jean-Paul Biberian releases new book All about Fusion Cold Fusi
- on\, ITER\, Alchemy\, Biological Transmutations with Preface by Stanley Po
- ns. (See also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)\n\nYe
- ar: 2012\nType: Publication\nOrigin: France\n\nSource: https://www.lacklus
- ter.org/cf/#2012-12-3
-CATEGORIES:Publication
-URL:https://www.lackluster.org/cf/#2012-12-3
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-76ad3553f5716209@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5e4d3f11f51cecab@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20121203
 DTEND;VALUE=DATE:20121204
 RRULE:FREQ=YEARLY
@@ -3926,16 +3731,16 @@ SUMMARY:Jean-Paul Biberian releases All About Fusion: Cold Fusion\, ITER\,
 DESCRIPTION:Jean-Paul Biberian releases All About Fusion: Cold Fusion\, ITE
  R\, Alchemy\, Biological Transmutations with Preface by Stanley Pons. http
  s://www.amazon.com/All-About-Fusion-ITER-Transmutations/dp/2354772041 (See
-  also CFN podcast #4: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 2012
- \nType: Publication\nOrigin: France\n\nSource: https://www.lackluster.org/
- cf/#2012-12-3
+  also CFN Podcast #4: https://www.lackluster.org/cf/#2018-2-14)\n\nYear: 2
+ 012\nType: Publication\nOrigin: France\n\nSource: https://www.lackluster.o
+ rg/cf/#2012-12-3
 CATEGORIES:Publication
 URL:https://www.lackluster.org/cf/#2012-12-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-252d0d0f8f2254c5@lackluster.org
-DTSTAMP:20260429T000000Z
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20130416
 DTEND;VALUE=DATE:20130417
 RRULE:FREQ=YEARLY
@@ -3943,14 +3748,15 @@ SUMMARY:Peter L.
 DESCRIPTION:Peter L. Hagelstein (MIT) granted US 8\,419\,919 — System and
   method for energy production based on phonon-assisted nuclear excitation 
  transfer. https://patents.google.com/patent/US8419919/en\n\nYear: 2013\nTy
- pe: Patent\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2013-4-16
+ pe: Patent\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2013-4-1
+ 6
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#2013-4-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-1d58370165730fad@lackluster.org
-DTSTAMP:20260429T000000Z
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20130716
 DTEND;VALUE=DATE:20130717
 RRULE:FREQ=YEARLY
@@ -3960,14 +3766,15 @@ SUMMARY:Andrea Rossi granted US 8\,485\,791 — Method and apparatus for ca
 DESCRIPTION:Andrea Rossi granted US 8\,485\,791 — Method and apparatus fo
  r carrying out nickel-hydrogen exothermal reactions (US grant of WO 2009/1
  25444). https://patents.google.com/patent/US8485791B2/en\n\nYear: 2013\nTy
- pe: Patent\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2013-7-16
+ pe: Patent\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2013-7-1
+ 6
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#2013-7-16
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-1167eeeb48987029@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f5d88f4f8b7534fe@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20130721
 DTEND;VALUE=DATE:20130722
 RRULE:FREQ=YEARLY
@@ -3975,15 +3782,15 @@ SUMMARY:ICCF-18 — International Conference on Condensed Matter Nuclear Sc
  ience held in Columbia\, Missouri\, USA.
 DESCRIPTION:ICCF-18 — International Conference on Condensed Matter Nuclea
  r Science held in Columbia\, Missouri\, USA. Proceedings / info: https://i
- scmns.org/iccf18/\n\nYear: 2013\nType: Conference\nOrigin: US\n\nSource: h
- ttps://www.lackluster.org/cf/#2013-7-21
+ scmns.org/iccf18/\n\nYear: 2013\nType: Conference\nOrigin: USA\n\nSource: 
+ https://www.lackluster.org/cf/#2013-7-21
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2013-7-21
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-28b1cc1b6f5a3073@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-777223a446d6bf53@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20140520
 DTEND;VALUE=DATE:20140521
 RRULE:FREQ=YEARLY
@@ -3993,15 +3800,15 @@ SUMMARY:Edmund Storms granted US 8\,728\,235 — Method and apparatus for c
 DESCRIPTION:Edmund Storms granted US 8\,728\,235 — Method and apparatus f
  or cold fusion based on the Hydroton model of nuclear-active environments 
  in palladium hydride. https://patents.google.com/patent/US8728235/en\n\nYe
- ar: 2014\nType: Patent\nOrigin: US\n\nSource: https://www.lackluster.org/c
- f/#2014-5-20
+ ar: 2014\nType: Patent\nOrigin: USA\n\nSource: https://www.lackluster.org/
+ cf/#2014-5-20
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#2014-5-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-cfb66ce1e15d2c12@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-b75614b235d56d8b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20150413
 DTEND;VALUE=DATE:20150414
 RRULE:FREQ=YEARLY
@@ -4016,8 +3823,8 @@ URL:https://www.lackluster.org/cf/#2015-4-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b54e7d6b38bc07b2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c4c24806243012f9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20150825
 DTEND;VALUE=DATE:20150826
 RRULE:FREQ=YEARLY
@@ -4027,15 +3834,15 @@ SUMMARY:Robert Godes / Brillouin Energy Corporation granted US 9\,115\,913
 DESCRIPTION:Robert Godes / Brillouin Energy Corporation granted US 9\,115\,
  913 — Energy generation apparatus based on controlled electron capture i
  n nickel-hydrogen lattice. https://patents.google.com/patent/US9115913B1/e
- n\n\nYear: 2015\nType: Patent\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#2015-8-25
+ n\n\nYear: 2015\nType: Patent\nOrigin: USA\n\nSource: https://www.lacklust
+ er.org/cf/#2015-8-25
 CATEGORIES:Patent
 URL:https://www.lackluster.org/cf/#2015-8-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-07d15d6a31e4dadd@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2751dd7ed59eba35@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20160101
 DTEND;VALUE=DATE:20160102
 RRULE:FREQ=YEARLY
@@ -4047,14 +3854,15 @@ DESCRIPTION:“Anomalous Effects in Deuterated Systems — Melvin Miles: Th
  in the Cold Fusion Now! Navy LENR Research Series\, soundtrack by Lacklust
  er (Esa Ruoho). Watch: https://www.youtube.com/watch?v=KM82RW7_II4 (See al
  so CFN podcast #12: https://coldfusionnow.org/cfnpodcast/)\n\nYear: 2016\n
- Type: Movie\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2016-1-1
+ Type: Movie\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2016-1-
+ 1
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2016-1-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-de1e4a182f6becb0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-a2397217f3b58306@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20161002
 DTEND;VALUE=DATE:20161003
 RRULE:FREQ=YEARLY
@@ -4069,8 +3877,8 @@ URL:https://www.lackluster.org/cf/#2016-10-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-d1f0bccfa62e1971@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-f4d9f712f96f456a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20170817
 DTEND;VALUE=DATE:20170818
 RRULE:FREQ=YEARLY
@@ -4079,15 +3887,15 @@ SUMMARY:“Hydroton — A Model of Cold Fusion” by Edmund Storms\, produc
 DESCRIPTION:“Hydroton — A Model of Cold Fusion” by Edmund Storms\, pr
  oduced by Cold Fusion Now!. Watch: https://www.youtube.com/watch?v=D4BPtwz
  sgiw (See also CFN podcast #19: https://coldfusionnow.org/cfnpodcast/)\n\n
- Year: 2017\nType: Movie\nOrigin: US\n\nSource: https://www.lackluster.org/
- cf/#2017-8-17
+ Year: 2017\nType: Movie\nOrigin: USA\n\nSource: https://www.lackluster.org
+ /cf/#2017-8-17
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2017-8-17
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-2c09d654434593ec@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-33b68c45f4171e25@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180103
 DTEND;VALUE=DATE:20180104
 RRULE:FREQ=YEARLY
@@ -4095,15 +3903,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 001 — Dr. David J. Nagel: Introd
  uction to Condensed Matter Nuclear Science. https://coldfusionnow.org/cfnp
  odcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_
- 001_David_J_Nagel.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#2018-1-3
+ 001_David_J_Nagel.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#2018-1-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-1-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-67edb1f4cea9efdc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7787864ba1154101@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180110
 DTEND;VALUE=DATE:20180111
 RRULE:FREQ=YEARLY
@@ -4111,15 +3919,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 002 — Dr. Michael McKubre: SRI I
  nternational's 30-Year LENR Program. https://coldfusionnow.org/cfnpodcast/
   Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_002_Mic
- hael_McKubre.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https
- ://www.lackluster.org/cf/#2018-1-10
+ hael_McKubre.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: http
+ s://www.lackluster.org/cf/#2018-1-10
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-1-10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0e5e2f331198f75d@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-718e4bc7736f2453@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
 RRULE:FREQ=YEARLY
@@ -4127,15 +3935,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 003 — Dr. Andrew Meulenberg: Dee
  p Electron Orbits Theory. https://coldfusionnow.org/cfnpodcast/ Audio: htt
  ps://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_003_Andrew_Meulenb
- erg.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.la
- ckluster.org/cf/#2018-1-20
+ erg.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.l
+ ackluster.org/cf/#2018-1-20
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-1-20
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-7a51bd755719db33@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-090adc3a97c66d18@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180214
 DTEND;VALUE=DATE:20180215
 RRULE:FREQ=YEARLY
@@ -4143,15 +3951,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 004 — Dr. Jean-Paul Biberian: LE
  NR Research in France & The Journal of CMNS. https://coldfusionnow.org/cfn
  podcast/ Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN
- _004_Jean-Paul_Biberian.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSo
- urce: https://www.lackluster.org/cf/#2018-2-14
+ _004_Jean-Paul_Biberian.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nS
+ ource: https://www.lackluster.org/cf/#2018-2-14
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-2-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b107dc45ac7dfc9f@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-e0a1c4294d35fd8f@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180306
 DTEND;VALUE=DATE:20180307
 RRULE:FREQ=YEARLY
@@ -4159,15 +3967,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 005 — Alan Smith: LookingForHeat
  .com & Open Science Reactors. https://coldfusionnow.org/cfnpodcast/ Audio:
   https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_005_Alan_Smith
- .mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lackl
- uster.org/cf/#2018-3-6
+ .mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.lack
+ luster.org/cf/#2018-3-6
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-3-6
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-36bd165265ca5703@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-854ca17b7f619c56@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180314
 DTEND;VALUE=DATE:20180315
 RRULE:FREQ=YEARLY
@@ -4176,14 +3984,14 @@ DESCRIPTION:Cold Fusion Now! Podcast Ep. 006 — William Collis: ISCMNS: Th
  e International Society of Condensed Matter Nuclear Science. https://coldf
  usionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/uploa
  ds/2025/11/A_CFN_006_William_Collis.mp3\n\nYear: 2018\nType: Podcast\nOrig
- in: US\n\nSource: https://www.lackluster.org/cf/#2018-3-14
+ in: USA\n\nSource: https://www.lackluster.org/cf/#2018-3-14
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-3-14
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-338ee5e444ceae56@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-bec57ff8bf1b4a1b@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180323
 DTEND;VALUE=DATE:20180324
 RRULE:FREQ=YEARLY
@@ -4191,15 +3999,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 007 — Dr. Mahadeva Srinivasan: B
  ARC India & The Transmutation Puzzle. https://coldfusionnow.org/cfnpodcast
  / Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_007_Ma
- hadeva_Srinivasan.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: 
- https://www.lackluster.org/cf/#2018-3-23
+ hadeva_Srinivasan.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource:
+  https://www.lackluster.org/cf/#2018-3-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-3-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-45a45b76394a74d1@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-31d7dcab925b9fdc@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180403
 DTEND;VALUE=DATE:20180404
 RRULE:FREQ=YEARLY
@@ -4207,30 +4015,30 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 008 — David J. French: LENR Pate
  nts & Intellectual Property. https://coldfusionnow.org/cfnpodcast/ Audio: 
  https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_008_David_Frenc
- h.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lack
- luster.org/cf/#2018-4-3
+ h.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.lac
+ kluster.org/cf/#2018-4-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-4-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-a17f7e404aebb89a@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7c2aeef95ab006c9@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180413
 DTEND;VALUE=DATE:20180414
 RRULE:FREQ=YEARLY
 SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 009 — Abd ul-Rahman Lomax: Docum
  enting the Rossi vs Industrial Heat Lawsuit. https://coldfusionnow.org/cfn
- podcast/\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.l
- ackluster.org/cf/#2018-4-13
+ podcast/\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.
+ lackluster.org/cf/#2018-4-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-4-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-eeb35082c0c30143@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-11e1013010902526@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180423
 DTEND;VALUE=DATE:20180424
 RRULE:FREQ=YEARLY
@@ -4238,15 +4046,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 010 — Mats Lewan: Andrea Rossi\,
   E-Cat\, and New Energy Technology. https://coldfusionnow.org/cfnpodcast/ 
  Audio: https://coldfusionnow.org/wp-content/uploads/2025/11/A_CFN_010_Mats
- _Lewan.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www
- .lackluster.org/cf/#2018-4-23
+ _Lewan.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://ww
+ w.lackluster.org/cf/#2018-4-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-4-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-35035695c01d0dfc@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-421c96fbe5351ad5@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180503
 DTEND;VALUE=DATE:20180504
 RRULE:FREQ=YEARLY
@@ -4255,14 +4063,14 @@ DESCRIPTION:Cold Fusion Now! Podcast Ep. 011 — Dr. Vladimir Vysotskii: Bi
  ological Transmutations and Deactivation of Radioactive Isotopes. https://
  coldfusionnow.org/cfnpodcast/ Audio: https://coldfusionnow.org/wp-content/
  uploads/2025/11/A_CFN_011_Vladimir_Vysotskii.mp3\n\nYear: 2018\nType: Podc
- ast\nOrigin: US\n\nSource: https://www.lackluster.org/cf/#2018-5-3
+ ast\nOrigin: USA\n\nSource: https://www.lackluster.org/cf/#2018-5-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-5-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c9972fb85064ce4e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-fa937e705257af2a@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180513
 DTEND;VALUE=DATE:20180514
 RRULE:FREQ=YEARLY
@@ -4270,15 +4078,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 012 — Dr. Melvin Miles: The Heat
  -Helium Discovery. https://coldfusionnow.org/cfnpodcast/ Audio: http://www
  .coldfusionnow.com/podcast/Ruby-Carat-Melvin-Miles-Cold-Fusion-Now-012.mp3
- \n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lackluste
- r.org/cf/#2018-5-13
+ \n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.lacklust
+ er.org/cf/#2018-5-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-5-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-dfd6d1400edd9a9b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-7daa32e449879bfe@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180603
 DTEND;VALUE=DATE:20180604
 RRULE:FREQ=YEARLY
@@ -4286,31 +4094,31 @@ SUMMARY:ICCF-21 — International Conference on Condensed Matter Nuclear Sc
  ience held in Fort Collins\, Colorado\, USA.
 DESCRIPTION:ICCF-21 — International Conference on Condensed Matter Nuclea
  r Science held in Fort Collins\, Colorado\, USA. Proceedings / info: https
- ://iccf21.com/\n\nYear: 2018\nType: Conference\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#2018-6-3
+ ://iccf21.com/\n\nYear: 2018\nType: Conference\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#2018-6-3
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2018-6-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-db3d16476b64a7ae@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-58df7b36673c5ea7@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180702
 DTEND;VALUE=DATE:20180703
 RRULE:FREQ=YEARLY
 SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 013 — Dr. Michael McKubre: Fleis
- chmann-Ponds Heat: What Do We Know and Why?. https://coldfusionnow.org/cfn
- podcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Michael-Mc
- Kubre-Cold-Fusion-Now-013.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\n
+ chmann-Pons Heat: What Do We Know and Why?. https://coldfusionnow.org/cfnp
+ odcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Michael-McK
+ ubre-Cold-Fusion-Now-013.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\n
  Source: https://www.lackluster.org/cf/#2018-7-2
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-7-2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fd6f56f8d69e3271@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-8de4fed313d49585@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180903
 DTEND;VALUE=DATE:20180904
 RRULE:FREQ=YEARLY
@@ -4318,15 +4126,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 014 — Alan Goldwater: Open Scien
  ce LENR Research. https://coldfusionnow.org/cfnpodcast/ Audio: http://www.
  coldfusionnow.com/podcast/Ruby-Carat-Alan-Goldwater-Cold-Fusion-Now-014.mp
- 3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: https://www.lacklust
- er.org/cf/#2018-9-3
+ 3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: https://www.lacklus
+ ter.org/cf/#2018-9-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-9-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-4b4c2afcf578c0b4@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-41d86b8e02b36d3e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180913
 DTEND;VALUE=DATE:20180914
 RRULE:FREQ=YEARLY
@@ -4334,15 +4142,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 015 — Dr. Dennis Cravens: Seven 
  Watts Excess Heat and Laser Experiments. https://coldfusionnow.org/cfnpodc
  ast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Dennis-Cravens
- -Cold-Fusion-Now-015.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSourc
- e: https://www.lackluster.org/cf/#2018-9-13
+ -Cold-Fusion-Now-015.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSour
+ ce: https://www.lackluster.org/cf/#2018-9-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-9-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b966ef4eeac1538b@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-43270f236c159094@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20180923
 DTEND;VALUE=DATE:20180924
 RRULE:FREQ=YEARLY
@@ -4350,15 +4158,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 016 — Dr. Pamela Mosier-Boss: CR
  -39 Nuclear Evidence from Navy SPAWAR. https://coldfusionnow.org/cfnpodcas
  t/ Audio: https://www.coldfusionnow.com/podcast/Ruby-Carat-Pam-Boss-Cold-F
- usion-Now-016.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: http
- s://www.lackluster.org/cf/#2018-9-23
+ usion-Now-016.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: htt
+ ps://www.lackluster.org/cf/#2018-9-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-9-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-287752045fb37b84@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-403846eb328af7b2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20181013
 DTEND;VALUE=DATE:20181014
 RRULE:FREQ=YEARLY
@@ -4366,15 +4174,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 017 — Dr. Francis Tanzella: 29 Y
  ears of LENR Research at SRI International. https://coldfusionnow.org/cfnp
  odcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Francis-Tan
- zella-Cold-Fusion-Now-017.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\n
- Source: https://www.lackluster.org/cf/#2018-10-13
+ zella-Cold-Fusion-Now-017.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\
+ nSource: https://www.lackluster.org/cf/#2018-10-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-10-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-22b4bb8dce998184@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-1d8d9ff6fcd9e376@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20181023
 DTEND;VALUE=DATE:20181024
 RRULE:FREQ=YEARLY
@@ -4382,15 +4190,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 018 — David Daggett: From Aerosp
  ace Engineering to LENR to Politics. https://coldfusionnow.org/cfnpodcast/
   Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-David-Daggett-Cold
- -Fusion-Now-018.mp3\n\nYear: 2018\nType: Podcast\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#2018-10-23
+ -Fusion-Now-018.mp3\n\nYear: 2018\nType: Podcast\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#2018-10-23
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2018-10-23
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-22d84f722e2d9557@lackluster.org
-DTSTAMP:20260429T000000Z
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20181218
 DTEND;VALUE=DATE:20181219
 RRULE:FREQ=YEARLY
@@ -4407,8 +4215,8 @@ URL:https://www.lackluster.org/cf/#2018-12-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-88a2386dafde547e@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-71a2743e70d7d6a3@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190113
 DTEND;VALUE=DATE:20190114
 RRULE:FREQ=YEARLY
@@ -4416,15 +4224,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 019 — Dr. Edmund Storms: The Hyd
  roton Model and 30 Years of LENR Research. https://coldfusionnow.org/cfnpo
  dcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Edmund-Storm
- s-Cold-Fusion-Now-019.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSour
- ce: https://www.lackluster.org/cf/#2019-1-13
+ s-Cold-Fusion-Now-019.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSou
+ rce: https://www.lackluster.org/cf/#2019-1-13
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-1-13
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-84fb3f3e95b1a6e0@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-64b29dcb063c0506@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190115
 DTEND;VALUE=DATE:20190116
 RRULE:FREQ=YEARLY
@@ -4432,15 +4240,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 020 — Robert Godes: Brillouin En
  ergy: 2X Thermal Gain Achieved. https://coldfusionnow.org/cfnpodcast/ Audi
  o: http://www.coldfusionnow.com/podcast/Ruby-Carat-Robert-Godes-Cold-Fusio
- n-Now-020.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: https://
- www.lackluster.org/cf/#2019-1-15
+ n-Now-020.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSource: https:/
+ /www.lackluster.org/cf/#2019-1-15
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-1-15
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-0adc1a0bba4efae9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-50c785fe00fddd73@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190219
 DTEND;VALUE=DATE:20190220
 RRULE:FREQ=YEARLY
@@ -4448,15 +4256,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 021 — Dr. Yasuhiro Iwamura: Tran
  smutation Research and Clean Planet. https://coldfusionnow.org/cfnpodcast/
   Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Yasuhiro-Iwamura-C
- old-Fusion-Now-021.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource:
-  https://www.lackluster.org/cf/#2019-2-19
+ old-Fusion-Now-021.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSource
+ : https://www.lackluster.org/cf/#2019-2-19
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-2-19
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b3e4f7f8b5b12ab8@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-dcfc15025e0b2558@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190318
 DTEND;VALUE=DATE:20190319
 RRULE:FREQ=YEARLY
@@ -4464,15 +4272,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 022 — Dr. Stephen C. Bannister: 
  Energy Economics and Industrial Revolutions. https://coldfusionnow.org/cfn
  podcast/ Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Stephen-Ba
- nnister-Cold-Fusion-Now-022.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n
- \nSource: https://www.lackluster.org/cf/#2019-3-18
+ nnister-Cold-Fusion-Now-022.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\
+ n\nSource: https://www.lackluster.org/cf/#2019-3-18
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-3-18
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-e05367e20053b0f7@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-706163d9e98e3cec@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190428
 DTEND;VALUE=DATE:20190429
 RRULE:FREQ=YEARLY
@@ -4480,15 +4288,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 023 — Dr. Dimiter Alexandrov: He
  lium Production in Transition Metals. https://coldfusionnow.org/cfnpodcast
  / Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Dimiter-Alexandro
- v-Cold-Fusion-Now-023.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSour
- ce: https://www.lackluster.org/cf/#2019-4-28
+ v-Cold-Fusion-Now-023.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSou
+ rce: https://www.lackluster.org/cf/#2019-4-28
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-4-28
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-ceb4f95a01ee3f29@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-0e6242b3055ffd55@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190527
 DTEND;VALUE=DATE:20190528
 RRULE:FREQ=YEARLY
@@ -4500,15 +4308,15 @@ DESCRIPTION:“Revisiting the cold case of cold fusion” published in Natu
   Trevithick — Google's four-year\, $10M multi-institution program (UBC\,
   MIT\, LBNL) revisits palladium hydride excess heat and develops new measu
  rement techniques for the field. Nature 569: 581–588. https://doi.org/10
- .1038/s41586-019-1256-6\n\nYear: 2019\nType: Key Experiment\nOrigin: US\n\
- nSource: https://www.lackluster.org/cf/#2019-5-27
+ .1038/s41586-019-1256-6\n\nYear: 2019\nType: Key Experiment\nOrigin: USA\n
+ \nSource: https://www.lackluster.org/cf/#2019-5-27
 CATEGORIES:Key Experiment
 URL:https://www.lackluster.org/cf/#2019-5-27
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-c64542b59aeb2ce9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-718db58bef39cb27@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190605
 DTEND;VALUE=DATE:20190606
 RRULE:FREQ=YEARLY
@@ -4516,15 +4324,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 024 — Dr. Sveinn Olafsson: Ultra
  -Dense Hydrogen and Rydberg Matter. https://coldfusionnow.org/cfnpodcast/ 
  Audio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Sveinn-Olafsson-Col
- d-Fusion-Now-024.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: h
- ttps://www.lackluster.org/cf/#2019-6-5
+ d-Fusion-Now-024.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSource: 
+ https://www.lackluster.org/cf/#2019-6-5
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-6-5
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-b22968fa1b36d9d9@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-846d8fe5981c67cd@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190703
 DTEND;VALUE=DATE:20190704
 RRULE:FREQ=YEARLY
@@ -4532,15 +4340,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 025 — Sergei Tcvetkov: Titanium-
  Deuterium LENR Research in Russia. https://coldfusionnow.org/cfnpodcast/ A
  udio: http://www.coldfusionnow.com/podcast/Ruby-Carat-Sergei-Tcvetkov-Cold
- -Fusion-Now-025.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: ht
- tps://www.lackluster.org/cf/#2019-7-3
+ -Fusion-Now-025.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSource: h
+ ttps://www.lackluster.org/cf/#2019-7-3
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-7-3
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-53effa66694ce084@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-2f3e1d5593f61976@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190908
 DTEND;VALUE=DATE:20190909
 RRULE:FREQ=YEARLY
@@ -4555,8 +4363,8 @@ URL:https://www.lackluster.org/cf/#2019-9-8
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-39a7d8a4c9297416@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-55d335069a0a4bb2@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20190922
 DTEND;VALUE=DATE:20190923
 RRULE:FREQ=YEARLY
@@ -4564,15 +4372,15 @@ SUMMARY:Cold Fusion Now!
 DESCRIPTION:Cold Fusion Now! Podcast Ep. 026 — Frank Acland: E-Cat World 
  and Following Andrea Rossi. https://coldfusionnow.org/cfnpodcast/ Audio: h
  ttp://www.coldfusionnow.com/podcast/Ruby-Carat-Frank-Acland-Cold-Fusion-No
- w-026.mp3\n\nYear: 2019\nType: Podcast\nOrigin: US\n\nSource: https://www.
- lackluster.org/cf/#2019-9-22
+ w-026.mp3\n\nYear: 2019\nType: Podcast\nOrigin: USA\n\nSource: https://www
+ .lackluster.org/cf/#2019-9-22
 CATEGORIES:Podcast
 URL:https://www.lackluster.org/cf/#2019-9-22
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-685af9a85a4005d2@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-c87447f90d6c2664@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20210609
 DTEND;VALUE=DATE:20210610
 RRULE:FREQ=YEARLY
@@ -4587,8 +4395,8 @@ URL:https://www.lackluster.org/cf/#2021-6-9
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-615cc6e5ebda64ad@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-28649bfafdc76693@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20220725
 DTEND;VALUE=DATE:20220726
 RRULE:FREQ=YEARLY
@@ -4597,14 +4405,14 @@ SUMMARY:ICCF-24 — International Conference on Condensed Matter Nuclear Sc
 DESCRIPTION:ICCF-24 — International Conference on Condensed Matter Nuclea
  r Science held in Mountain View\, California\, USA. Proceedings / info: ht
  tps://anthropoceneinstitute.com/iccf24/\n\nYear: 2022\nType: Conference\nO
- rigin: US\n\nSource: https://www.lackluster.org/cf/#2022-7-25
+ rigin: USA\n\nSource: https://www.lackluster.org/cf/#2022-7-25
 CATEGORIES:Conference
 URL:https://www.lackluster.org/cf/#2022-7-25
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-907fcc04ab205aa3@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-678bd8b9dbf3840e@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20230827
 DTEND;VALUE=DATE:20230828
 RRULE:FREQ=YEARLY
@@ -4620,7 +4428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-0a854fe47a8ed909@lackluster.org
-DTSTAMP:20260429T000000Z
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20240101
 DTEND;VALUE=DATE:20240102
 RRULE:FREQ=YEARLY
@@ -4630,16 +4438,34 @@ DESCRIPTION:“Hydrogen Metal Energy Nanopowder” released — Cold Fusion
   Now! documentary on Jean-Paul Biberian\, Robert Michel\, Christophe Le Ro
  ux\, Mathieu Valat\, and Jacques Ruer's CLEAN-HME nanopowder research\, fi
  lmed in France March 2024\, soundtrack by Lackluster (Esa Ruoho). https://
- coldfusionnow.org/ (See also CFN podcast #4: https://coldfusionnow.org/cfn
- podcast/)\n\nYear: 2024\nType: Movie\nOrigin: France\n\nSource: https://ww
- w.lackluster.org/cf/#2024-1-1
+ coldfusionnow.org/ (See also CFN Podcast #4: https://www.lackluster.org/cf
+ /#2018-2-14)\n\nYear: 2024\nType: Movie\nOrigin: France\n\nSource: https:/
+ /www.lackluster.org/cf/#2024-1-1
 CATEGORIES:Movie
 URL:https://www.lackluster.org/cf/#2024-1-1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-3743cc5b988adc24@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-75ee4f4d047f60a3@lackluster.org
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240302
+RRULE:FREQ=YEARLY
+SUMMARY:“Hydrogen Metal Energy Nanopowder” released — Cold Fusion Now
+ !
+DESCRIPTION:“Hydrogen Metal Energy Nanopowder” released — Cold Fusion
+  Now! documentary on Jean-Paul Biberian\, Robert Michel\, Christophe Le Ro
+ ux\, Mathieu Valat\, and Jacques Ruer's CLEAN-HME nanopowder research\, fi
+ lmed in France March 2024\, soundtrack by Lackluster (Esa Ruoho). https://
+ coldfusionnow.org/\n\nYear: 2024\nType: Movie\nOrigin: France\n\nSource: h
+ ttps://www.lackluster.org/cf/#2024-3-1
+CATEGORIES:Movie
+URL:https://www.lackluster.org/cf/#2024-3-1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-20e2ca7a22c73409@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250527
 RRULE:FREQ=YEARLY
@@ -4654,8 +4480,8 @@ URL:https://www.lackluster.org/cf/#2025-5-26
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cf-fd6f0ece0ba63237@lackluster.org
-DTSTAMP:20260429T000000Z
+UID:cf-5b9e328e1aeef811@lackluster.org
+DTSTAMP:20260430T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 RRULE:FREQ=YEARLY

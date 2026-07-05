@@ -164,6 +164,11 @@ class FusionCalendar {
         document.getElementById('todayBtn').addEventListener('click', () => this.jumpToday());
         document.getElementById('copyAllBtn').addEventListener('click', (e) => this.copyAll(e.currentTarget));
         document.getElementById('viewToggleBtn').addEventListener('click', () => this.toggleView());
+        document.getElementById('tagsToggleBtn').addEventListener('click', (e) => {
+            const chips = document.getElementById('filterChips');
+            const open = chips.classList.toggle('collapsed') === false;
+            e.currentTarget.setAttribute('aria-expanded', String(open));
+        });
 
         document.getElementById('quoteText').addEventListener('click', () => this.drawQuote());
         document.getElementById('quoteShuffleBtn').addEventListener('click', (e) => { e.stopPropagation(); this.drawQuote(); });
@@ -560,7 +565,7 @@ class FusionCalendar {
     scrollToDay(day) {
         const panel = document.getElementById('eventDetails');
         const target = panel.querySelector(`.event-card.highlight[data-day="${day}"]`);
-        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     buildClipboardText() {
